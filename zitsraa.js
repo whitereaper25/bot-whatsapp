@@ -66,22 +66,22 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Zitsraaシ︎\n'
-            + 'ORG:Owner Hanz;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281226770537:+62 831-1800-241\n'
+            + 'FN:REAPER KING\n'
+            + 'ORG:SLAIN DEVILs;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=919080896537:+919080896537\n'
             + 'END:VCARD'
 
-prefix = "z"
-name = " HANZ BOT"
+prefix = "#"
+name = "HINATA BOT"
 meymec = "𝙇𝙀𝙑𝙀𝙇𝙄𝙉𝙂"
-rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN HANZ BOT😁"
+rdaftar = "HINATA BOT❤"
 rmenu = "𝙕𝙞𝙩𝙨𝙧𝙖𝙖"
 zodiak = "𝙂𝙀𝙏 𝙕𝙊𝘿𝙄𝘼𝙆"
 botinfo = "𝙄𝙉𝙁𝙊 𝘽𝙊𝙏︎"
 limitt = 9999
-memberLimit = 2
+memberLimit = 1000
 ban = []
-premium = ["6281226770537@s.whatsapp.net"]
+premium = ["919080896537@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
@@ -110,7 +110,7 @@ function monospace(string) {
 return '```' + string + '```'
 }
 function addMetadata(packname, author) {
-				if (!packname) packname = 'termux-bot-wa'; if (!author) author = ' Zitsraa';
+				if (!packname) packname = 'NARUTO'; if (!author) author = ' HINATA';
 				author = author.replace(/[^a-zA-Z0-9]/g, '');
 				let name = `${author}_${packname}`
 
@@ -245,16 +245,16 @@ Admin : 𝙁𝙖𝙡𝙨𝙚 >_<
  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐈𝐧 𝐆𝐫𝐨𝐮𝐩 ${mdata.subject} 
  
  ◪ Intro dulu jangan seleb ya kak >_<
-     +  ❏   Nama              :
-     +  ❏   Askot               :
-     +  ❏   Umur                :
+     +  ❏   Name               :
+     +  ❏   country            :
+     +  ❏   age                :
      +  ❏   Gender             :
-     +  ❏   Instagram       :
-     +  ❏   Zodiak             :
+     +  ❏   Instagram          :
+     +  ❏   Zodiac             :
 
 𝗡𝗢𝗧𝗘 :
-     𝘚𝘪𝘭𝘢𝘩𝘬𝘢𝘯 𝘱𝘦𝘳𝘢𝘵𝘶𝘩𝘪 𝘱𝘦𝘳𝘢𝘵𝘶𝘢𝘯 𝘎𝘳𝘰𝘶𝘱 𝘪𝘯𝘪!
-     𝘑𝘢𝘯𝘨𝘢𝘯 𝘭𝘶𝘱𝘢 𝘪𝘯𝘵𝘳𝘰𝘯𝘺𝘢 𝘬𝘢𝘬 >_<
+    welcome to the group and enjoy!
+    The bot made with love for hinata by naruto >_<
      
  𝘊𝘰𝘮𝘮𝘢𝘯𝘥 𝘉𝘖𝘛 𝘛𝘺𝘱𝘦 : ${prefix}menu`
 
@@ -272,7 +272,7 @@ Status : 𝙁𝙖𝙡𝙨𝙚 -,-
 ────────────────
 
 𝗧𝗘𝗟𝗔𝗛 𝗞𝗘𝗟𝗨𝗔𝗥 𝗗𝗔𝗥𝗜 𝗚𝗥𝗢𝗨𝗣 𝗜𝗡𝗜 -,-
-𝙈𝙖𝙧𝙞 𝙙𝙤𝙖𝙠𝙖𝙣 𝘼𝙡-𝙁𝙖𝙩𝙞𝙝𝙖𝙝 𝙖𝙜𝙖𝙧 𝙩𝙚𝙣𝙖𝙣𝙜 𝙙𝙞𝙨𝙖𝙣𝙖...
+i will not miss u, anyway...
 
 𝘚𝘢𝘺𝘰𝘯𝘢𝘳𝘢𝘢👋👋	`
 				let buff = await getBuffer(ppimg)
@@ -353,7 +353,7 @@ Hai Kak ${pushname2}
 Kamu Belum Terdaftar Didatabase Silahkan Ketik 
 ${prefix}verify
 
-────「 𝗭𝗜𝘁𝘀𝗿𝗮𝗮 𝗕𝗢𝗧 」────`,
+────「 HINATA 𝗕𝗢𝗧 」────`,
 					admin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴏʟᴇʜ ᴀᴅᴍɪɴ ɢʀᴏᴜᴩ!*',
 					Badmin: '*ᴍᴀᴀꜰ ᴩᴇʀɪɴᴛᴀʜ ɪɴɪ ʜᴀɴyᴀ ʙɪꜱᴀ ᴅɪ ɢᴜɴᴀᴋᴀɴ ᴋᴇᴛɪᴋᴀ ʙᴏᴛ ᴍᴇɴᴊᴀᴅɪ ᴀᴅᴍɪɴ!*',
 					publikG: `*ᴍᴀᴀꜰ ʙᴏᴛ ꜱᴇᴋᴀʀᴀɴɢ ꜱᴜᴅᴀʜ ᴅɪᴩʀɪᴠᴀᴛᴇ ᴏʟᴇʜ ᴏᴡɴᴇʀ*\n*ᴜɴᴛᴜᴋ ʟᴇʙɪʜ ᴊᴇʟᴀꜱɴyᴀ ᴋᴇᴛɪᴋ*\n*${prefix}infobot*`
@@ -361,7 +361,7 @@ ${prefix}verify
 			}
 
 			const botNumber = Zitsraa.user.jid
-			const ownerNumber = ["6281226770537@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["919080896537@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 const q = args.join(' ')
 			const sender = isGroup ? mek.participant : freply.key.remoteJid
@@ -794,11 +794,11 @@ case 'blackpink':
 					}
 					captionnya = `◪ 𝗣𝗘𝗡𝗗𝗔𝗙𝗧𝗔𝗥
 
- +  ❏   *Register berhasil*
+ +  ❏   *DATA Register*
 
- +  ❏   *Pada  :*  ${date} ${time}
- +  ❏   *Nama  :*  ${pushname2}
- +  ❏   *Nomor :*  wa.me/${sender.split("@")[0]}
+ +  ❏   *registered at  :*  ${date} ${time}
+ +  ❏   *Name  :*  ${pushname2}
+ +  ❏   *Number :*  wa.me/${sender.split("@")[0]}
 
   
 Untuk menggunakan bot silahkan
@@ -875,11 +875,11 @@ case 'gemuk':
 					} catch {
 					ppimg = 'https://i.ibb.co/QXxnsQS/b575e8aa570b.jpg'
 					}
-					zitsraa = `┏━━━━《 Zitsraa-BOTシ︎ 》━━━━
+					zitsraa = `┏━━━━《 HINATA BOT 》━━━━
 ┃        
 ┣◪ 「 *INFO* 」
-┃https://tīnyurl.com/Zitsraa-BOTシ
-┣ ❏ NAMA       :  ${pushname2}
+┃  HINATA BOT COMMANDS
+┣ ❏ NAME       :  ${pushname2}
 ┣ ❏ USER BOT   :  ${user.length}
 ┣ ❏ Owner      :  Zitsraaシ
 ┣ ❏ LibBot by  :  Baileys
@@ -1264,8 +1264,8 @@ case 'gemuk':
 ┣ ❏ ${prefix}joox
 ┣ ❏ ${prefix}joox2
 ┣ ❏ ${prefix}smule
-┃
-┗━━━━《 Zitsraa-BOTシ︎ 》━━━━`
+┃ MADE WITH LOVE FOR HINATA BY NARUTO
+┗━━━━《 HINATA BOT 》━━━━`
 
 asoo = await getBuffer(ppimg)
 Zitsraa.sendMessage(from, asoo, image, { quoted: freply, caption: zitsraa })
