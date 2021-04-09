@@ -79,7 +79,7 @@ rmenu = "𝙕𝙞𝙩𝙨𝙧𝙖𝙖"
 zodiak = "𝙂𝙀𝙏 𝙕𝙊𝘿𝙄𝘼𝙆"
 botinfo = "𝙄𝙉𝙁𝙊 𝘽𝙊𝙏︎"
 limitt = 9999
-memberLimit = 1000
+memberLimit = 1
 ban = []
 premium = ["919080896537@s.whatsapp.net"]
 
@@ -244,7 +244,7 @@ Admin : 𝙁𝙖𝙡𝙨𝙚 >_<
 
  𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐈𝐧 𝐆𝐫𝐨𝐮𝐩 ${mdata.subject} 
  
- ◪ Intro dulu jangan seleb ya kak >_<
+ ◪ Intro newbie >_<
      +  ❏   Name               :
      +  ❏   country            :
      +  ❏   age                :
