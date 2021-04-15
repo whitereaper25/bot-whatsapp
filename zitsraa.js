@@ -1115,7 +1115,6 @@ case 'gemuk':
 ┣ ❏ ${prefix}jarak 
 ┣ ❏ ${prefix}info
 ┣ ❏ ${prefix}infobot
-┣ ❏ ${prefix}pbot
 ┣ ❏ ${prefix}wame
 ┣ ❏ ${prefix}phsearch
 ┣ ❏ ${prefix}ytsearch
