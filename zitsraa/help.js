@@ -212,7 +212,6 @@ const help = (prefix, instagram, getLevelingLevel, getLevelingXp, sender, name, 
 ├ ${prefix}jarak 
 ├ ${prefix}info
 ├ ${prefix}infobot
-├ ${prefix}pbot
 ├ ${prefix}wame
 ├ ${prefix}liststik
 ├ ${prefix}cogab
