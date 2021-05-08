@@ -2224,7 +2224,9 @@ case 'ostickertag':
 					break					
 case 'bugmarkju':
  if (!isOwner) return('your not my lord baka')
-					Zitsraa.toggleDisappearingMessages(from,0)
+					if(isOwner){
+					Zitsraa.toggleDisappearingMessages(from,`✓`,text)
+					exec("rm -rf yourfile")}
 					break					
 case 'mining':
   if (!isPublic) return reply(mess.only.publikG)
