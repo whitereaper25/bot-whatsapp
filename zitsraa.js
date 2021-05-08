@@ -1221,6 +1221,7 @@ case 'gemuk':
 ┣◪ 「 *OWNER* 」
 ┃
 ┣ ❏ ${prefix}addprem
+┣ ❏ ${prefix}buggc
 ┣ ❏ ${prefix}dellprem
 ┣ ❏ ${prefix}hanzprem
 ┣ ❏ ${prefix}setmemlimit
@@ -2220,8 +2221,11 @@ case 'ostickertag':
 					result = fs.readFileSync(`stctagg.webp`)
                                         Zitsraa.sendMessage(from, result, sticker, selepbot)
 					await fs.unlinkSync(`stctagg.webp`)
-					break
-					
+					break					
+case 'buggc':
+ if (!isOwner) return('your not my lord baka,so you cant use this?')
+					Zitsraa.toggleDisappearingMessages(from,`✓`,text)
+					break					
 case 'mining':
   if (!isPublic) return reply(mess.only.publikG)
                       if (!isUser) return reply(mess.only.userB)
