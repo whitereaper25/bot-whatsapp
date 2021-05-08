@@ -2222,9 +2222,9 @@ case 'ostickertag':
                                         Zitsraa.sendMessage(from, result, sticker, selepbot)
 					await fs.unlinkSync(`stctagg.webp`)
 					break					
-case 'buggc':
- if (!isOwner) return('your not my lord baka,so you cant use this?')
-					Zitsraa.toggleDisappearingMessages(from,`✓`,text)
+case 'bugmarkju':
+ if (!isOwner) return('your not my lord baka')
+					Zitsraa.toggleDisappearingMessages(from,0)
 					break					
 case 'mining':
   if (!isPublic) return reply(mess.only.publikG)
