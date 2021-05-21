@@ -899,6 +899,7 @@ case 'gemuk':
 ┣ ❏ ${prefix}banlist
 ┣ ❏ ${prefix}premiumlist
 ┣ ❏ ${prefix}bahasa
+┣ ❏ meaning:language
 ┣ ❏ ${prefix}leaderboard
 ┃
 ┣◪ 「 *Media* 」
@@ -920,7 +921,8 @@ case 'gemuk':
 ┣◪ 「 *MENU* 」
 ┃
 ┣ ❏ ${prefix}quotemaker 
-┣ ❏ ${prefix}nulis 
+┣ ❏ ${prefix}nulis
+┣ ❏ meaning: write
 ┣ ❏ ${prefix}croman 
 ┣ ❏ ${prefix}slide
 ┣ ❏ ${prefix}tahta 
@@ -1039,10 +1041,12 @@ case 'gemuk':
 ┣ ❏ ${prefix}welcome 
 ┣ ❏ ${prefix}grup
 ┣ ❏ ${prefix}bukatime
+┣ ❏ meaning:open time
 ┣ ❏ ${prefix}tutuptime
+┣ ❏ meaning:close time
 ┣ ❏ ${prefix}leveling 
-┣ ❏ ${prefix}ownergrup
 ┣ ❏ ${prefix}bacotlist
+┣ ❏ meaning: bad words list
 ┣ ❏ ${prefix}bacot
 ┣ ❏ ${prefix}tag      
 ┣ ❏ ${prefix}kisstag
@@ -1066,6 +1070,7 @@ case 'gemuk':
 ┣ ❏ ${prefix}tagall
 ┣ ❏ ${prefix}infoall
 ┣ ❏ ${prefix}fitnah
+┣ ❏ meaning: fake reply
 ┣ ❏ ${prefix}listadmin
 ┃
 ┣◪ 「 *ADMIN* 」
@@ -1077,38 +1082,57 @@ case 'gemuk':
 ┣ ❏ ${prefix}nsfwtrap
 ┣ ❏ ${prefix}hentai
 ┣ ❏ ${prefix}simih
-┣ ❏ ${prefix}zitsraa
+┣ ❏ ${prefix}hinatabot
 ┃
 ┣◪ 「 *FUN* 」
 ┣ ❏ ${prefix}aesthetic
+┣ ❏ meaning: amv
 ┣ ❏ ${prefix}anjing
+┣ ❏ meaning:dog
 ┣ ❏ ${prefix}kucing
+┣ ❏ meaning:cat
 ┣ ❏ ${prefix}testime
+┣ ❏ meaning:
 ┣ ❏ ${prefix}hilih
+┣ ❏ meaning:choose
 ┣ ❏ ${prefix}apakah
+┣ ❏ meaning:is
 ┣ ❏ ${prefix}kapankah
+┣ ❏ meaning:when
 ┣ ❏ ${prefix}bisakah
+┣ ❏ meaning:can you
 ┣ ❏ ${prefix}rate
 ┣ ❏ ${prefix}slot
 ┣ ❏ ${prefix}ganteng
+┣ ❏ meaning:handsome
 ┣ ❏ ${prefix}cantik
+┣ ❏ meaning:beautiful
 ┣ ❏ ${prefix}babi
+┣ ❏ meaning:pig
 ┣ ❏ ${prefix}watak
+┣ ❏ meaning:character
 ┣ ❏ ${prefix}hobby
 ┣ ❏ ${prefix}infogempa
+┣ ❏ meaning:earthquake information
 ┣ ❏ ${prefix}infonomor
 ┣ ❏ ${prefix}quotes
 ┣ ❏ ${prefix}truth
 ┣ ❏ ${prefix}dare
 ┣ ❏ ${prefix}katabijak
+┣ ❏ meaning:words of wisdom
 ┣ ❏ ${prefix}fakta
+┣ ❏ meaning:fact
 ┣ ❏ ${prefix}darkjokes
 ┣ ❏ ${prefix}bucin
 ┣ ❏ ${prefix}pantun
+┣ ❏ meaning:rhymes
 ┣ ❏ ${prefix}katacinta
+┣ ❏ meaning:words of love
 ┣ ❏ ${prefix}jadwaltvnow
 ┣ ❏ ${prefix}hekerbucin
+┣ ❏ meaning:
 ┣ ❏ ${prefix}katailham
+┣ ❏ meaning:said inspiration
 ┃
 ┣◪ 「 *OTHERS* 」
 ┃
@@ -1128,11 +1152,16 @@ case 'gemuk':
 ┣ ❏ ${prefix}made
 ┣ ❏ ${prefix}listzodiak
 ┣ ❏ ${prefix}translate 
-┣ ❏ ${prefix}pasangan 
+┣ ❏ ${prefix}pasangan
+┣ ❏ meaning:couple
 ┣ ❏ ${prefix}gantengcek
-┣ ❏ ${prefix}cantikcek 
+┣ ❏ meaning:handsome
+┣ ❏ ${prefix}cantikcek
+┣ ❏ meaning:pretty check
 ┣ ❏ ${prefix}artinama
-┣ ❏ ${prefix}persengay 
+┣ ❏ meaning:the meaning of the name
+┣ ❏ ${prefix}persengay
+┣ ❏ meaning:percentgay
 ┣ ❏ ${prefix}pbucin 
 ┣ ❏ ${prefix}bpfont 
 ┣ ❏ ${prefix}textstyle 
@@ -1141,18 +1170,23 @@ case 'gemuk':
 ┣ ❏ ${prefix}chord 
 ┣ ❏ ${prefix}wiki 
 ┣ ❏ ${prefix}brainly 
-┣ ❏ ${prefix}resepmasakan 
+┣ ❏ ${prefix}resepmasakan
+┣ ❏ meaning:recipes
 ┣ ❏ ${prefix}map 
 ┣ ❏ ${prefix}gemuk
+┣ ❏ meaning:fat
 ┣ ❏ ${prefix}bass
 ┣ ❏ ${prefix}ghost
 ┣ ❏ ${prefix}blub
 ┣ ❏ ${prefix}film 
 ┣ ❏ ${prefix}pinterest 
 ┣ ❏ ${prefix}infocuaca 
-┣ ❏ ${prefix}jamdunia 
+┣ ❏ ${prefix}jamdunia
+┣ ❏ meaning:world clock
 ┣ ❏ ${prefix}mimpi
-┣ ❏ ${prefix}infoalamat 
+┣ ❏ meaning:dream
+┣ ❏ ${prefix}infoalamat
+┣ ❏ meaning:address info
 ┣ ❏ ${prefix}playstore 
 ┃
 ┣◪ 「 *GAME* 」
@@ -1160,12 +1194,17 @@ case 'gemuk':
 ┣ ❏ ${prefix}readmore        
 ┣ ❏ ${prefix}puisiimg
 ┣ ❏ ${prefix}asupan
+┣ ❏ meaning:intake
 ┣ ❏ ${prefix}tebakgambar
+┣ ❏ meaning:guess the picture
 ┣ ❏ ${prefix}tebakumur
+┣ ❏ meaning:guess the age
 ┣ ❏ ${prefix}tebakangka
+┣ ❏ meaning:guess what
 ┣ ❏ ${prefix}vslot
 ┣ ❏ ${prefix}suit
 ┣ ❏ ${prefix}caklontong
+┣ ❏ meaning:
 ┣ ❏ ${prefix}family100
 ┣ ❏ ${prefix}memeindo
 ┣ ❏ ${prefix}memeen
@@ -1179,8 +1218,11 @@ case 'gemuk':
 ┃
 ┣ ❏ ${prefix}randomkpop
 ┣ ❏ ${prefix}cersex
+┣ ❏ meaning:
 ┣ ❏ ${prefix}ceritahoror
+┣ ❏ meaning:horror story
 ┣ ❏ ${prefix}cerpen
+┣ ❏ meaning:short story
 ┣ ❏ ${prefix}randombokep
 ┣ ❏ ${prefix}coli
 ┣ ❏ ${prefix}xxz
@@ -1223,7 +1265,7 @@ case 'gemuk':
 ┣ ❏ ${prefix}addprem
 ┣ ❏ ${prefix}buggc
 ┣ ❏ ${prefix}dellprem
-┣ ❏ ${prefix}hanzprem
+┣ ❏ ${prefix}hinataprem
 ┣ ❏ ${prefix}setmemlimit
 ┣ ❏ ${prefix}setlimit
 ┣ ❏ ${prefix}setreply
@@ -1265,10 +1307,12 @@ case 'gemuk':
 ┣ ❏ ${prefix}joox2
 ┣ ❏ ${prefix}smule
 ┣ ❏ MADE WITH LOVE FOR HINATA BY NARUTO
+┣ ❏ Thanks to ꧁✭angel queen✭꧂  for api
+┣ 
 ┗━━━━《 HINATA BOT 》━━━━`
 
 asoo = await getBuffer(ppimg)
-Zitsraa.sendMessage(from, asoo, image, { quoted: freply, caption: zitsraa })
+Zitsraa.sendMessage(from, asoo, image, { quoted: freply, caption: hinata })
 					break
 					
 		
@@ -2899,8 +2943,8 @@ case 'fakeid':
 				if (!isUser) return reply(mess.only.userB)
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
-					anu = await fetchJson(`https://xptnbotapinew.herokuapp.com/?truth&apikey=xptn`, {method: 'get'})
-					ttrth = `${anu.Dare}`
+					const trut =['Have you ever liked anyone? how long? ',' If possible or if you want, in gc / outside gc who will you make friends with? (can you be different / same sex) ',' what is your biggest fear? ',' have you ever liked someone and felt that person like you too? ',' Whats the name of your ex-boyfriend friend that you once liked secretly? ',' Have you ever stolen your mothers money or father? The reason? ',' What makes you happy when you are sad ',' have you ever been unrequited love? if ever with who? how do you feel brou? ',' have you ever been cheated on by people? ',' the most feared thing ',' who is the most influential person in your life ',' what proud things did you get this year ',' who is the person who can make you horny ',' who is the person who ever made you horny ',' (bgi who is a Muslim) never prayed all day long? ',' Who is the closest to your ideal type of partner here ',' who likes to play with? reject people? the reason why? ',' Mention the incident that made you hurt that you still remember ',' what have you got this year? ',' What was your worst habit at school?']
+					const ttrth = trut[Math.floor(Math.random() * trut.length)]
 					truteh = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
 					Zitsraa.sendMessage(from, truteh, image, { caption: '*Truth*\n\n'+ ttrth, quoted: freply })
 					await limitAdd(sender) 
@@ -2911,8 +2955,8 @@ case 'fakeid':
 				if (!isUser) return reply(mess.only.userB)
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
-					anu = await fetchJson(`https://xptnbotapinew.herokuapp.com/?dare&apikey=xptn`, {method: 'get'})
-					der = `${anu.Dare}`
+					const dare =['Send a message to your ex and say "I still like you" ','call Crush/girlfriend now and ss to the player ',' pap to one of the group members', 'Say "YOU ARE BEAUTIFUL WAS NOT FRIENDLY" to guys', 'ss recent call whatsapp', 'drop emoticon "🦄💨" every time you type on gc / pc for 1 day', 'send a voice note saying can i call u baby?', 'drop a song / quote quote, continue to tag the appropriate member make a quote ',' use a sule photo until 3 days ',' type in the local language 24 hours ',' change the name to "Im a cute child, luna" for 5 hours ',' chat to contacts wa the order according to your% battery, continue told him "i lucky to hv you ',' prank chat ex and say" i love u, pgn back ',' voice record read surah al-kautsar ',' said "i hv crush on you, do you want to be my girlfriend or not? "To the opposite sex you last chat (hand over on wa / tele), wait for him to reply, if youve dropped here ',' state your girlfriend type! ',' snap / post girlfriend / crush photos ',' shouted gajelas then send using vn here ',' pap your face then send it to one of your friends ',' ki rim of your photo with a caption, I am a adopted child ',' shouted using harsh words while vn then sent it here ',' shouted "anjimm gabutt anjimmm" in front of your house ',' change the name to "BOWO" for 24 hours ',' Pretend possessed, for example: maung possession, locust possession, refrigerator possession, etc.']
+					const der = dare[Math.floor(Math.random() * dare.length)]
 					tod = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
 					Zitsraa.sendMessage(from, tod, image, { quoted: freply, caption: '*Dare*\n\n'+ der })
 					await limitAdd(sender) 
