@@ -5045,7 +5045,7 @@ case 'bacaanshalat':
         case 'niatshalat':
                    niat = body.slice(12)
                    anu = await fetchJson(`https://raw.githubusercontent.com/Zhirrr/My-SQL-Results/main/niatshalat/${niat}.json`, {method: 'get'})
-                   if (anu.error) return reply('Can't Get the Data Sis')
+                   if (anu.error) return reply('Cant Get the Data Sis')
                    hasil = ` Intention : ${anu.name}\n\n${anu.arabic}\n${anu.latin}\n${anu.terjemahan}`
                    Zitsraa.sendMessage(from, hasil, text, {quoted: freply})
                    break
