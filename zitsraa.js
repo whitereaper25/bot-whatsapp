@@ -1770,7 +1770,7 @@ case 'donate':
 								console.log(`Error : ${err}`)
 								fs.unlinkSync(media)
 								tipe = media.endsWith('.mp4') ? 'video' : 'gif'
-								reply(`\`\`\`Failed, at the time of converting ${tipe} to the sticker\`\`\`)
+								reply(`\`\`\`Failed, at the time of converting ${tipe} ke stiker\`\`\``)
 							})
 							.on('end', function () {
 								console.log('Finish')
@@ -1803,11 +1803,11 @@ case 'donate':
 							})
 						})
 					} else {
-						reply(`Send the image with the caption ${prefix}sticker or the image tag that has been sent`)
+						reply(`Send pictures with captions ${prefix}sticker or tag images that have been left`)
 					}
 					await limitAdd(sender) 
 					break
-case 'triggered':
+					case 'triggered':
                     ini_url = args[0]
                     ranp = getRandom('.gif')
                     rano = getRandom('.webp')
@@ -1823,7 +1823,7 @@ case 'epep':
   if (!isPublic) return reply(mess.only.publikG)
 					if (args.length < 1) return reply(mess.blank)
 					tels = body.slice(8)
-					if (tels.ength > 15) return reply('The text is too long, up to 20 characters')
+					if (tels.ength > 15) return reply('minimum 20 character')
 					reply(mess.wait)
 					anu = await fetchJson(`https://api.vhtear.com/logoff?hero=alok&text=${tels}&apikey=${VthearApi}`, {method: 'get'})
 					buffer = await getBuffer(anu.result)
