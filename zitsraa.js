@@ -6167,7 +6167,7 @@ case 'ytmp5':
 					Zitsraa.sendMessage(from, buffer, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: freply})
 					break
 					case 'ytmp6':
-				if (args.length < 1) return reply('Where's the YouTube link?')
+				if (args.length < 1) return reply('Wheres the YouTube link?')
 					tels = body.slice(7)				
 					reply(mess.wait)
 					buffer = await getBuffer(anu.thumb)
