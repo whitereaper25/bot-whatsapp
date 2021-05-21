@@ -71,7 +71,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=919080896537:+919080896537\n'
             + 'END:VCARD'
 
-prefix = "#"
+prefix = "/"
 name = "HINATA BOT"
 meymec = "𝙇𝙀𝙑𝙀𝙇𝙄𝙉𝙂"
 rdaftar = "HINATA BOT❤"
