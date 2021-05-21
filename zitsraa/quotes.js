@@ -1,1226 +1,1226 @@
 [
   {
     "author": "A. France",
-    "quotes": "Lebih baik mengerti sedikit daripada salah mengerti."
+    "quotes": "Better to understand a little than to misunderstand."
   },
   {
     "author": "Abraham Lincoln",
-    "quotes": "Hampir semua pria memang mampu bertahan menghadapi kesulitan. Namun, jika Anda ingin menguji karakter sejati pria, beri dia kekuasaan."
+    "quotes": "Almost all men are able to withstand adversity. However, if you want to test the true character of a man, give him power."
   },
   {
     "author": "Aeschylus",
-    "quotes": "Bila tekad seseorang kuat dan teguh, Tuhan akan bergabung dalam usahanya."
+    "quotes": "If a person's determination is strong and firm, God will join in his efforts."
   },
   {
     "author": "Aesop",
-    "quotes": "Penderitaan adalah pelajaran."
+    "quotes": "Suffering is a lesson."
   },
   {
     "author": "Albert Einstein",
-    "quotes": "Ilmu pengetahuan tanpa agama adalah pincang."
+    "quotes": "Science without religion is crippled."
   },
   {
     "author": "Albert Einstein",
-    "quotes": "Hidup itu seperti sebuah sepeda, agar tetap seimbang kita harus tetap bergerak."
+    "quotes": "Life is like a bicycle, to stay balanced we have to keep moving."
   },
   {
     "author": "Albert Einstein",
-    "quotes": "Perbedaan masa lalu, sekarang, dan masa depan tak lebih dari ilusi yang keras kepala."
+    "quotes": "The difference between the past, present and future is nothing more than a stubborn illusion."
   },
   {
     "author": "Albert Einstein",
-    "quotes": "Sebuah meja, sebuah kursi, semangkuk buah, dan sebuah biola; apa lagi yang dibutuhkan agar seseorang bisa merasa bahagia?."
+    "quotes": "A table, a chair, a bowl of fruit and a violin; what else is needed for someone to be happy?"
   },
   {
     "author": "Albert Enstein",
-    "quotes": "Belas kasihanlah terhadap sesama, bersikap keraslah terhadap diri sendiri."
+    "quotes": "Have mercy on others, be hard on yourself."
   },
   {
     "author": "Alex Osborn",
-    "quotes": "Cara paling baik untuk menggerakkan diri Anda ialah memberi tugas kepada diri sendiri."
+    "quotes": "The best way to move yourself is to assign tasks to yourself."
   },
   {
     "author": "Alexander A. Bogomoletz",
-    "quotes": "Kita tidak boleh kehilangan semangat. Semangat adalah stimulan terkuat untuk mencintai, berkreasi dan berkeinginan untuk hidup lebih lama."
+    "quotes": "We must not lose our enthusiasm. Passion is the strongest stimulant for love, creation and the desire to live longer."
   },
   {
     "author": "Alexander Solzhenitsyn",
-    "quotes": "Manusia akan bahagia selama ia memilih untuk bahagia."
+    "quotes": "Man will be happy as long as he chooses to be happy."
   },
   {
     "author": "Ali Javan",
-    "quotes": "Saya tidak berharap menjadi segalanya bagi setiap orang. Saya hanya ingin menjadi sesuatu untuk seseorang."
+    "quotes": "I don't expect to be everything for everyone. I just want to be something for someone."
   },
   {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Apabila sempurna akal seseorang, maka sedikit perkataannya."
+    "author": "Ali ibn Abi Talib",
+    "quotes": "If a person's intellect is perfect, then his words are a little."
   },
   {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Bahagialah orang yang dapat menjadi tuan untuk dirinya, menjadi kusir untuk nafsunya dan menjadi kapten untuk bahtera hidupnya."
+    "author": "Ali ibn Abi Talib",
+    "quotes": "A happy man can be a master for himself, a charioteer for his passions and a captain for the ark of his life."
   },
   {
-    "author": "Ali bin Abi Thalib",
-    "quotes": "Sahabat yang jujur lebih besar harganya daripada harta benda yang diwarisi dari nenek moyang."
+    "author": "Ali ibn Abi Talib",
+    "quotes": "An honest friend is worth more than the property inherited from the ancestors."
   },
   {
     "author": "Anne M. Lindbergh",
-    "quotes": "Yang palin melelahkan dalam hidup adalah menjadi orang yang tidak tulus."
+    "quotes": "The most tiring thing in life is to be an insincere person."
   },
   {
-    "author": "Anonim",
-    "quotes": "Terbuka untuk Anda, begitulah Tuhan memberi kita jalan untuk berusaha. Jangan pernah berfikir jalan sudah tertutup."
+    "author": "Anonymous",
+    "quotes": "It is open to you, that's how God gave us a way to try. Don't ever think the road is closed."
   },
   {
-    "author": "Anonim",
-    "quotes": "Penundaan adalah kuburan dimana peluang dikuburkan."
+    "author": "Anonymous",
+    "quotes": "Procrastination is the grave where opportunity is buried."
   },
   {
     "author": "Antonie De Saint",
-    "quotes": "Cinta bukan saling menatap mata, namun melihat ke arah yang sama bersama-sama."
+    "quotes": "Love is not looking into each other's eyes, but looking in the same direction together."
   },
   {
-    "author": "Aristoteles",
-    "quotes": "Kita adalah apa yang kita kerjakan berulang kali. Dengan demikian, kecemerlangan bukan tindakan, tetapi kebiasaan."
+    "author": "Aristotle",
+    "quotes": "We are what we repeatedly do. Thus, brilliance is not an act, but a habit."
   },
   {
     "author": "Arnold Glasow",
-    "quotes": "Jangan pernah mencoba menjadikan putra atau putri Anda menjadi seperti Anda. Diri Anda hanya cukup satu saja."
+    "quotes": "Never try to make your son or daughter to be like you. You only have one thing."
   },
   {
     "author": "Art Buchwald",
-    "quotes": "Jika Anda bisa membuat orang lain tertawa, maka Anda akan mendapatkan semua cinta yang Anda inginkan."
+    "quotes": "If you can make other people laugh, then you will get all the love you want."
   },
   {
     "author": "Artemus Ward",
-    "quotes": "Masalah akan datang cepat atau lambat. Jika masalah datang, sambut dengan sebaik mungkin. Semakin ramah Anda menyapanya, semakin cepat ia pergi."
+    "quotes": "Problems will come sooner or later. If problems come, greet them as best you can. The more friendly you greet him, the sooner he will go away."
   },
   {
     "author": "Ashleigh Brilliant",
-    "quotes": "Kita tak bisa melakukan apapun untuk mengubah masa lalu. Tapi apapun yang kita lakukan bisa mengubah masa depan."
+    "quotes": "We can't do anything to change the past. But whatever we do can change the future."
   },
-  {
+ {
     "author": "Augustine",
-    "quotes": "Kesabaran adalah teman dari kebijaksanaan."
+    "quotes": "Patience is the friend of wisdom."
   },
   {
     "author": "Ayn Rand",
-    "quotes": "Orang-orang kreatif termotivasi oleh keinginan untuk maju, bukan oleh keinginan untuk mengalahkan orang lain."
+    "quotes": "Creative people are motivated by the desire to get ahead, not by the desire to beat others."
   },
   {
     "author": "B. J. Habibie",
-    "quotes": "Dimanapun engkau berada selalulah menjadi yang terbaik dan berikan yang terbaik dari yang bisa kita berikan."
+    "quotes": "Wherever you are, always be the best and give the best of what we can give."
   },
   {
     "author": "Balzac",
-    "quotes": "Kebencian seperti halnya cinta, berkobar karena hal-hal kecil."
+    "quotes": "Hatred is like love, it burns over little things."
   },
   {
     "author": "Barbara Sher",
-    "quotes": "Anda tidak perlu harus berhasil pada kali pertama."
+    "quotes": "You don't have to be successful the first time."
   },
   {
     "author": "Beecher",
-    "quotes": "Satu jam yang intensif, jauh lebih baik dan menguntungkan daripada bertahun-tahun bermimpi dan merenung-renung."
+    "quotes": "An intensive hour, much better and rewarding than years of dreaming and pondering."
   },
   {
     "author": "Benjamin Disraeli",
-    "quotes": "Hal terbaik yang bisa Anda lakukan untuk orang lain bukanlah membagikan kekayaan Anda, tetapi membantu dia untuk memiliki kekayaannya sendiri."
+    "quotes": "The best thing you can do for someone else is not to share your wealth, but to help him own his wealth."
   },
   {
     "author": "Bill Clinton",
-    "quotes": "Tidak ada jaminan keberhasilan, tetapi tidak berusaha adalah jaminan kegagalan."
+    "quotes": "There is no guarantee of success, but not trying is the guarantee of failure."
   },
   {
     "author": "Bill Cosby",
-    "quotes": "Aku tidak tahu kunci sukses itu apa, tapi kunci menuju kegagalan adalah mencoba membuat semua orang senang."
+    "quotes": "I don't know what the key to success is, but the key to failure is trying to make everyone happy."
   },
   {
     "author": "Bill Gates",
-    "quotes": "Konsumen yang paling tidak puas adalah sumber berharga untuk belajar."
+    "quotes": "The most dissatisfied consumer is a valuable resource for learning."
   },
   {
-    "author": "Bill Mccartney",
-    "quotes": "Kita ada disini bukan untuk saling bersaing. Kita ada disini untuk saling melengkapi."
+    "author": "Bill McCartney",
+    "quotes": "We are not here to compete with each other. We are here to complement each other."
   },
   {
     "author": "Brian Koslow",
-    "quotes": "Semakin kita bersedia bertanggung jawab atas perbuatan-perbuatan kita, semakin banyak kredibilitas yang kita miliki."
+    "quotes": "The more we are willing to take responsibility for our actions, the more credibility we have."
   },
   {
     "author": "Browning",
-    "quotes": "Selalu baik untuk memaafkan, tapi yang paling baik adalah melupakan sebuah kesalahan."
+    "quotes": "It's always good to forgive, but it's best to forget a mistake."
   },
   {
     "author": "Bruce Lee",
-    "quotes": "Jangan menjadi pohon kaku yang mudah patah. Jadilah bambu yang mampu bertahan melengkung melawan terpaan angin."
+    "quotes": "Don't be a stiff tree that breaks easily. Be a bamboo that can withstand curves against the wind."
   },
   {
-    "author": "Budha Gautama",
-    "quotes": "Jangan menangis karena kegagalan cinta, sebab manusia akan meninggalkan semua yang dicintainya."
+    "author": "Buddha Gautama",
+    "quotes": "Don't cry because of the failure of love, because people will leave everything they love."
   },
   {
-    "author": "Bunda Teresa",
-    "quotes": "Jika Anda mengadili orang lain, Anda tak punya waktu untuk mencintai mereka."
+    "author": "Mother Teresa",
+    "quotes": "If you judge other people, you don't have time to love them."
   },
   {
-    "author": "Bunda Teresa",
-    "quotes": "Jika tidak ada perdamaian, hal itu disebabkan kita telah lupa bahwa kita saling membutuhkan."
+    "author": "Mother Teresa",
+    "quotes": "If there is no peace, it is because we have forgotten that we need each other."
   },
   {
     "author": "Bung Hatta",
-    "quotes": "Kurang cerdas dapat diperbaiki dengan belajar, kurang cekatan dapat diperbaiki dengan pengalaman, kurang jujur sulit memperbaikinya."
+    "quotes": "Not being smart can be improved by learning, being less skilled can be improved with experience, being less honest is difficult to fix."
   },
   {
     "author": "Burn",
-    "quotes": "Banyak orang sukses berkat banyaknya kesulitan dan kesukaran yang mesti dihadapi."
+    "quotes": "Many people are successful thanks to the many difficulties and difficulties that must be faced."
   },
   {
     "author": "Carol Burnet",
-    "quotes": "Hanya aku yang bisa merubah hidupku, tak ada seorang pun yang dapat melakukannya untukku."
+    "quotes": "Only I can change my life, no one can do it for me."
   },
   {
     "author": "Charles Darwin",
-    "quotes": "Yang bisa bertahan hidup bukan spesies yang paling kuat. Bukan juga spesies yang paling cerdas. Tapi spesies yang paling responsif terhadap perubahan."
+    "quotes": "Those that can survive are not the most vigorous species. Not the most intelligent species either. But the ones most responsive to change."
   },
   {
     "author": "Charles R. Swindoll",
-    "quotes": "Hidup adalah 10 persen yang terjadi kepada Anda, 90 persen bagaimana cara Anda menyikapinya."
+    "quotes": "Life is 10 percent what happens to you, 90 percent how you react to it."
   },
   {
     "author": "Ching Hai",
-    "quotes": "Memperbaiki diri kita adalah memperbaiki dunia."
+    "quotes": "To improve ourselves is to improve the world."
   },
   {
     "author": "Ching Hai",
-    "quotes": "Jangan membeda-bedakan pekerjaan mana yang baik dan mana yang buruk. Masalah muncul jika kita membeda-bedakan dan memihak sesuatu."
+    "quotes": "Do not differentiate between which jobs are good and which are bad. Problems arise if we differentiate and take sides."
   },
   {
     "author": "Ching Hai",
-    "quotes": "Kita bekerja harus tanpa pamrih. Itu berlaku untuk segala pekerjaan. Pengabdian tanpa syarat adalah yang terbaik."
+    "quotes": "We must work without strings attached. That applies to all jobs. Unconditional devotion is best."
   },
   {
     "author": "Ching Hai",
-    "quotes": "Kita harus menemukan kekuatan cinta dalam diri kita terlebih dahulu, barulah kita dapat benar-benar mencintai orang lain."
+    "quotes": "We have to find the power of love in ourselves first, then we can truly love other people."
   },
   {
     "author": "Ching Hai",
-    "quotes": "Carilah uang secukupnya saja untuk membiayai kehidupan, agar dapat menyisihkan waktu dan tenaga untuk melatih spiritual."
+    "quotes": "Get enough money to pay for life, so you can set aside time and energy for spiritual practice."
   },
   {
-    "author": "Christopher Colombus",
-    "quotes": "Harta benda tak membuat seseorang menjadi kaya raya, mereka hanya membuatnya lebih sibuk."
+    "author": "Christopher Columbus",
+    "quotes": "Possessions don't make a person rich, they only make him busier."
   },
   {
     "author": "Cicero",
-    "quotes": "Hati yang penuh syukur, bukan saja merupakan kebajikan terbesar, melainkan induk dari segala kebajikan yang lain."
+    "quotes": "A grateful heart, is not only the greatest virtue, but the mother of all other virtues."
   },
   {
     "author": "Cicero",
-    "quotes": "Hati yang penuh syukur, bukan saja merupakan kebajikan terbesar, melainkan juga induk dari segala kebajikan yang lain."
+    "quotes": "A grateful heart, is not only the greatest virtue, but also the mother of all other virtues."
   },
   {
     "author": "Clarence Darrow",
-    "quotes": "Kebebasan itu berasal dari manusia, tidak dari undang-undang atau institusi."
+    "quotes": "Freedom comes from humans, not from laws or institutions."
   },
   {
     "author": "Confucius",
-    "quotes": "Hidup ini benar-benar sederhana, tapi kita malah bersikeras membuatnya menjadi rumit."
+    "quotes": "Life is really simple, but we insist on making it complicated."
   },
   {
     "author": "Confucius",
-    "quotes": "Kemana pun Anda pergi, pergilah dengan sepenuh hati."
+    "quotes": "Wherever you go, go with all your heart."
   },
   {
     "author": "Confucius",
-    "quotes": "Orang yang melakukan kesalahan dan tidak memperbaiki kesalahannya, melalakukan kesalahan yang lainnya."
+    "quotes": "The one who made a mistake and did not correct his mistake, committed another mistake."
   },
   {
     "author": "Confucius",
-    "quotes": "Kebanggaan kita yang terbesar bukan karena tidak pernah gagal, tetapi bangkit kembali setiap kita jatuh."
+    "quotes": "Our greatest pride is not that we never fail, but bounce back every time we fall."
   },
   {
     "author": "Cowper",
-    "quotes": "Bunga yang tidak akan pernah layu dibumi adalah kebajikan."
+    "quotes": "Flowers that will never wither on earth are virtues."
   },
   {
     "author": "Cynthia Ozick",
-    "quotes": "Untuk membayangkan hal yang tak dapat dibayangkan, dibutuhkan imajinasi yang luar biasa."
+    "quotes": "To imagine the unimaginable, it takes extraordinary imagination."
   },
   {
     "author": "D. J. Schwartz",
-    "quotes": "Kesulitan apapun tidak tahan terhadap keuletan dan ketekunan. Tanpa keuletan, orang yang paling pintar dan paling berbakat sering gagal dalam hidupnya."
+    "quotes": "Adversity of any kind cannot stand tenacity and persistence. Without tenacity, the smartest and most talented people often fail in life."
   },
   {
     "author": "Dale Carnegie",
-    "quotes": "Satu-satunya cara agar kita memperoleh kasih sayang, adalah jangan menuntut agar kita dicintai, tetapi mulailah memberi kasih sayang kepada orang lain tanpa mengharapkan balasan."
+    "quotes": "The only way we get love, is not to demand that we be loved, but start giving love to others without expecting anything in return."
   },
   {
     "author": "Dale Carnegie",
-    "quotes": "Bila orang yang kuatir akan kekurangannya mau mensyukuri kekayaan yang mereka miliki, mereka akan berhenti kuatir."
+    "quotes": "If people who are worried about their shortcomings are grateful for the wealth they have, they will stop worrying."
   },
   {
     "author": "Dale Carnegie",
-    "quotes": "Usahakan membentuk suatu hubungan \"kawat\" antara otak dan hati Anda."
+    "quotes": "Try to form a" wire "connection between your brain and your heart."
   },
   {
     "author": "Dale Carnegie",
-    "quotes": "Senyuman akan membuat kaya jiwa seseorang yang menerimanya, tanpa membuat miskin seseorang yang memberikannya."
+    "quotes": "A smile will make the soul of someone who receives it rich, without making someone who gives it poor."
   },
   {
     "author": "Dale Carnegie",
-    "quotes": "Orang jarang sukses kecuali jika mereka senang dengan apa yang dikerjakannya."
+    "quotes": "People are rarely successful unless they are happy with what they are doing."
   },
   {
     "author": "David Livingston",
-    "quotes": "Saya akan pergi kemanapun selama itu arahnya ke depan."
+    "quotes": "I'll be going anywhere as long as it's the direction forward."
   },
   {
     "author": "David V. Ambrose",
-    "quotes": "Jika Anda punya kemauan untuk menang, Anda sudah mencapai separuh sukses. Jika Anda tidak punya kemauan untuk menang, Anda sudah mencapai separuh kegagalan."
+    "quotes": "If you have the will to win, you are half successful. If you do not have the will to win, you are half the failure."
   },
   {
     "author": "David Weinbaum",
-    "quotes": "Rahasia menuju hidup kaya adalah mempunyai lebih banyak awal ketimbang akhir."
+    "quotes": "The secret to a rich life is to have more beginnings than ends."
   },
   {
     "author": "Desbarolles",
-    "quotes": "Kebenaran yang tidak dimengerti akan menjadi kesalahan."
+    "quotes": "Truths that are not understood will be mistakes."
   },
   {
     "author": "Descrates",
-    "quotes": "Saya berpikir, karena itu saya ada."
+    "quotes": "I think, that's why I exist."
   },
   {
     "author": "Djamaludin Abassy",
-    "quotes": "Mental yang lemah lebih parah dari fisik yang lemah."
+    "quotes": "mental weakness is more severe than physical weakness."
   },
   {
     "author": "Donald Kendall",
-    "quotes": "Satu-satunya sukses yang diraih sebelum bekerja hanyalah ada di kamus saja."
+    "quotes": "The only success achieved before work is in the dictionary."
   },
   {
     "author": "Dr. Frank Crane",
-    "quotes": "Sahabat terbaik dan musuh terburuk kita adalah pikiran-pikiran kita. Pikiran dapat lebih baik dari seorang dokter atau seorang bankir atau seorang teman kepercayaan. Juga dapat lebih berbahaya dadi penjahat."
+    "quotes": "Our best friends and worst enemies are our thoughts. Thoughts can be better than a doctor or a banker or a confidant. They can also be more dangerous than criminals."
   },
   {
     "author": "Dr. Ronald Niednagel",
-    "quotes": "Pergilah sejauh Anda bisa memandang, dan ketika Anda tiba disana, Anda akan memandang lebih jauh."
+    "quotes": "Go as far as you can see, and when you get there, you'll look further."
   },
   {
-    "author": "Dr.\u00a0Johnnetta Cole",
-    "quotes": "Jika kamu ingin pergi cepat, pergilah sendiri. Jika kamu ingin pergi jauh, pergilah bersama-sama."
+    "author": "Dr. \ u00a0Johnnetta Cole",
+    "quotes": "If you want to go fast, go alone. If you want to go far, go together."
   },
   {
     "author": "Dwigt D. Esenhower",
-    "quotes": "Seorang intelektual tidak akan pernah mengatakan lebih daripada apa yang diketahuinya."
+    "quotes": "An intellectual will never say more than he knows."
+  },
+ {
+    "author": "Earl Campbell",
+    "quotes": "Issues are the price you pay for progress."
   },
   {
     "author": "Earl Campbell",
-    "quotes": "Persoalan-persoalan adalah harga yang Anda bayar untuk kemajuan."
-  },
-  {
-    "author": "Earl Campbell",
-    "quotes": "Persoalan-persoalan adalah harga yang harus Anda bayar untuk kemajuan."
+    "quotes": "Issues are the price you have to pay for progress."
   },
   {
     "author": "Edgar Alnsel",
-    "quotes": "Hidup manusia penuh dengan bahaya, tetapi disitulah letak daya tariknya."
+    "quotes": "Human life is full of dangers, but therein lies the attraction."
   },
   {
     "author": "Edmund Burke",
-    "quotes": "Anda tidak dapat merencanakan masa yang akan datang berdasarkan masa lalu."
+    "quotes": "You cannot plan for the future based on the past."
   },
   {
     "author": "Edward L. Curtis",
-    "quotes": "Optimisme yang tidak disertai dengan usaha hanya merupakan pemikiran semata yang tidak menghasilkan buah."
+    "quotes": "Optimism that is not accompanied by effort is merely thoughts that do not bear fruit."
   },
   {
     "author": "Edward de Bono",
-    "quotes": "Jika Anda termasuk orang yang senang menunggu datangnya peluang, Anda adalah bagian dari manusia pada umumnya."
+    "quotes": "If you are among those who like to wait for opportunities, you are part of a human being in general."
   },
   {
     "author": "Edy Murphy",
-    "quotes": "Aku menghabiskan usia 30-an untuk memperbaiki segala kesalahanku di usia 20-an."
+    "quotes": "I spent my 30s fixing all my mistakes in my 20s."
   },
   {
     "author": "Einstein",
-    "quotes": "Berusaha untuk tidak menjadi manusia yang berhasil tapi berusahalah menjadi manusia yang berguna."
+    "quotes": "Trying not to be a successful human being but trying to be a useful human being."
   },
   {
     "author": "Eisenhower",
-    "quotes": "Mulai sekarang kita tidak usah membuang-buang waktu barang semenit pun untuk memikirkan orang-orang yang tidak kita sukai."
+    "quotes": "From now on we don't have to waste a minute thinking about people we don't like."
   },
   {
     "author": "Elanor Roosevelt",
-    "quotes": "Ketika kita berhenti membuat kontribusi, kita mulai mati."
+    "quotes": "When we stop making contributions, we start to die."
   },
   {
     "author": "Elbert Hubbad",
-    "quotes": "Kesalahan terbesar yang dibuat manusia dalam kehidupannya adalah terus-menerus merasa takut bahwa mereka akan melakukan kesalahan."
+    "quotes": "The biggest mistake people make in their lives is constantly fearing that they will make mistakes."
   },
   {
     "author": "Elizabeth Browning",
-    "quotes": "Janganlah menyebut orang tidak bahagia sebelum dia mati. Jangan menilai pekerjaan seseorang sebelum pekerjaannya berakhir."
+    "quotes": "Don't call people unhappy before they die. Don't judge someone's work before it ends."
   },
   {
     "author": "Emerson",
-    "quotes": "Percaya pada diri sendiri adalah rahasia utama mencapai sukses."
+    "quotes": "Believe in yourself is the main secret to achieving success."
   },
   {
     "author": "Engelbert Huperdinck",
-    "quotes": "Anda harus waspada dengan kesenangan. Pastikan bahwa Anda menikmatinya dan bukan dikendalikannya."
+    "quotes": "You have to be aware of the pleasures. Make sure that you are enjoying them and not being controlled."
   },
   {
     "author": "Erich Watson",
-    "quotes": "Kehilangan kekayaan masih dapat dicari kembali, kehilangan kepercayaan sulit didapatkan kembali."
+    "quotes": "Losing wealth can still be recovered, losing trust is hard to get back."
   },
   {
-    "author": "Francois De La Roche",
-    "quotes": "Bila tidak mampu menemukan kedamaian dalam diri sendiri, tak ada gunanya mencari di tempat lain."
+    "Author": "Francois De La Roche",
+    "quotes": "If you are unable to find peace within yourself, there is no point in looking elsewhere."
   },
   {
-    "author": "Francois De La Roche",
-    "quotes": "Kita terbiasa menyembunyikan diri dari orang lain, sampai akhirnya kita sendiri tersembunyi dari diri kita."
+    "Author": "Francois De La Roche",
+    "quotes": "We are used to hiding ourselves from others, until finally we ourselves are hidden from ourselves."
   },
   {
     "author": "Francois Roche",
-    "quotes": "Kita lebih sibuk menyakinkan orang lain bahwa kita bahagia ketimbang benar-benar merasakan bahagia itu sendiri."
+    "quotes": "We are more busy convincing other people that we are happy than actually feeling happy itself."
   },
   {
     "author": "Frank Crane",
-    "quotes": "Anda mungkin ditipu jika terlalu mempercayai, tetapi hidup Anda akan tersiksa jika tidak cukup mempercayai."
+    "quotes": "You may be cheated if you trust too much, but your life will suffer if you don't trust enough."
   },
   {
     "author": "Frank Giblin",
-    "quotes": "Jadilah diri Anda sendiri. Siapa lagi yang bisa melakukannya lebih baik ketimbang diri Anda sendiri?."
+    "quotes": "Be yourself. Who else can do it better than yourself ?."
   },
   {
     "author": "Franklin",
-    "quotes": "Bila Anda ingin dicintai, cintailah dan bersikaplah sebagai orang yang patut dicintai."
+    "quotes": "If you want to be loved, love and behave as someone who should be loved."
   },
   {
     "author": "Fuller",
-    "quotes": "Contoh yang baik adalah nasihat terbaik."
+    "quotes": "Good examples are the best advice."
   },
   {
     "author": "Galileo Galilei",
-    "quotes": "Rumput yang paling kuat tumbuhnya terdapat di atas tanah yang paling keras."
+    "quotes": "The strongest grass grows above the hardest soil."
   },
   {
     "author": "Galileo Galilei",
-    "quotes": "Kamu tidak dapat mengajari seseorang apa pun, kamu hanya bisa membantunyanya menemukan apa yang ada dalam dirinya sendiri."
+    "quotes": "You can't teach someone anything, you can only help him discover what is in himself."
   },
   {
     "author": "Gandhi",
-    "quotes": "Mereka yang berjiwa lemah tak akan mampu memberi seuntai maaf tulus. Pemaaf sejati hanya melekat bagi mereka yang berjiwa tangguh."
+    "quotes": "Those with weak souls will not be able to give a single sincere forgiveness. True forgiveness is only attached to those who are tough at heart."
   },
   {
     "author": "Gandhi",
-    "quotes": "Kebahagiaan tergantung pada apa yang dapat Anda berikan, bukan pada apa yang Anda peroleh."
+    "quotes": "Happiness depends on what you can give, not on what you get."
   },
   {
     "author": "Gen Collin Powel",
-    "quotes": "Tak ada rahasia untuk menggapai sukses. Sukses itu dapat terjadi karena persiapan, kerja keras dan mau belajar dari kegagalan."
+    "quotes": "There are no secrets to achieving success. Success can occur because of preparation, hard work and willingness to learn from failure."
   },
   {
     "author": "George B. Shaw",
-    "quotes": "Hidup bukanlah tentang menemukan dirimu sendiri. Hidup adalah tentang menciptakan dirimu sendiri."
+    "quotes": "Life is not about finding yourself. Life is about creating yourself."
   },
-  {
+ {
     "author": "George III",
-    "quotes": "Saya lebih baik kehilangan mahkota daripada melakukan tindakan yang menurut saya memalukan."
+    "quotes": "I'd rather lose my crown than to do something I think is embarrassing."
   },
   {
     "author": "George Santayana",
-    "quotes": "Tidak ada obat untuk kelahiran dan kematian, kecuali menikmati yang ada di antara keduanya."
+    "quotes": "There is no cure for birth and death, except the enjoyment between them."
   },
   {
     "author": "George W.",
-    "quotes": "Harapan tak pernah meninggalkan kita, kita yang meninggalkan harapan."
+    "quotes": "Hope never leaves us, we are the ones who leave hope."
   },
   {
     "author": "Gilbert Chesterton",
-    "quotes": "Agar bisa menjadi cukup cerdas untuk meraih semua uang yang diinginkan, kita harus cukup bodoh untuk menginginkannya."
+    "quotes": "To be smart enough to get all the money we want, we have to be stupid enough to want it."
   },
   {
     "author": "Gothe",
-    "quotes": "Semua pengetahuan yang kumiliki bisa orang lain peroleh, tapi hatiku hanyalah untuk diriku sendiri."
+    "quotes": "All the knowledge I have can be obtained by others, but my heart is only for myself."
   },
   {
     "author": "H. N. Spieghel",
-    "quotes": "Betapapun tingginya burung terbang, toh dia harus mencari dan mendapatkan makanannya di bumi juga."
+    "quotes": "No matter how high a bird flies, he has to find and get food on earth too."
   },
   {
     "author": "H.L Hunt",
-    "quotes": "Tetapkan apa yang Anda inginkan. Putuskan Anda ingin menukarnya dengan apa. Tentukan prioritas dan laksanakan."
+    "quotes": "Set what you want. Decide what you want to exchange it for. Set priorities and go for it."
   },
   {
-    "author": "Hal Borland",
-    "quotes": "Melihat pohon, saya jadi mengerti tentang kesabaran. Memandang rumput, saya jadi menghargai ketekunan."
-  },
-  {
-    "author": "Hamka",
-    "quotes": "Kecantikan yang abadi terletak pada keelokan adab dan ketinggian ilmu seseorang, bukan terletak pada wajah dan pakaiannya."
+    "Author": "Borland Thing",
+    "quotes": "Seeing a tree, I understand about patience. Looking at the grass, I appreciate persistence."
   },
   {
     "author": "Hamka",
-    "quotes": "Kita harus yakin bahwa apa yang ditentukan oleh Tuhan untuk kita, itulah yang terbaik."
+    "quotes": "The eternal beauty lies in the beauty of one's manners and the heights of knowledge, not in his face and clothes."
   },
   {
     "author": "Hamka",
-    "quotes": "Berani menegakkan keadilan, walaupun mengenai diri sendiri, adalah puncak segala keberanian."
+    "quotes": "We must believe that what God determines for us, is the best."
   },
   {
     "author": "Hamka",
-    "quotes": "Hawa nafsu membawa kesesatan dan tidak berpedoman. Sementara akal menjadi pedoman menuju keutamaan. Hawa nafsu menyuruhmu berangan-angan, tetapi akal menyuruhmu menimbang."
+    "quotes": "Dare to uphold justice, even if it concerns yourself, is the pinnacle of all courage."
+  },
+  {
+    "author": "Hamka",
+    "quotes": "Lust leads astray and is not guided. While reason becomes a guide to virtue. Lust tells you to daydream, but reason tells you to weigh."
   },
   {
     "author": "Harriet Braiker",
-    "quotes": "Berusaha berhasil untuk memotivasi dirimu, tapi berusaha untuk selalu sempurna akan membuat tertekan."
+    "quotes": "Trying to succeed to motivate yourself, but trying to always be perfect will be stressful."
   },
   {
     "author": "Helen Keller",
-    "quotes": "Kita tidak akan belajar berani dan sabar jika di dunia ini hanya ada kegembiraan."
+    "quotes": "We will not learn to be courageous and patient if there is only joy in this world."
   },
   {
     "author": "Henri Ford",
-    "quotes": "Kegagalan hanyalah kesempatan untuk memulai lagi dengan lebih pandai."
+    "quotes": "Failure is just an opportunity to start over smarter."
   },
   {
     "author": "Henry David Thoreau",
-    "quotes": "Kebaikan adalah satu-satunya investasi yang tidak akan merugikan."
+    "quotes": "Goodness is the only investment that won't hurt."
   },
   {
     "author": "Henry Ford",
-    "quotes": "Idealis adalah orang yang membantu orang lain untuk makmur."
+    "quotes": "Idealists are people who help others to prosper."
   },
   {
     "author": "Henry Ford",
-    "quotes": "Berpikir itu adalah pekerjaan yang berat di antara segala jenis pekerjaan. Itulah sebabnya sedikit sekali orang yang senang melakukannya."
+    "quotes": "Thinking is a tough job among all kinds of jobs. That's why so few people enjoy doing it."
   },
   {
     "author": "Henry Ford",
-    "quotes": "Persaingan yang tujuannya hanya untuk bersaing, untuk mengalahkan orang lain, tak pernah mendatangkan banyak manfaat."
+    "quotes": "Competition whose purpose is only to compete, to beat other people, never brings many benefits."
   },
   {
     "author": "Henry Longfellow",
-    "quotes": "Kehidupan orang-orang besar mengingatkan kita bahwa kita bisa membuat kehidupan kita luhur."
+    "quotes": "The life of great people reminds us that we can make our lives sublime."
   },
   {
     "author": "Henry Thoreau",
-    "quotes": "Hidupku menjadi hiburanku dan tak hentinya memberikan kejutan. Hidupku bagaikan drama dengan begitu banyak babak tanpa adegan penutup."
+    "quotes": "My life has become my entertainment and never stops giving surprises. My life is like a drama with so many acts without closing scenes."
   },
   {
     "author": "Hubert Humprey",
-    "quotes": "Apa yang Anda lihat adalah apa yang Anda capai."
+    "quotes": "What you see is what you achieve."
   },
   {
-    "author": "Imam Al-Ghazali",
-    "quotes": "Kebahagiaan terletak pada kemenangan memerangi hawa nafsu dan menahan keinginan yang berlebih-lebihan."
+    "Author": "Imam Al-Ghazali",
+    "quotes": "Happiness lies in winning the fight against lust and suppressing excess desire."
   },
   {
-    "author": "Imam Ghazali",
-    "quotes": "Caci maki dari seorang penjahat merupakan kehormatan bagi seorang yang jujur."
+    "Author": "Imam Ghazali",
+    "quotes": "Swearing from a criminal is an honor for an honest person."
   },
   {
     "author": "J.C.F von Schiller",
-    "quotes": "Orang yang terlalu banyak merenung akan meraih sedikit."
+    "quotes": "One who meditates too much grabs little."
   },
   {
     "author": "Jack Hyles",
-    "quotes": "Jangan gunakan orang-orang untuk membangun pekerjaan besar, gunakan pekerjaan Anda untuk membangun orang-orang besar."
+    "quotes": "Don't use people to build great jobs, use your work to build great people."
   },
   {
     "author": "Jackson Brown",
-    "quotes": "Kesalahaan terbesar yang mungkin Anda buat adalah mempercayai bahwa Anda bekerja untuk orang lain."
+    "quotes": "The biggest mistake you can make is to believe that you work for someone else."
   },
   {
     "author": "Jacques Audiberti",
-    "quotes": "Kepengecutan yang paling besar adalah ketika kita membuktikan kekuatan kita kepada kelemanan orang lain."
+    "quotes": "The greatest cowardice is when we prove our strength to the weakness of others."
   },
   {
     "author": "James Thurber",
-    "quotes": "Jangan lihat masa lalu dengan penyesalan, jangan pula lihat masa depan dengan ketakutan, tapi lihatlah sekitar Anda dengan penuh kesadaran."
+    "quotes": "Do not look at the past with regret, do not look at the future with fear, but look around you with full awareness."
   },
   {
     "author": "Janet Erskine",
-    "quotes": "Jangan menunggu keadaan yang ideal. Jangan juga menunggu peluang-peluang terbaik. Keduanya tak akan pernah datang."
+    "quotes": "Do not wait for the ideal situation. Do not wait for the best opportunities. Both will never come."
   },
   {
     "author": "Jeff Goins",
-    "quotes": "Kebanyakan orang sukses yang saya kenal bukan orang yang sibuk, mereka orang yang focus."
+    "quotes": "Most of the successful people I know are not busy people, they are focused people."
   },
   {
     "author": "Jerry West",
-    "quotes": "Anda tidak dapat melakukan banyak hal di hidup Anda, jika Anda hanya bekerja di hari-hari yang Anda rasakan baik."
+    "quotes": "You can't do a lot of things in your life, if you only work on the days that you feel good."
   },
   {
     "author": "Jim Rohn",
-    "quotes": "Tembok yang kita bangun untuk menghambat kesedihan, juga membuat kita tertutup dari kebahagiaan."
+    "quotes": "The walls we build to block sadness, also keep us closed from happiness."
   },
   {
     "author": "Jim Rohn",
-    "quotes": "Jika Anda tidak merancang hidup Anda sendiri, kemungkinan Anda akan menjalani rencana orang lain. Apa yang mereka rencanakan untuk Anda? Tidak banyak."
+    "quotes": "If you don't design your own life, chances are you will go through with someone else's plans. What did they plan for you? Not much."
   },
   {
     "author": "Jim Ryan",
-    "quotes": "Motivasi adalah sesuatu yang membuat Anda memulai. Kebiasaan adalah sesuatu yang membuat Anda melanjutkan."
+    "quotes": "Motivation is something that gets you started. Habits are what gets you going."
   },
   {
     "author": "Jimi Hendrix",
-    "quotes": "Ketika kekuatan akan cinta melebihi kecintaan akan kekuasaan, maka dunia pun menemukan kedamaian."
+    "quotes": "When the power of love exceeds the love of power, the world finds peace."
   },
   {
     "author": "Jimmy Dean",
-    "quotes": "Aku tak bisa merubah arah angin, tapi aku bisa menyesuaikan layarku untuk tetap bisa mencapai tujuanku."
+    "quotes": "I can't change the direction of the wind, but I can adjust my screen to still reach my destination."
   },
   {
     "author": "Joan Baez",
-    "quotes": "Kita tak bisa memilih bagaimana kita meninggal atau kapan. Kita hanya bisa memutuskan bagaimana kita hidup. Sekarang."
+    "quotes": "We can't choose how we die or when. We can only decide how we live. Now."
   },
   {
     "author": "John B. Gough",
-    "quotes": "Jika Anda ingin sukses, Anda harus menciptakan peluang untuk diri sendiri."
+    "quotes": "If you want to be successful, you have to create opportunities for yourself."
   },
   {
     "author": "John C. Maxwell",
-    "quotes": "Bekerja keras sekarang, merasakan hasilnya nanti; bermalas-malasan sekarang, merasakan akibatnya nanti."
+    "quotes": "Work hard now, feel the results later; lazy now, feel the consequences later."
+  },
+ {
+    "author": "John C. Maxwell",
+    "quotes": "To handle yourself, use your head. To handle others, use your heart."
   },
   {
     "author": "John C. Maxwell",
-    "quotes": "Untuk menangani diri Anda sendiri, gunakan kepala Anda. Untuk menangani orang lain, gunakan hati Anda."
-  },
-  {
-    "author": "John C. Maxwell",
-    "quotes": "Bekerja keras sekarang, merasakannya nanti. Bermalas-malas sekarang, merasakan akibatnya nanti."
+    "quotes": "Work hard now, feel it later. Lazy now, feel the consequences later."
   },
   {
     "author": "John Craig",
-    "quotes": "Tidak peduli seberapa banyak yang dapat Anda lakukan, tidak peduli seberapa menarik hati kepribadian Anda, Anda tidak dapat melangkah jauh jika Anda tidak dapat bekerja bersama orang lain."
+    "quotes": "No matter how much you can do, no matter how attractive your personality is, you can't go far if you can't work with other people."
   },
   {
     "author": "John D. Rockefeller",
-    "quotes": "Orang termiskin adalah orang yang tidak mempunyai apa-apa kecuali uang."
+    "quotes": "The poorest people are people who have nothing but money."
   },
   {
     "author": "John Gardne",
-    "quotes": "Jika kita melayani, maka hidup akan lebih berarti."
+    "quotes": "If we serve, life will be more meaningful."
   },
   {
     "author": "John Gray",
-    "quotes": "Sebenarnya semua kesulitan merupakan kesempatan bagi jiwa yang tumbuh."
+    "quotes": "Actually all difficulties are opportunities for the soul to grow."
   },
   {
     "author": "John Manson",
-    "quotes": "Anda dilahirkan orisinal, jadi tidak perlu setengah mati meniru orang lain."
+    "quotes": "You were born original, so you don't have to die to copy other people."
   },
   {
     "author": "John Maxwell",
-    "quotes": "Seberapa jauh Anda gagal, tidak masalah, tetapi yang penting seberapa sering Anda bangkit kembali."
+    "quotes": "How far you fail, it doesn't matter, but it matters how often you get back up."
   },
   {
     "author": "John Q. Adams",
-    "quotes": "Jika tindakan-tindakan Anda mengilhami orang lain untuk bermimpi lebih, belajar lebih, bekerja lebih, dan menjadi lebih baik, Anda adalah seorang pemimpin."
+    "quotes": "If your actions inspire others to dream more, learn more, work more, and be better, you are a leader."
   },
   {
     "author": "John Ruskin",
-    "quotes": "Saya yakin, ujian pertama bagi orang besar ialah kerendahan hati."
+    "quotes": "I believe, the first test for great people is humility."
   },
   {
     "author": "John Ruskin",
-    "quotes": "Penghargaan tertinggi untuk kerja keras seseorang bukanlah apa yang ia hasilkan, tapi bagaimana ia berkembang karenanya."
+    "quotes": "The highest reward for a person's hard work is not what he earns, but how he develops because of it."
   },
   {
     "author": "John Ruskin",
-    "quotes": "Penghargaan tertinggi untuk kerja keras seseorang bukanlah apa yang ia hasilkan, tetapi bagaimana ia berkembang karenanya."
+    "quotes": "The highest reward for a person's hard work is not what he earns, but how he develops because of it."
   },
   {
     "author": "John Wolfgang",
-    "quotes": "Perbuatan-perbuatan salah adalah biasa bagi manusia, tetapi perbuatan pura-pura itulah sebenarnya yang menimbulkan permusuhan dan pengkhianatan."
+    "quotes": "Wrong actions are common to humans, but pretend actions are actually what cause enmity and betrayal."
   },
   {
     "author": "Joseph Addison",
-    "quotes": "Rahmat sering datang kepada kita dalam bentuk kesakitan, kehilangan dan kekecewaan; tetapi kalau kita sabar, kita segera akan melihat bentuk aslinya."
+    "quotes": "Grace often comes to us in the form of pain, loss and disappointment; but if we are patient, we will soon see its true form."
   },
   {
     "author": "Julia Roberts",
-    "quotes": "Cinta sejati tidak datang kepadamu, tetapi harus datang dari dalam dirimu."
+    "quotes": "True love does not come to you, but must come from within you."
   },
   {
     "author": "Junius",
-    "quotes": "Integritas seseorang diukur dengan tingkah lakunya bukan profesinya."
+    "quotes": "The integrity of a person is measured by his behavior, not by profession."
   },
   {
     "author": "Kahlil Gibran",
-    "quotes": "Kita berdoa kalau kesusahan dan membutuhkan sesuatu, mestinya kita juga berdoa dalam kegembiraan besar dan saat rezeki melimpah."
+    "quotes": "We pray if we are in trouble and need something, we should also pray in great joy and when sustenance is abundant."
   },
   {
     "author": "Kahlil Gibran",
-    "quotes": "Untuk memahami hati dan pikiran seseorang, jangan lihat apa yang sudah dia capai, tapi lihat apa yang dia cita-citakan."
+    "quotes": "To understand a person's heart and mind, don't look at what he has achieved, but look at what he aspires to do."
   },
   {
     "author": "Keri Russel",
-    "quotes": "Kadang kala, justru keputusan kecil yang akan mampu merubah hidup kita selamanya."
+    "quotes": "Sometimes, it's the small decisions that will change our lives forever."
   },
   {
     "author": "Knute Rockne",
-    "quotes": "Apabila perjalanan menjadi sulit, orang ulet akan berjalan terus."
+    "quotes": "When the journey gets tough, the resilient will go on."
   },
-  {
-    "author": "Kong Hu Cu",
-    "quotes": "Orang yang berbudi tinggi selalu berpedoman pada keadilan dan selalu berusaha menjalankan kewajiban."
+ {
+    "Author": "Kong Hu Cu",
+    "quotes": "People who are virtuous are always guided by justice and always try to carry out their obligations."
   },
   {
     "author": "Konrad Adenauer",
-    "quotes": "Kita semua hidup di bawah langit yang sama, tetapi tidak semua orang punya cakrawala yang sama."
+    "quotes": "We all live under the same sky, but not everyone has the same horizon."
   },
   {
     "author": "Kung Fu-Tze",
-    "quotes": "Ia yang bijak akan merasa malu, jika kata-katanya lebih baik daripada tindakannya."
+    "quotes": "He who is wise will feel ashamed, if his words are better than his actions."
   },
   {
     "author": "Lao Tzu",
-    "quotes": "Saat sadar bahwa kau tidak kekurangan suatu apa pun, seisi dunia menjadi milikku."
+    "quotes": "When you realize that you don't lack anything, the whole world is mine."
   },
   {
     "author": "Lao Tzu",
-    "quotes": "Saat sadar bahwa kau tidak kekurangan suatu apa pun, seisi dunia menjadi milikmu."
+    "quotes": "When you realize that you don't lack anything, the whole world is yours."
   },
   {
     "author": "Les Brown",
-    "quotes": "Terima tanggung jawab untuk diri Anda sendiri. Sadari bahwa hanya Anda sendiri, bukan orang lain, yang bisa membuat Anda pergi ke tempat yang Anda inginkan."
+    "quotes": "Accept responsibility for yourself. Realize that only you, not anyone else, can get you where you want to go."
   },
   {
     "author": "Louis Gittner",
-    "quotes": "Meski yang kita hadapi adalah jalan buntu, namun cinta akan membangun jalan layang di atasnya."
+    "quotes": "Even though what we face is a dead end, love will build an overpass on it."
   },
   {
     "author": "Louis Pasteur",
-    "quotes": "Tahukah Anda rahasia sukses saya dalam mencapai tujuan? Cuma keuletan, tak lebih dan tak kurang."
+    "quotes": "Do you know the secret to my success in achieving goals? Just tenacity, nothing more and nothing less."
   },
   {
     "author": "Mahatma Gandhi",
-    "quotes": "Kepuasan terletak pada usaha, bukan pada hasil. Berusaha dengan keras adalah kemenangan yang hakiki."
+    "quotes": "Satisfaction lies in effort, not in results. Trying hard is the ultimate victory."
   },
   {
     "author": "Marcel Ayme",
-    "quotes": "Kerendahan hati merupakan ruang tunggu bagi kesempurnaan."
+    "quotes": "Humility is a waiting room for perfection."
   },
   {
     "author": "Maria Sharapova",
-    "quotes": "Saya belajar banyak dari kekalahan. Dan kekalahan-kekalahan itu, membuat saya semakin tabah."
+    "quotes": "I learned a lot from the defeats. And those defeats, made me even stronger."
   },
   {
     "author": "Mark Cuban",
-    "quotes": "Buatlah usaha Anda berhasil dengan satu-satunya cara: kerja keras!."
+    "quotes": "Make your business successful the only way: hard work !."
   },
   {
     "author": "Mark Twain",
-    "quotes": "Kebaikan adalah bahasa yang dapat didengar si tuli dan bisa dilihat si buta."
+    "quotes": "Kindness is the language that the deaf can hear and the blind can see."
   },
   {
     "author": "Marsha Sinetar",
-    "quotes": "Lakukan apa yang Anda senangi, uang akan mengikuti."
+    "quotes": "Do what you love, money will follow."
   },
   {
     "author": "Martin Luther King",
-    "quotes": "Tak ada waktu yang tidak tepat untuk melakukan sesuatu yang benar."
+    "quotes": "There isn't a bad time to do something right."
   },
   {
     "author": "Mary McCarthy",
-    "quotes": "Kendatipun Anda berada di jalur yang tepat, Anda akan tetap terkejar jika hanya duduk-duduk saja disana."
+    "quotes": "Even if you are on the right track, you will still be catching up if you just sit there."
   },
   {
     "author": "Maxim Gorky",
-    "quotes": "Kebahagiaan selalu tampak kecil saat berada dalam genggaman. Tapi coba lepaskan dan Anda akan langsung tahu, betapa besar dan berhargannya kebahagiaan."
+    "quotes": "Happiness always seems small when it is in your hand. But try to let it go and you will immediately know how great and valuable happiness is."
   },
   {
     "author": "Mery Hemingway",
-    "quotes": "Latih diri Anda untuk tidak khawatir. Kekhawatiran tak pernah memperbaiki apa-apa."
+    "quotes": "Train yourself not to worry. Worry never fixes anything."
   },
   {
     "author": "Michael Drury",
-    "quotes": "Kematangan bukanlah suatu keadaan yang dicapai dengan usia. Dia merupakan perkembangan dari cinta, belajar, membaca dan berpikir hingga menghasilkan kemampuan."
+    "quotes": "Maturity is not a state that is reached with age. It is the development of love, learning, reading and thinking to produce abilities."
   },
   {
     "author": "Michael Pritchard",
-    "quotes": "Anda berhenti tertawa bukan karena bertambah tua. Sebaliknya Anda bertambah tua justru karena berhenti tertawa."
+    "quotes": "You stop laughing not because you get older. On the contrary, you get older because you stop laughing."
   },
   {
     "author": "Miguel de Cervantes",
-    "quotes": "Pepatah adalah kalimat singkat berdasarkan pengalaman panjang."
+    "quotes": "The saying is a short sentence based on long experience."
   },
   {
     "author": "Miguel de Unamuno",
-    "quotes": "Tidak dicintai orang lain memang menyedihkan, tapi lebih menyedihkan lagi kalau tidak bisa mencintai orang lain."
+    "quotes": "Not being loved by other people is sad, but even more sad if you can't love someone else."
   },
   {
     "author": "N. H. Casson",
-    "quotes": "Kemiskinan jiwa lebih mengerikan daripada kemiskinan jasmani atau materi."
+    "quotes": "The poverty of the soul is more terrible than physical or material poverty."
   },
   {
     "author": "Natalie Portman",
-    "quotes": "Anda belum bisa dibilang kaya sampai Anda memiliki sesuatu yang tidak dapat dibeli uang."
+    "quotes": "You're not rich until you have something money can't buy."
   },
   {
     "author": "Nelson Mandela",
-    "quotes": "Pendidikan adalah senjata paling ampuh dimana kau dapat menggunakannya untuk merubah dunia."
+    "quotes": "Education is the most powerful weapon which you can use to change the world."
   },
   {
     "author": "Norman Peale",
-    "quotes": "Campakanlah jauh-jauh pikiran murung dan kesal itu, lalu bangkitkanlah."
+    "quotes": "Get away with that sad and annoyed thought, then raise it up."
   },
   {
     "author": "Nunse",
-    "quotes": "Bukanlah yang kuat, tetapi yang uletlah yang menjadikan mereka manusia yang besar."
+    "quotes": "It is not the strong, but the resilient that makes them great humans."
   },
   {
     "author": "O. S. Marden",
-    "quotes": "Kemajuan adalah hasil dari memusatkan seluruh kekuatan jiwa dan pikiran pada cita-cita yang dituju."
+    "quotes": "Progress is the result of focusing all the strength of the soul and mind on the goals that are aimed at."
   },
   {
     "author": "Oliver W. Holmes",
-    "quotes": "Semakin lama kita hidup, semakin kita menemukan bahwa kita mirip dengan orang lain."
+    "quotes": "The longer we live, the more we find that we are similar to other people."
   },
   {
     "author": "Oprah Winfrey",
-    "quotes": "Melakukan yang terbaik pada saat ini akan menempatkan Anda ke tempat terbaik pada saat berikutnya."
+    "quotes": "Doing your best now will put you into the best possible place next time."
   },
   {
     "author": "Oscar Wilde",
-    "quotes": "Jika seseorang menyatakan kebenaran, dia yakin; cepat atau lambat; akan mendapatkannya."
+    "quotes": "If someone tells the truth, he believes; sooner or later; will find it."
   },
   {
     "author": "Pablo Picasso",
-    "quotes": "Bila semangat Anda menurun, lakukanlah sesuatu. Kalau Anda telah melakukan sesuatu keadaan tidak berubah, lakukanlah sesuatu yang berbeda."
+    "quotes": "If your enthusiasm is low, do something. If you have done something the situation does not change, do something different."
   },
   {
     "author": "Paul Galvin",
-    "quotes": "Jangan takut dengan kesalahan. Kebijaksanaan biasanya lahir dari kesalahan."
+    "quotes": "Do not be afraid of mistakes. Wisdom is usually born of mistakes."
   },
   {
     "author": "Paul Harvey",
-    "quotes": "Saya tidak pernah melihat suatu monumen didirikan bagi orang pesimis."
+    "quotes": "I've never seen a monument erected for pessimists."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Beranilah menyadari kesalahan dan mulai lagi."
+    "author": "Chinese proverb",
+    "quotes": "Dare to realize mistakes and start again."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Benar jadi berani."
+    "author": "Chinese proverb",
+    "quotes": "It's true, be brave."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang bertanya, bodoh dalam 5 menit. Dan orang yang tidak bertanya akan tetap bodoh untuk selamanya."
+    "author": "Chinese proverb",
+    "quotes": "The person who asks, is stupid in 5 minutes. And the person who doesn't ask will remain stupid forever."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Bila saya mendengar, saya akan lupa. Setelah melihat saya bisa mengerti. Dan setelah mengerjakan, barulah saya bisa memahami."
+    "author": "Chinese proverb",
+    "quotes": "When I hear, I will forget. After seeing I can understand. And after doing, then I can understand."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang tersenyum selalu lebih kuat dari orang yang marah."
+    "author": "Chinese proverb",
+    "quotes": "People who smile are always stronger than people who are angry."
   },
   {
-    "author": "Pepatah Cina",
-    "quotes": "Orang yang memindahkan gunung memulai dengan memindahkan batu-batu kecil."
+    "author": "Chinese proverb",
+    "quotes": "People who move mountains start by moving small stones."
   },
   {
-    "author": "Pepatah Inggris",
-    "quotes": "Orang yang mencari masalah akan selalu mendapatkannya."
+    "author": "English proverb",
+    "quotes": "People who seek trouble will always find them."
   },
   {
-    "author": "Pepatah Inggriss",
-    "quotes": "Keterampilan dan keyakinan merupakan pasukan bersenjata yang tidak dapat dikalahkan."
+    "author": "English proverb",
+    "quotes": "Skill and confidence are an armed force that cannot be defeated."
   },
   {
-    "author": "Pepatah Jepang",
-    "quotes": "Sebatang anak panah mudah dipatahkan, tetapi tidak demikian dengan sepuluh anak panah yang disatukan."
+    "author": "Japanese proverb",
+    "quotes": "An arrow is easy to break, but ten arrows joined together."
   },
   {
-    "author": "Pepatah Jepang",
-    "quotes": "Visi tanpa aksi adalah mimpi di siang bolong. Aksi tanpa visi adalah mimpi buruk."
+    "author": "Japanese proverb",
+    "quotes": "Vision without action is a dream in broad daylight. Action without vision is a nightmare."
   },
   {
-    "author": "Pepatah Jerman",
-    "quotes": "Orang yang tak pernah mencicipi pahit tak akan tahu apa itu manis."
+    "author": "German proverb",
+    "quotes": "People who have never tasted bitter will not know what is sweet."
   },
   {
-    "author": "Pepatah Latin",
-    "quotes": "Dengan belajar Anda bisa mengajar. Dengan mengajar, Anda belajar."
+    "author": "Latin proverb",
+    "quotes": "By learning you can teach. By teaching, you learn."
   },
   {
-    "author": "Pepatah Persia",
-    "quotes": "Saya menangis karena tak punya sepatu, sampai saya melihat orang tak punya kaki."
+    "author": "Persian proverb",
+    "quotes": "I cried because I didn't have shoes, until I saw people without feet."
   },
   {
-    "author": "Pepatah Roma",
-    "quotes": "Kesengsaraan menghasilkan ketekunan. Ketekunan menghasilkan watak, dan watak menghasilkan harapan."
+    "author": "Roman proverb",
+    "quotes": "Misery produces perseverance. Persistence produces character, and disposition produces hope."
   },
   {
-    "author": "Pepatah Skotlandia",
-    "quotes": "Bila kemauan siap, kaki menjadi ringan."
+    "author": "Scottish proverb",
+    "quotes": "When the will is ready, the legs are light."
   },
   {
-    "author": "Pepatah Spanyol",
-    "quotes": "Mengenal diri sendiri adalah awal dari perbaikan diri."
+    "author": "Spanish proverb",
+    "quotes": "Knowing yourself is the beginning of self-improvement."
   },
   {
-    "author": "Pepatah Tibet",
-    "quotes": "Jangan meremehkan raja yang picik, seperti halnya jangan meremehkan sungai yang kecil."
+    "author": "Tibetan proverb",
+    "quotes": "Don't underestimate the petty king, just as don't underestimate a small river."
   },
   {
-    "author": "Pepatah Tibet",
-    "quotes": "Apabila seseorang mengajarkan sesuatu, dia sendiri harus melaksanakan ajaran itu."
+    "author": "Tibetan proverb",
+    "quotes": "When someone teaches something, he himself must carry out that teaching."
   },
   {
     "author": "Peter Sinclair",
-    "quotes": "Kehidupan yang hebat adalah kulminasi dari pemikiran-pemikiran hebat disertai dengan tindakan-tindakan hebat."
+    "quotes": "The great life is the culmination of great thoughts accompanied by great actions."
   },
   {
     "author": "Phyllis Bottome",
-    "quotes": "Ada dua cara mengatasi kesulitan, Anda mengubah kesulitan-kesulitan atau Anda mengubah diri sendiri untuk mengatasinya."
+    "quotes": "There are two ways to overcome difficulties, you change the difficulties or you change yourself to overcome them."
   },
   {
     "author": "Plato",
-    "quotes": "Orang bijak berbicara karena mereka mempunyai sesuatu untuk dikatakan, orang bodoh berbicara karena mereka ingin mengatakan sesuatu."
+    "quotes": "The wise speak because they have something to say, the foolish speak because they want to say something."
   },
   {
     "author": "Plato",
-    "quotes": "Orang bijak berbicara karena ia memiliki sesuatu untuk dikatakan. Orang bodoh berbicara karena ia atau dia harus mengatakan sesuatu."
+    "quotes": "A wise man speaks because he has something to say. A fool speaks because he or she has to say something."
   },
   {
     "author": "Plato",
-    "quotes": "Berbuat tidak adil lebih memalukan daripada menderita ketidakadilan."
+    "quotes": "Doing unfair is more shameful than suffering injustice."
   },
   {
     "author": "Plato",
-    "quotes": "Siapa yang tidak bisa memimpin dirinya sendiri, tidak akan bisa memimpin orang."
+    "quotes": "Who can not lead himself, will not be able to lead people."
   },
   {
     "author": "Plautus",
-    "quotes": "Kesabaran adalah obat terbaik untuk semua masalah."
+    "quotes": "Patience is the best medicine for all problems."
   },
   {
     "author": "Plautus",
-    "quotes": "Jauh lebih mudah memulai secara baik daripada mengakhiri secara baik."
+    "quotes": "It is much easier to start well than to end well."
   },
   {
     "author": "Pliny The Elder",
-    "quotes": "Harapan adalah tiang yang menyangga dunia."
+    "quotes": "Hope is the pillar that supports the world."
   },
   {
     "author": "R. A. Kartini",
-    "quotes": "Kemenangan gemilang tidak diperoleh dari medan pertempuran saja, tetapi sering diperoleh dari hati."
+    "quotes": "Glorious victories are not obtained from the battlefield alone, but are often obtained from the heart."
   },
   {
     "author": "R. Browning",
-    "quotes": "kita jatuh untuk bangun, berhenti untuk berjalan, dan tidur untuk bangun."
+    "quotes": "we fall to wake up, stop to walk, and sleep to wake up."
   },
   {
     "author": "R. W. Shephred",
-    "quotes": "Kamu harus menghadapi depresi, sama seperti kamu menghadapi seekor harimau."
+    "quotes": "You have to face depression, just as you face a tiger."
   },
   {
     "author": "R.H. Grant",
-    "quotes": "Jika Anda mempekerjakan orang-orang yang lebih pintar dari Anda, Anda membuktikan Anda lebih pintar dari mereka."
+    "quotes": "If you hire people who are smarter than you, you prove you are smarter than them."
   },
   {
     "author": "Rabbi Schachtel",
-    "quotes": "Kebahagiaan bukanlah memiliki apa yang kita inginkan, melainkan menginginkan apa yang kita miliki."
+    "quotes": "Happiness is not having what we want, but wanting what we have."
   },
   {
     "author": "Ralph W. Emerson",
-    "quotes": "Satu ons aksi jauh lebih berharga daripada satu ton teori."
+    "quotes": "An ounce of action is worth much more than a ton of theory."
   },
   {
     "author": "Ralph W. Emerson",
-    "quotes": "Seseorang itu sukses besar jika dia sadar, kegagalan-kegagalannya adalah persiapan untuk kemenangan-kemenangannya."
+    "quotes": "A person is a great success if he is aware, his failures are preparation for his victories."
   },
   {
     "author": "Ralph Waldo Emerson",
-    "quotes": "Kedamaian tidak terdapat di dunia luar, melainkan terdapat dalam jiwa manusia itu sendiri."
+    "quotes": "Peace does not exist in the outside world, but in the human soul itself."
   },
   {
     "author": "Ralph Waldo Emerson",
-    "quotes": "Percayalah kepada orang lain, dan mereka akan tulus kepada Anda. Perlakukan mereka seperti orang besar dan mereka akan memperlihatkan dirinya sebagai orang besar."
+    "quotes": "Trust others, and they will be sincere to you. Treat them like big people and they will show themselves as great people."
   },
   {
     "author": "Rene Descartes",
-    "quotes": "Tidak cukup hanya punya otak yang baik. Yang penting adalah menggunakannya secara baik."
+    "quotes": "It's not enough just to have a good brain. What's important is to use it well."
   },
   {
     "author": "Richard Bach",
-    "quotes": "Tanyakan pada diri sendiri rahasia sukses. Dengarkan jawaban Anda, dan lakukan."
+    "quotes": "Ask yourself the secret to success. Listen to your answers, and do it."
   },
   {
     "author": "Richard C. Miller",
-    "quotes": "Jika rumput tetangga lebih hijau, bersyukurlah Anda masih bisa berpijak di tanah untuk melihatnya."
+    "quotes": "If the neighbor's grass is greener, be thankful you can still get on the ground to see it."
   },
   {
     "author": "Robert Collier",
-    "quotes": "Kesempatan Anda untuk sukses di setiap kondisi selalu dapat diukur oleh seberapa besar kepercayaan Anda pada diri sendiri."
+    "quotes": "Your chances of success in any situation can always be measured by how much you believe in yourself."
   },
   {
     "author": "Robert F. Kennedy",
-    "quotes": "Kemajuan merupakan kata-kata merdu, tetapi perubahanlah penggerakknya dan perubahan mempunyai banyak musuh."
+    "quotes": "Progress is a beautiful word, but change is the driving force and change has many enemies."
   },
   {
     "author": "Robert Frost",
-    "quotes": "Dua jalan dipisahkan pohon, dan saya mengambil jalan yang jarang ditempuh orang. Dan itulah yang membuat perubahan."
+    "quotes": "Two roads separated by a tree, and I took a path less traveled by people. And that is what makes a difference."
   },
   {
     "author": "Robert Frost",
-    "quotes": "Alasan mengapa kecemasan membunuh lebih banyak orang dibanding kerja adalah, lebih banyak orang cemas dibanding bekerja."
+    "quotes": "The reason why anxiety kills more people than work is, more people worry than work."
   },
   {
     "author": "Robert G. Ingersoll",
-    "quotes": "Sedikit orang kaya yang memiliki harta. Kebanyakan harta yang memiliki mereka."
+    "quotes": "Few of the rich own possessions. Most of the possessions own them."
   },
   {
     "author": "Robert Half",
-    "quotes": "Ketekunan bisa membuat yang tidak mungkin jadi mungkin, membuat kemungkinan jadi kemungkinan besar, dan kemungkinan besar menjadi pasti."
+    "quotes": "Persistence can make the impossible possible, make the possibilities big, and the most likely certain."
   },
   {
     "author": "Robert S. Lynd",
-    "quotes": "Hanya ikan yang bodoh yang bisa dua kali kena pancing dengan umpan yang sama."
+    "quotes": "Only a stupid fish can be hooked twice with the same bait."
   },
   {
     "author": "Robert Von Hartman",
-    "quotes": "Ambisi seperti air laut, semakin banyak orang meminumnya semakin orang menjadi haus."
+    "quotes": "Ambition is like sea water, the more people drink it the more thirsty people become."
   },
-  {
+ {
     "author": "Robinsori",
-    "quotes": "Cemas dan ketakutan adalah akibat kebodohan dan keraguan."
+    "quotes": "Anxiety and fear are the result of ignorance and doubt."
   },
   {
     "author": "Romand Rolland",
-    "quotes": "Pahlawan adalah seseorang yang melakukan apa yang mampu dia lakukan."
+    "quotes": "A hero is someone who does what he is capable of."
   },
   {
     "author": "Roosevelt",
-    "quotes": "Jika Anda ingin menjadi orang besar, janganlah suka beromong besar, kerjakanlah hal-hal yang kecil dahulu."
+    "quotes": "If you want to be big, don't like big talk, do the little things first."
   },
   {
     "author": "Ross Cooper",
-    "quotes": "Satu-satunya cara untuk mengubah hidup kita adalah dengan mengubah pikiran kita."
+    "quotes": "The only way to change our lives is to change our minds."
   },
   {
     "author": "Ruth P. Freedman",
-    "quotes": "Perubahan terjadi ketika seseorang menjadi dirinya sendiri, bukan ketika ia mencoba menjadi orang lain."
+    "quotes": "Change occurs when a person is himself, not when he tries to be someone else."
   },
   {
     "author": "Salanter Lipkin",
-    "quotes": "Perbaiki diri Anda, tetapi jangan jatuhkan orang lain."
+    "quotes": "Improve yourself, but don't put others down."
   },
   {
     "author": "Samuel Smiles",
-    "quotes": "Cara tercepat untuk menuntaskan banyak hal adalah dengan menyelesaikannya satu demi satu."
+    "quotes": "The fastest way to get things done is to get things done one by one."
   },
   {
-    "author": "Satya Sai Baba",
-    "quotes": "Dua hal yang harus dilupakan, kebaikan yang telah kita lakukan kepada orang lain dan kesalahan orang lain kepada kita."
+    "Author": "Satya Sai Baba",
+    "quotes": "Two things that must be forgotten, the good we have done to others and the mistakes of others to us."
   },
   {
     "author": "Scott Fitzgerald",
-    "quotes": "Ingatlah, jika Anda menutup mulut sebenarnya Anda telah melakukan pilihan."
+    "quotes": "Remember, if you shut up you have actually made a choice."
   },
   {
     "author": "Seneca",
-    "quotes": "Hati manusia tidak akan pernah tenteram sebelum berdamai dengan diri sendiri."
+    "quotes": "The human heart will never be at peace before being at peace with oneself."
   },
   {
     "author": "Seneca",
-    "quotes": "Hidup berarti berjuang. Hidup nikmat tanpa badai topan adalah laksana laut yang mati."
+    "quotes": "Life means fighting. Living well without a hurricane is like a dead sea."
   },
   {
     "author": "Shackespeare",
-    "quotes": "Kesedihan hanya bisa ditanggulangi oleh orang yang mengalaminya sendiri."
+    "quotes": "Sadness can only be overcome by people who experience it themselves."
   },
   {
     "author": "Shirley Briggs",
-    "quotes": "Beranikan diri untuk menjadi dirimu sendiri, karena kita bisa melakukan hal itu lebih baik daripada orang lain."
+    "quotes": "Dare to be yourself, because we can do that better than anyone else."
   },
   {
     "author": "Soe Hok Gie",
-    "quotes": "Lebih baik diasingkan daripada menyerah kepada kemunafikan."
+    "quotes": "It is better to be exiled than to yield to hypocrisy."
   },
   {
     "author": "Soemantri Metodipuro",
-    "quotes": "Langkah pertama untuk memilih keyakinan pada diri sendiri adalah mengenal diri kita sendiri."
+    "quotes": "The first step to choosing belief in yourself is knowing yourself."
   },
   {
     "author": "Sophocles",
-    "quotes": "Bila seseorang kehilangan segala sumber kebahagiaan, dia tidak lagi hidup, tapi mayat yang bernafas."
+    "quotes": "When a person loses all sources of happiness, he is no longer alive, but a breathing corpse."
   },
   {
     "author": "St. Jerome",
-    "quotes": "Baik, lebih baik, terbaik. Jangan pernah berhenti sampai baik menjadi lebih baik, dan lebih baik menjadi terbaik."
+    "quotes": "Good, better, best. Never stop until good gets better, and better becomes best."
   },
   {
     "author": "Stephen R. Covey",
-    "quotes": "Motivasi adalah api dari dalam. Jika orang lain mencoba menyalakannya untuk Anda, kemungkinan apinya hanya menyala sebentar."
+    "quotes": "Motivation is a fire from within. If someone else tries to light it for you, chances are the fire will only burn briefly."
   },
   {
     "author": "Steve Jobs",
-    "quotes": "Saya bangga, baik pada hal yang tidak kami lakukan maupun pada hal yang kami lakukan."
+    "quotes": "I pride myself in both what we don't do and what we do."
   },
   {
     "author": "Sujiwo Tejo",
-    "quotes": "Cinta tak perlu pengorbanan. Pada saat kau merasa berkorban, pada saat itu cintamu mulai pudar."
+    "quotes": "Love doesn't need to be sacrificed. When you feel sacrificed, at that time your love starts to fade."
   },
   {
     "author": "Sydney Harris",
-    "quotes": "Ancaman nyata sebenarnya bukan pada saat komputer mulai bisa berpikir seperti manusia, tetapi ketika manusia mulai berpikir seperti komputer."
+    "quotes": "The real threat is not when computers start to think like humans, but when people start thinking like computers."
   },
   {
     "author": "Theodore Rosevelt",
-    "quotes": "Lakukan apa yang dapat Anda lakukan dengan apa yang Anda miliki dan tempat Anda berada."
+    "quotes": "Do what you can with what you have and where you are."
   },
   {
     "author": "Thomas Alva Edison",
-    "quotes": "Banyak kegagalan dalam ini dikarenakan orang-orang tidak menyadari betapa dekatnya mereka dengan keberhasilan saat mereka menyerah."
+    "quotes": "A lot of failure in this is because people don't realize how close they are to success when they give up."
   },
   {
     "author": "Thomas Carlyle",
-    "quotes": "Pergilah sejauh mungkin yang bisa Anda lihat dan Anda akan bisa melihat lebih jauh."
+    "quotes": "Go as far as you can see and you will be able to see further."
   },
   {
     "author": "Thomas Fuller",
-    "quotes": "Orang yang tidak bisa memaafkan orang lain sama saja dengan orang yang memutuskan jembatan yang harus dilaluinya, karena semua orang perlu dimaafkan."
+    "quotes": "A person who cannot forgive others is the same as a person who breaks the bridge that must be passed, because everyone needs to be forgiven."
   },
   {
     "author": "Thomas Fuller",
-    "quotes": "Menyaksikan adalah mempercayai, tapi merasakan adalah kebenaran."
+    "quotes": "Witnessing is believing, but feeling is the truth."
   },
   {
     "author": "Thomas Jefferson",
-    "quotes": "Dalam hal prinsip, usahakan kukuh seperti batu karang. Dalam hal selera, coba berenang mengikuti arus."
+    "quotes": "In principle, try to be solid as a rock. In terms of taste, try to swim with the flow."
   },
   {
     "author": "Tung Desem Waringin",
-    "quotes": "Setiap badai pasti berlalu dan saya akan tumbuh semakin kuat."
+    "quotes": "Every storm passes and I will grow stronger."
   },
   {
     "author": "Tyler Durden",
-    "quotes": "Setelah kehilangan segalanya, barulah kita bebas melakukan apa saja."
+    "quotes": "After losing everything, then we are free to do anything."
   },
   {
     "author": "Umar bin Khattab",
-    "quotes": "Raihlah ilmu dan untuk meraih ilmu belajarlah untuk tenang dan sabar."
+    "quotes": "Get knowledge and to gain knowledge learn to be calm and patient."
   },
   {
     "author": "Vicosta Efran",
-    "quotes": "Hiduplah seperti lilin yang menerangi orang lain. Jangan hidup seperti duri yang mencucuk diri dan menyakiti orang lain."
+    "quotes": "Live like a candle that illuminates others. Don't live like a thorn that gushes yourself and hurts others."
   },
   {
     "author": "Victor Hugo",
-    "quotes": "Kesedihan adalah buah. Tuhan tak pernah membiarkannya tumbuh dicabang yang terlalu lemah untuk menanggungnya."
+    "quotes": "Sadness is a fruit. God never allows it to grow into branches too weak to bear it."
   },
   {
     "author": "Victor Hugo",
-    "quotes": "Kebahagian tertinggi dalam kehidupan adalah kepastian bahwa Anda dicintai apa adanya, atau lebih tepatnya dicintai walaupun Anda seperti diri Anda adanya."
+    "quotes": "The highest happiness in life is the assurance that you are loved as is, or rather loved even though you are who you are."
   },
   {
     "author": "Victor Hugo",
-    "quotes": "Masalahnya bukan kurangnya tenaga, tetapi kurangnya daya kemauan."
+    "quotes": "The problem is not a lack of energy, but a lack of will power."
   },
   {
     "author": "Vince Lambardi",
-    "quotes": "Kemenangan bukanlah segala-galanya, tetapi perjuangan untuk menang adalah segala-galanya."
+    "quotes": "Victory is not everything, but the struggle to win is everything."
   },
   {
     "author": "Virginia Wolf",
-    "quotes": "Jika Anda tak bisa mengatakan hal yang benar dari diri Anda, maka Anda pun tak bisa mengatakan hal yang benar dari orang lain."
+    "quotes": "If you can't say the right things from yourself, then you can't say the right things from other people."
   },
   {
     "author": "W. Camden",
-    "quotes": "Burung yang terbang pagi akan memperoleh cacing paling banyak."
+    "quotes": "Birds that fly in the morning will get the most worms."
   },
   {
     "author": "Walt Disney",
-    "quotes": "Cara untuk memulai adalah berhenti berbicara dan mulai lakukan sesuatu."
+    "quotes": "The way to get started is to stop talking and start doing something."
   },
   {
     "author": "Walter Cronkite",
-    "quotes": "Sukses akan lebih permanen jika Anda meraihnya tanpa menghancurkan prinsip-prinsip Anda."
+    "quotes": "Success will be more permanent if you achieve it without breaking your principles."
   },
   {
     "author": "Warren Buffett",
-    "quotes": "Dari dulu saya selalu yakin saya akan kaya. Saya kira saya tak pernah meragukannya, satu menit pun."
+    "quotes": "I've always believed I would be rich. I don't think I've ever doubted it, not even a minute."
   },
   {
     "author": "Whitney Young",
-    "quotes": "Lebih baik menyiapkan diri untuk sebuah peluang dan tidak mendapatkannya daripada punya peluang dan tidak menyiapkan diri."
+    "quotes": "Better to prepare yourself for an opportunity and not get it than to have the opportunity and not prepare yourself."
   },
   {
     "author": "William A. W.",
-    "quotes": "Satu-satunya yang bisa menghalangi kita adalah keyakinan yang salah dan sikap yang negatif."
+    "quotes": "The only thing that can hold us back are wrong beliefs and negative attitudes."
   },
   {
     "author": "William Allen White",
-    "quotes": "Saya tidak takut pada hari esok karena saya sudah melihat hari kemarin dan saya mencintai hari ini."
+    "quotes": "I'm not afraid of tomorrow because I've seen yesterday and I love today."
   },
   {
     "author": "William Arthur",
-    "quotes": "Guru yang biasa-biasa, berbicara. Guru yang bagus, menerangkan. Guru yang hebat, mendemonstrasikan. Guru yang agung, memberi inspirasi."
+    "quotes": "Average teacher, talking. Good teacher, explaining. Great teacher, demonstrating. Great teacher, inspiring."
   },
   {
     "author": "William F. Halsey",
-    "quotes": "Semua masalah menjadi lebih kecil jika Anda tidak mengelaknya, tapi menghadapinya."
+    "quotes": "All problems become smaller if you don't avoid them, but face them."
   },
   {
     "author": "William J. Johnston",
-    "quotes": "Perubahan yang paling bermakna dalam hidup adalah perubahan sikap. Sikap yang benar akan menghasilkan tindakan yang benar."
+    "quotes": "The most meaningful change in life is a change in attitude. The right attitude will produce the right action."
   },
   {
     "author": "William James",
-    "quotes": "Jika Anda harus membuat pilihan dan Anda tidak melakukannya, itu saja sudah pilihan."
+    "quotes": "If you have to make a choice and you don't, that's an option."
   },
   {
     "author": "William James",
-    "quotes": "Percaya bahwa hidup itu berharga, dan kepercayaan Anda akan membantu menciptakan hidup yang berharga."
+    "quotes": "Believe that life is valuable, and your trust will help create a valuable life."
   },
   {
     "author": "William Ralph Inge",
-    "quotes": "Kuatir sama seperti membayar bunga untuk uang yang mungkin tak pernah Anda pinjam."
+    "quotes": "Worry is like paying interest on money you may never borrow."
   },
   {
     "author": "William Shakespeare",
-    "quotes": "Jangan sering menyalakan api kebencian terhadap musuhmu, karena nanti akan membakar dirimu sendiri."
+    "quotes": "Do not often light a fire of hatred against your enemies, because it will burn yourself."
   },
   {
     "author": "William Shakespeare",
-    "quotes": "Bila kamu jujur kepada dirimu sendiri, bagai siang pasti berganti malam, kamu takkan pernah berdusta kepada orang lain."
+    "quotes": "If you are honest with yourself, like the day will change to night, you will never lie to others."
   },
   {
     "author": "William Shakespeare",
-    "quotes": "Kutu yang berani adalah kutu yang bisa berani mendapatkan sarapannya pada bibir seekor singa."
+    "quotes": "A brave flea is a flea that can dare to get its breakfast on the lips of a lion."
   },
   {
     "author": "Winston Churchill",
-    "quotes": "Kita menyambung hidup dengan apa yang kita peroleh, tapi kita menghadirkan kehidupkan dengan apa yang kita berikan."
+    "quotes": "We live with what we get, but we bring life to what we give."
   },
   {
     "author": "Wolfgang von Gothe",
-    "quotes": "Pengetahuan tidaklah cukup, kita harus mengamalkannya. Niat tidak cukup, kita harus melakukannya."
+    "quotes": "Knowledge is not enough, we must practice it. Intention is not enough, we must do it."
   },
   {
     "author": "Zachary Scott",
-    "quotes": "Ketika Anda bertambah tua, Anda akan menemukan satu-satunya hal yang Anda sesali adalah hal-hal yang tidak Anda lakukan."
+    "quotes": "When you get older, you'll find the only things you regret are things you didn't do."
   },
   {
     "author": "Zig Zaglar",
-    "quotes": "Batu fondasi untuk sukses yang seimbang adalah kejujuran, watak, integritas, iman, cinta dan kesetiaan."
+    "quotes": "The foundation stones for balanced success are honesty, character, integrity, faith, love and loyalty."
   },
   {
     "author": "Zig Zaglar",
-    "quotes": "Kebanyakan orang gagal meraih cita-citanya bukan karena mereka tidak mampu, tetapi karena tidak berkomitmen."
+    "quotes": "Most people fail to achieve their goals not because they are unable, but because they are not committed."
   },
   {
     "author": "Zig Zaglar",
-    "quotes": "Kita tidak harus hebat saat memulai, tapi kita harus memulai untuk menjadi hebat."
+    "quotes": "We don't have to be great to start with, but we have to start to be great."
   }
 ]
