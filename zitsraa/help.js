@@ -1,6 +1,6 @@
 // menu fitur bot
 const help = (prefix, instagram, getLevelingLevel, getLevelingXp, sender, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
-	return `┌──「 *Zitsraa* 」
+	return `┌──「 *HINATA BOT V2* 」
 │        
 ├「 *USER STATUS* 」
 │
@@ -9,344 +9,432 @@ const help = (prefix, instagram, getLevelingLevel, getLevelingXp, sender, name, 
 ├ LEVEL : ${getLevelingLevel(sender)}
 ├ USER BOT : ${user.length}
 │
-├「 *Readmore* 」
-│
-├ ${prefix}report
-├ ${prefix}info
-├ ${prefix}donasi
-├ ${prefix}owner
-├ ${prefix}speed
-├ ${prefix}verify
-├ ${prefix}limit
-├ ${prefix}totaluser
-├ ${prefix}blocklist
-├ ${prefix}banlist
-├ ${prefix}premiumlist
-├ ${prefix}bahasa
-├ ${prefix}leaderboard
-│
-├「 *Media* 」
-│
-├ ${prefix}tiktokstalk 
-├ ${prefix}igstalk 
-├ ${prefix}instavid 
-├ ${prefix}instaimg 
-├ ${prefix}instastory
-├ ${prefix}ssweb
-├ ${prefix}url2img
-├ ${prefix}tiktok    
-├ ${prefix}fototiktok
-├ ${prefix}kbbi
-├ ${prefix}wait
-├ ${prefix}trendtwit
-├ ${prefix}google 
-│
-├「 *MENU* 」
-│
-├ ${prefix}quotemaker 
-├ ${prefix}nulis 
-├ ${prefix}croman 
-├ ${prefix}slide
-├ ${prefix}tahta 
-├ ${prefix}party
-├ ${prefix}galaxtext
-├ ${prefix}metalteks
-├ ${prefix}apiteks
-├ ${prefix}airtext
-├ ${prefix}kunciteks
-├ ${prefix}cglass 
-├ ${prefix}cstyle 
-├ ${prefix}cgame 
-├ ${prefix}clove 
-├ ${prefix}cparty 
-├ ${prefix}glow
-├ ${prefix}tts 
-├ ${prefix}glitch
-├ ${prefix}love
-├ ${prefix}coffe
-├ ${prefix}cpaper 
-├ ${prefix}stiker
-├ ${prefix}gifstiker
-├ ${prefix}toimg
-├ ${prefix}tomp3
-├ ${prefix}ocr
-├ ${prefix}freefire
-├ ${prefix}wetglass
-├ ${prefix}multicolor3d
-├ ${prefix}watercolor
-├ ${prefix}luxurygold
-├ ${prefix}galaxywallpaper
-├ ${prefix}lighttext
-├ ${prefix}beautifulflower
-├ ${prefix}puppycute
-├ ${prefix}royaltext
-├ ${prefix}heartshaped
-├ ${prefix}galaxystyle
-├ ${prefix}greenneon
-├ ${prefix}glossychrome
-├ ${prefix}greenbush
-├ ${prefix}metallogo
-├ ${prefix}noeltext
-├ ${prefix}textcake
-├ ${prefix}wooden3d 
-├ ${prefix}starsnight 
-├ ${prefix}wooden3d 
-├ ${prefix}textbyname 
-├ ${prefix}writegalacy 
-├ ${prefix}glittergold
-├ ${prefix}hologram3d
-├ ${prefix}birthdaycake
-├ ${prefix}galaxybat 
-├ ${prefix}snow3d 
-├ ${prefix}goldplaybutton 
-├ ${prefix}silverplaybutton 
-│
-├「 *ANIME* 」
-│
-├ ${prefix}modeanime 
-├ ${prefix}neonime 
-├ ${prefix}naruto   
-├ ${prefix}minato
-├ ${prefix}kaguya
-├ ${prefix}boruto
-├ ${prefix}hinata
-├ ${prefix}sakura
-├ ${prefix}sasuke
-├ ${prefix}toukachan
-├ ${prefix}rize
-├ ${prefix}akira
-├ ${prefix}itori
-├ ${prefix}kurumi
-├ ${prefix}miku
-├ ${prefix}anime
-├ ${prefix}animecry
-├ ${prefix}animekiss
-├ ${prefix}randomhusbu
-│
-├「 *CARTOON* 」
-│
-├ ${prefix}doraemon
-├ ${prefix}boboiboy
-├ ${prefix}boboiboy2
-├ ${prefix}spongebob
-├ ${prefix}frozen
-│
-├「 *MENU GROUP* 」
-│
-├ ${prefix}antilink 
-├ ${prefix}welcome 
-├ ${prefix}grup
-├ ${prefix}bukatime
-├ ${prefix}tutuptime
-├ ${prefix}leveling 
-├ ${prefix}ownergrup
-├ ${prefix}bacotlist
-├ ${prefix}bacot
-├ ${prefix}tag      
-├ ${prefix}kisstag
-├ ${prefix}reminder
-├ ${prefix}setpp
-├ ${prefix}Level
-├ ${prefix}mining
-├ ${prefix}infogc
-├ ${prefix}add
-├ ${prefix}kick @tag
-├ ${prefix}kicktime
-├ ${prefix}promote
-├ ${prefix}demote
-├ ${prefix}setname
-├ ${prefix}setdesc
-├ ${prefix}linkgrup
-├ ${prefix}tagme
-├ ${prefix}hidetag
-├ ${prefix}wametag
-├ ${prefix}tagall
-├ ${prefix}infoall
-├ ${prefix}fitnah
-├ ${prefix}listadmin
-│
-├「 *ADMIN* 」
-│
-├ ${prefix}nsfw
-├ ${prefix}nsfwloli
-├ ${prefix}nsfwblowjob
-├ ${prefix}nsfwneko
-├ ${prefix}nsfwtrap
-├ ${prefix}hentai
-├ ${prefix}simih
-├ ${prefix}hanz
-│
-├「 *FUN* 」
-│
-├ ${prefix}anjing
-├ ${prefix}kucing
-├ ${prefix}testime
-├ ${prefix}hilih
-├ ${prefix}apakah
-├ ${prefix}kapankah
-├ ${prefix}bisakah
-├ ${prefix}rate
-├ ${prefix}slot
-├ ${prefix}ganteng
-├ ${prefix}cantik
-├ ${prefix}babi
-├ ${prefix}watak
-├ ${prefix}hobby
-├ ${prefix}infogempa
-├ ${prefix}infonomor
-├ ${prefix}quotes
-├ ${prefix}truth
-├ ${prefix}dare
-├ ${prefix}katabijak
-├ ${prefix}fakta
-├ ${prefix}darkjokes
-├ ${prefix}bucin
-├ ${prefix}pantun
-├ ${prefix}katacinta
-├ ${prefix}jadwaltvnow
-├ ${prefix}hekerbucin
-├ ${prefix}katailham
-│
-├「 *OTHERS* 」
-│
-├ ${prefix}jarak 
-├ ${prefix}info
-├ ${prefix}infobot
-├ ${prefix}wame
-├ ${prefix}liststik
-├ ${prefix}cogab
-├ ${prefix}cecan
-├ ${prefix}listvn
-├ ${prefix}listimg
-├ ${prefix}itsme
-├ ${prefix}made
-├ ${prefix}listzodiak
-├ ${prefix}translate 
-├ ${prefix}pasangan 
-├ ${prefix}gantengcek
-├ ${prefix}cantikcek 
-├ ${prefix}artinama
-├ ${prefix}persengay 
-├ ${prefix}pbucin 
-├ ${prefix}bpfont 
-├ ${prefix}textstyle 
-├ ${prefix}jadwaltv 
-├ ${prefix}lirik 
-├ ${prefix}chord 
-├ ${prefix}wiki 
-├ ${prefix}brainly 
-├ ${prefix}resepmasakan 
-├ ${prefix}map 
-├ ${prefix}film 
-├ ${prefix}pinterest 
-├ ${prefix}infocuaca 
-├ ${prefix}jamdunia 
-├ ${prefix}mimpi
-├ ${prefix}infoalamat 
-├ ${prefix}playstore 
-│
-├「 *GAME* 」
-│
-├ ${prefix}readmore        
-├ ${prefix}puisiimg
-├ ${prefix}asupan
-├ ${prefix}tebakgambar
-├ ${prefix}caklontong
-├ ${prefix}family100
-├ ${prefix}memeindo
-├ ${prefix}kalkulator 
-├ ${prefix}apkmod
-├ ${prefix}moddroid 
-├ ${prefix}happymod 
-│
-├「 *18+* 」
-│
-├ ${prefix}randomkpop
-├ ${prefix}cersex
-├ ${prefix}cerpen
-├ ${prefix}randombokep
-├ ${prefix}coli
-├ ${prefix}pornhub 
-├ ${prefix}xvideos 
-├ ${prefix}nekopoi 
-│
-├「 *PRAY* 」
-│
-├ ${prefix}jadwalsholat 
-├ ${prefix}quran
-├ ${prefix}kisahnabi
-├ ${prefix}quranlist
-├ ${prefix}quransurah
-│
-├「 *FIND* 」
-│
-├ ${prefix}becrypt 
-├ ${prefix}encode64 
-├ ${prefix}decode64 
-├ ${prefix}encode32 
-├ ${prefix}decode32 
-├ ${prefix}encbinary 
-├ ${prefix}decbinary 
-├ ${prefix}encoctal 
-├ ${prefix}decoctal 
-├ ${prefix}hashidentifier 
-├ ${prefix}dorking 
-├ ${prefix}pastebin 
-├ ${prefix}tinyurl 
-├ ${prefix}bitly 
-│
-├「 *SPAM* 」
-│
-├ ${prefix}spamcall
-├ ${prefix}spamgmail 
-│
-├「 *OWNER* 」
-│
-├ ${prefix}addprem
-├ ${prefix}removeprem
-├ ${prefix}hanzprem
-├ ${prefix}setmemlimit
-├ ${prefix}setlimit
-├ ${prefix}setreply
-├ ${prefix}setreplyz
-├ ${prefix}setprefix
-├ ${prefix}setnamebot
-├ ${prefix}setppbot
-├ ${prefix}addbucin
-├ ${prefix}addbacot
-├ ${prefix}addsay
-├ ${prefix}addstik
-├ ${prefix}addvn
-├ ${prefix}addimg
-├ ${prefix}ohidetag
-├ ${prefix}okisstag
-├ ${prefix}bc
-├ ${prefix}bcgc
-├ ${prefix}ban
-├ ${prefix}unban
-├ ${prefix}block
-├ ${prefix}unblock
-├ ${prefix}clearall
-├ ${prefix}delete
-├ ${prefix}clone
-├ ${prefix}getses
-├ ${prefix}leave
-│
-├「 *PREMIUM* 」
-│
-├ ${prefix}play
-├ ${prefix}ytplay
-├ ${prefix}fb 
-├ ${prefix}snack 
-├ ${prefix}ytmp3 
-├ ${prefix}ytmp4 
-├ ${prefix}joox
-├ ${prefix}joox2
-├ ${prefix}smule
-│
-└──「 *Hanz BOT* 」
+┣◪ 「 *Readmore* 」
+┃
+┣ ❏ ${prefix}report
+┣ ❏ ${prefix}info
+┣ ❏ ${prefix}donasi
+┣ ❏ ${prefix}owner
+┣ ❏ ${prefix}speed
+┣ ❏ ${prefix}verify
+┣ ❏ ${prefix}limit
+┣ ❏ ${prefix}totaluser
+┣ ❏ ${prefix}blocklist
+┣ ❏ ${prefix}banlist
+┣ ❏ ${prefix}premiumlist
+┣ ❏ ${prefix}bahasa
+┣ ❏ meaning:language
+┣ ❏ ${prefix}leaderboard
+┃
+┣◪ 「 *Media* 」
+┃
+┣ ❏ ${prefix}tiktokstalk 
+┣ ❏ ${prefix}igstalk 
+┣ ❏ ${prefix}instavid 
+┣ ❏ ${prefix}instaimg 
+┣ ❏ ${prefix}instastory
+┣ ❏ ${prefix}ssweb
+┣ ❏ ${prefix}url2img
+┣ ❏ ${prefix}tiktok    
+┣ ❏ ${prefix}fototiktok
+┣ ❏ ${prefix}kbbi
+┣ ❏ ${prefix}wait
+┣ ❏ ${prefix}trendtwit
+┣ ❏ ${prefix}google 
+┃
+┣◪ 「 *MENU* 」
+┃
+┣ ❏ ${prefix}quotemaker 
+┣ ❏ ${prefix}nulis
+┣ ❏ meaning: write
+┣ ❏ ${prefix}croman 
+┣ ❏ ${prefix}slide
+┣ ❏ ${prefix}tahta 
+┣ ❏ ${prefix}party
+┣ ❏ ${prefix}galaxtext
+┣ ❏ ${prefix}metalteks
+┣ ❏ ${prefix}apiteks
+┣ ❏ ${prefix}airtext
+┣ ❏ ${prefix}kunciteks
+┣ ❏ ${prefix}cglass 
+┣ ❏ ${prefix}cstyle 
+┣ ❏ ${prefix}cgame 
+┣ ❏ ${prefix}clove 
+┣ ❏ ${prefix}cparty 
+┣ ❏ ${prefix}glow
+┣ ❏ ${prefix}tts 
+┣ ❏ ${prefix}glitch
+┣ ❏ ${prefix}love
+┣ ❏ ${prefix}coffe
+┣ ❏ ${prefix}anakharam
+┣ ❏ ${prefix}heker
+┣ ❏ ${prefix}cpaper 
+┣ ❏ ${prefix}stiker
+┣ ❏ ${prefix}gifstiker
+┣ ❏ ${prefix}toimg
+┣ ❏ ${prefix}tomp3
+┣ ❏ ${prefix}toptt
+┣ ❏ ${prefix}slapimg
+┣ ❏ ${prefix}tolol
+┣ ❏ ${prefix}phcoment
+┣ ❏ ${prefix}ytcoment
+┣ ❏ ${prefix}freefire
+┣ ❏ ${prefix}wetglass
+┣ ❏ ${prefix}multicolor3d
+┣ ❏ ${prefix}watercolor
+┣ ❏ ${prefix}luxurygold
+┣ ❏ ${prefix}galaxywallpaper
+┣ ❏ ${prefix}lighttext
+┣ ❏ ${prefix}beautifulflower
+┣ ❏ ${prefix}puppycute
+┣ ❏ ${prefix}royaltext
+┣ ❏ ${prefix}heartshaped
+┣ ❏ ${prefix}galaxystyle
+┣ ❏ ${prefix}greenneon
+┣ ❏ ${prefix}glossychrome
+┣ ❏ ${prefix}greenbush
+┣ ❏ ${prefix}metallogo
+┣ ❏ ${prefix}noeltext
+┣ ❏ ${prefix}textcake
+┣ ❏ ${prefix}wooden3d 
+┣ ❏ ${prefix}starsnight 
+┣ ❏ ${prefix}wooden3d 
+┣ ❏ ${prefix}textbyname 
+┣ ❏ ${prefix}writegalacy 
+┣ ❏ ${prefix}glittergold
+┣ ❏ ${prefix}hologram3d
+┣ ❏ ${prefix}birthdaycake
+┣ ❏ ${prefix}galaxybat 
+┣ ❏ ${prefix}gta
+┣ ❏ ${prefix}snow3d 
+┣ ❏ ${prefix}goldplaybutton 
+┣ ❏ ${prefix}silverplaybutton 
+┣ ❏ ${prefix}fftourserti 
+┣ ❏ ${prefix}fftourserti2 
+┣ ❏ ${prefix}fftourserti3 
+┣ ❏ ${prefix}fftourserti4 
+┣ ❏ ${prefix}fftourserti5 
+┣ ❏ ${prefix}pubgtourserti
+┣ ❏ ${prefix}pubgtourserti2
+┣ ❏ ${prefix}pubgtourserti3
+┣ ❏ ${prefix}pubgtourserti4
+┣ ❏ ${prefix}pubgtourserti5
+┣ ❏ ${prefix}mltourserti1
+┣ ❏ ${prefix}mltourserti2
+┣ ❏ ${prefix}mltourserti3
+┣ ❏ ${prefix}mltourserti4
+┣ ❏ ${prefix}tweetfake
+┣ ❏ ${prefix}bocilepep
+┣ ❏ ${prefix}babu
+┣ ❏ ${prefix}bucinserti
+┣ ❏ ${prefix}nickepep
+┃
+┣◪ 「 *ANIME* 」
+┃
+┣ ❏ ${prefix}modeanime 
+┣ ❏ ${prefix}neonime 
+┣ ❏ ${prefix}naruto   
+┣ ❏ ${prefix}minato
+┣ ❏ ${prefix}kaguya
+┣ ❏ ${prefix}boruto
+┣ ❏ ${prefix}hinata
+┣ ❏ ${prefix}sakura
+┣ ❏ ${prefix}sasuke
+┣ ❏ ${prefix}toukachan
+┣ ❏ ${prefix}rize
+┣ ❏ ${prefix}akira
+┣ ❏ ${prefix}itori
+┣ ❏ ${prefix}kurumi
+┣ ❏ ${prefix}miku
+┣ ❏ ${prefix}anime
+┣ ❏ ${prefix}animecry
+┣ ❏ ${prefix}animekiss
+┣ ❏ ${prefix}randomhusbu
+┃
+┣◪ 「 *CARTOON* 」
+┃
+┣ ❏ ${prefix}doraemon
+┣ ❏ ${prefix}boboiboy
+┣ ❏ ${prefix}boboiboy2
+┣ ❏ ${prefix}spongebob
+┣ ❏ ${prefix}frozen
+┃
+┣◪ 「 *MENU GROUP* 」
+┃
+┣ ❏ ${prefix}antilink 
+┣ ❏ ${prefix}welcome 
+┣ ❏ ${prefix}grup
+┣ ❏ ${prefix}bukatime
+┣ ❏ meaning:open time
+┣ ❏ ${prefix}tutuptime
+┣ ❏ meaning:close time
+┣ ❏ ${prefix}leveling 
+┣ ❏ ${prefix}bacotlist
+┣ ❏ meaning: bad words list
+┣ ❏ ${prefix}bacot
+┣ ❏ ${prefix}tag      
+┣ ❏ ${prefix}kisstag
+┣ ❏ ${prefix}reminder
+┣ ❏ ${prefix}setpp
+┣ ❏ ${prefix}Level
+┣ ❏ ${prefix}mining
+┣ ❏ ${prefix}infogc
+┣ ❏ ${prefix}add
+┣ ❏ ${prefix}kick @tag
+┣ ❏ ${prefix}kicktime
+┣ ❏ ${prefix}promote
+┣ ❏ ${prefix}demote
+┣ ❏ ${prefix}setname
+┣ ❏ ${prefix}setdesc
+┣ ❏ ${prefix}linkgrup
+┣ ❏ ${prefix}tagme
+┣ ❏ ${prefix}hidetag
+┣ ❏ ${prefix}stickertag
+┣ ❏ ${prefix}wametag
+┣ ❏ ${prefix}tagall
+┣ ❏ ${prefix}infoall
+┣ ❏ ${prefix}fitnah
+┣ ❏ meaning: fake reply
+┣ ❏ ${prefix}listadmin
+┃
+┣◪ 「 *ADMIN* 」
+┃
+┣ ❏ ${prefix}nsfw
+┣ ❏ ${prefix}nsfwloli
+┣ ❏ ${prefix}nsfwblowjob
+┣ ❏ ${prefix}nsfwneko
+┣ ❏ ${prefix}nsfwtrap
+┣ ❏ ${prefix}hentai
+┣ ❏ ${prefix}simih
+┣ ❏ ${prefix}hinatabot
+┃
+┣◪ 「 *FUN* 」
+┣ ❏ ${prefix}aesthetic
+┣ ❏ meaning: amv
+┣ ❏ ${prefix}anjing
+┣ ❏ meaning:dog
+┣ ❏ ${prefix}kucing
+┣ ❏ meaning:cat
+┣ ❏ ${prefix}testime
+┣ ❏ meaning:
+┣ ❏ ${prefix}hilih
+┣ ❏ meaning:choose
+┣ ❏ ${prefix}apakah
+┣ ❏ meaning:is
+┣ ❏ ${prefix}kapankah
+┣ ❏ meaning:when
+┣ ❏ ${prefix}bisakah
+┣ ❏ meaning:can you
+┣ ❏ ${prefix}rate
+┣ ❏ ${prefix}slot
+┣ ❏ ${prefix}ganteng
+┣ ❏ meaning:handsome
+┣ ❏ ${prefix}cantik
+┣ ❏ meaning:beautiful
+┣ ❏ ${prefix}babi
+┣ ❏ meaning:pig
+┣ ❏ ${prefix}watak
+┣ ❏ meaning:character
+┣ ❏ ${prefix}hobby
+┣ ❏ ${prefix}infogempa
+┣ ❏ meaning:earthquake information
+┣ ❏ ${prefix}infonomor
+┣ ❏ ${prefix}quotes
+┣ ❏ ${prefix}truth
+┣ ❏ ${prefix}dare
+┣ ❏ ${prefix}katabijak
+┣ ❏ meaning:words of wisdom
+┣ ❏ ${prefix}fakta
+┣ ❏ meaning:fact
+┣ ❏ ${prefix}darkjokes
+┣ ❏ ${prefix}bucin
+┣ ❏ ${prefix}pantun
+┣ ❏ meaning:rhymes
+┣ ❏ ${prefix}katacinta
+┣ ❏ meaning:words of love
+┣ ❏ ${prefix}jadwaltvnow
+┣ ❏ ${prefix}hekerbucin
+┣ ❏ meaning:
+┣ ❏ ${prefix}katailham
+┣ ❏ meaning:said inspiration
+┃
+┣◪ 「 *OTHERS* 」
+┃
+┣ ❏ ${prefix}jarak 
+┣ ❏ ${prefix}info
+┣ ❏ ${prefix}infobot
+┣ ❏ ${prefix}wame
+┣ ❏ ${prefix}phsearch
+┣ ❏ ${prefix}ytsearch
+┣ ❏ ${prefix}stalkyt
+┣ ❏ ${prefix}githubstalk
+┣ ❏ ${prefix}cogan
+┣ ❏ ${prefix}cecan
+┣ ❏ ${prefix}listvn
+┣ ❏ ${prefix}listimg
+┣ ❏ ${prefix}itsme
+┣ ❏ ${prefix}made
+┣ ❏ ${prefix}listzodiak
+┣ ❏ ${prefix}translate 
+┣ ❏ ${prefix}pasangan
+┣ ❏ meaning:couple
+┣ ❏ ${prefix}gantengcek
+┣ ❏ meaning:handsome
+┣ ❏ ${prefix}cantikcek
+┣ ❏ meaning:pretty check
+┣ ❏ ${prefix}artinama
+┣ ❏ meaning:the meaning of the name
+┣ ❏ ${prefix}persengay
+┣ ❏ meaning:percentgay
+┣ ❏ ${prefix}pbucin 
+┣ ❏ ${prefix}bpfont 
+┣ ❏ ${prefix}textstyle 
+┣ ❏ ${prefix}jadwaltv 
+┣ ❏ ${prefix}lirik 
+┣ ❏ ${prefix}chord 
+┣ ❏ ${prefix}wiki 
+┣ ❏ ${prefix}brainly 
+┣ ❏ ${prefix}resepmasakan
+┣ ❏ meaning:recipes
+┣ ❏ ${prefix}map 
+┣ ❏ ${prefix}gemuk
+┣ ❏ meaning:fat
+┣ ❏ ${prefix}bass
+┣ ❏ ${prefix}ghost
+┣ ❏ ${prefix}blub
+┣ ❏ ${prefix}film 
+┣ ❏ ${prefix}pinterest 
+┣ ❏ ${prefix}infocuaca 
+┣ ❏ ${prefix}jamdunia
+┣ ❏ meaning:world clock
+┣ ❏ ${prefix}mimpi
+┣ ❏ meaning:dream
+┣ ❏ ${prefix}infoalamat
+┣ ❏ meaning:address info
+┣ ❏ ${prefix}playstore 
+┃
+┣◪ 「 *GAME* 」
+┃
+┣ ❏ ${prefix}readmore        
+┣ ❏ ${prefix}puisiimg
+┣ ❏ ${prefix}asupan
+┣ ❏ meaning:intake
+┣ ❏ ${prefix}tebakgambar
+┣ ❏ meaning:guess the picture
+┣ ❏ ${prefix}tebakumur
+┣ ❏ meaning:guess the age
+┣ ❏ ${prefix}tebakangka
+┣ ❏ meaning:guess what
+┣ ❏ ${prefix}vslot
+┣ ❏ ${prefix}suit
+┣ ❏ ${prefix}caklontong
+┣ ❏ meaning:
+┣ ❏ ${prefix}family100
+┣ ❏ ${prefix}memeindo
+┣ ❏ ${prefix}memeen
+┣ ❏ ${prefix}meme
+┣ ❏ ${prefix}kalkulator 
+┣ ❏ ${prefix}apkmod
+┣ ❏ ${prefix}moddroid 
+┣ ❏ ${prefix}happymod 
+┃
+┣◪ 「 *18+* 」
+┃
+┣ ❏ ${prefix}randomkpop
+┣ ❏ ${prefix}cersex
+┣ ❏ meaning:
+┣ ❏ ${prefix}ceritahoror
+┣ ❏ meaning:horror story
+┣ ❏ ${prefix}cerpen
+┣ ❏ meaning:short story
+┣ ❏ ${prefix}randombokep
+┣ ❏ ${prefix}coli
+┣ ❏ ${prefix}xxz
+┣ ❏ ${prefix}pornhub 
+┣ ❏ ${prefix}xvideos 
+┣ ❏ ${prefix}nekopoi 
+┃
+┣◪ 「 *PRAY* 」
+┃
+┣ ❏ ${prefix}jadwalsholat 
+┣ ❏ ${prefix}quran
+┣ ❏ ${prefix}kisahnabi
+┣ ❏ ${prefix}quranlist
+┣ ❏ ${prefix}quransurah
+┃
+┣◪ 「 *FIND* 」
+┃
+┣ ❏ ${prefix}becrypt 
+┣ ❏ ${prefix}encode64 
+┣ ❏ ${prefix}decode64 
+┣ ❏ ${prefix}encode32 
+┣ ❏ ${prefix}decode32 
+┣ ❏ ${prefix}encbinary 
+┣ ❏ ${prefix}decbinary 
+┣ ❏ ${prefix}encoctal 
+┣ ❏ ${prefix}decoctal 
+┣ ❏ ${prefix}hashidentifier 
+┣ ❏ ${prefix}dorking 
+┣ ❏ ${prefix}pastebin 
+┣ ❏ ${prefix}tinyurl 
+┣ ❏ ${prefix}bitly 
+┃
+┣◪ 「 *SPAM* 」
+┃
+┣ ❏ ${prefix}spamcall
+┣ ❏ ${prefix}spamgmail 
+┃
+┣◪ 「 *OWNER* 」
+┃
+┣ ❏ ${prefix}addprem
+┣ ❏ ${prefix}buggc
+┣ ❏ ${prefix}dellprem
+┣ ❏ ${prefix}hinataprem
+┣ ❏ ${prefix}setmemlimit
+┣ ❏ ${prefix}setlimit
+┣ ❏ ${prefix}setreply
+┣ ❏ ${prefix}setreplyz
+┣ ❏ ${prefix}setprefix
+┣ ❏ ${prefix}setnamebot
+┣ ❏ ${prefix}setppbot
+┣ ❏ ${prefix}addbucin
+┣ ❏ ${prefix}addbacot
+┣ ❏ ${prefix}addsay
+┣ ❏ ${prefix}addstik
+┣ ❏ ${prefix}addvn
+┣ ❏ ${prefix}addimg
+┣ ❏ ${prefix}addvid
+┣ ❏ ${prefix}ohidetag
+┣ ❏ ${prefix}ostickertag
+┣ ❏ ${prefix}okisstag
+┣ ❏ ${prefix}bc
+┣ ❏ ${prefix}bcgc
+┣ ❏ ${prefix}ban
+┣ ❏ ${prefix}unban
+┣ ❏ ${prefix}block
+┣ ❏ ${prefix}unblock
+┣ ❏ ${prefix}clearall
+┣ ❏ ${prefix}delete
+┣ ❏ ${prefix}clone
+┣ ❏ ${prefix}getses
+┣ ❏ ${prefix}leave
+┃
+┣◪ 「 *PREMIUM* 」
+┃
+┣ ❏ ${prefix}play
+┣ ❏ ${prefix}ytplay
+┣ ❏ ${prefix}fb 
+┣ ❏ ${prefix}snack 
+┣ ❏ ${prefix}ytmp3 
+┣ ❏ ${prefix}ytmp4 
+┣ ❏ ${prefix}joox
+┣ ❏ ${prefix}joox2
+┣ ❏ ${prefix}smule
+┣ ❏ MADE WITH LOVE FOR HINATA BY NARUTO
+┣ ❏ Thanks to ꧁✭angel queen✭꧂ for api
+┣ 
+└──「 *Hinata V2 BOT* 」
 `
-
 }
 
 exports.help = help
@@ -365,9 +453,9 @@ function kyun(seconds){
 // info bot 
 const bottt = (prefix) => {
 return `
-\`\`\`Untuk Sekarang Bot Hanya Bisa Digunakan Di Group..\`\`\`
+\`\`\`For now, the bot can only be used in groups..\`\`\`
 
-Jika Bot Ini Ada Di Grup Anda Admin Grup harus Aktifkan Bot Dengan Cara ${prefix}zitsraa aktif
+If this bot is in your group the group admin must activate the bot by way of ${prefix}hinatabot active
 `
 }
 exports.bottt = bottt
@@ -375,18 +463,7 @@ exports.bottt = bottt
 const donasi = (name) => { 
 	return `       
 「 *DONATE* 」 
-
-   *PULSA*
-├ Tsel : 081226770537
-├ Axis : 083823742094
-
-BOT INI MENGGUNAKAN SYSTEM NODE.JS
-Jika ingin memasukan bot ke dalam group, Silahkan donasi agar bot bisa berjalan on-time
-
-      \`\`\`Pulsa\`\`\`
-      
-├ *15k Invite Bot Ke Grup selama 1 bulan*
-
+No need just your support is enough
 
 「 *BY ${name}* 」
 `
@@ -396,7 +473,7 @@ exports.donasi = donasi
 // bahasa list
 const bahasa = (prefix) => {
 return `
-List Bahasa Untuk Command *${prefix}tts*
+Language List For Command *${prefix}tts*
 
   ◪  𝗟𝗜𝗦𝗧 𝗕𝗔𝗛𝗔𝗦𝗔
   ├≽  af: Afrikaans
@@ -452,7 +529,7 @@ List Bahasa Untuk Command *${prefix}tts*
   ├≽  cy: Welsh
   └─────────────
   
-  𝗛𝗔𝗡𝗭 𝗕𝗢𝗧
+  𝗛INATA V2 𝗕𝗢𝗧
 `
 }
 exports.bahasa = bahasa
@@ -463,68 +540,68 @@ const zod = (pushname2, sender) => {
 \`\`\`Number :\`\`\` wa.me/${sender.split("@")[0]}
   
   
-「 *ZODIAK LIST* 」
+「 *ZODIAC LIST* 」
 
-   Aries (21 Maret – 20 April)
-   Taurus (21 April – 20 Mei)
-   Gemini (21 Mei – 20 Juni)
-   Cancer (21 Juni – 20 Juli)
-   Leo (21 Juli – 21 Agustus)
-   Virgo (22 Agustus – 22 September)
-   Libra (23 September – 22 Oktober)
-   Scorpio (23 Oktober – 22 November)
-   Sagittarius (23 November – 20 Desember)
-   Capricorn (21 Desember – 19 Januari)
-   Aquarius (20 Januari – 18 Februari)
-   Pisces (19 Februari – 20 Maret)
+   Aries (March 21 - April 20)
+   Taurus (April 21 - May 20)
+   Gemini (May 21 - June 20)
+   Cancer (June 21 - July 20)
+   Leo (July 21 - August 21)
+   Virgo (August 22 - September 22)
+   Libra (23 September - 22 October)
+   Scorpio (23 October - 22 November)
+   Sagittarius (23 November - 20 December)
+   Capricorn (December 21 - January 19)
+   Aquarius (January 20 - February 18)
+   Pisces (February 19 - March 20)
 
 
-𝗣𝗘𝗡𝗝𝗘𝗟𝗔𝗦𝗔𝗡!
+explanation!
 
-1.Aries (21 Maret – 20 April)
-   Aries (♈) /ˈɛəriːz/ (yang berarti "Domba") adalah rasi Zodiak pertama, yang mencakup 30 derajat pertama bujur langit (0°≤ λ <30°). Di bawah zodiak tropis, Matahari transit di rasi ini umumnya antara 20 Maret sampai 20 April setiap tahunnya. Durasi waktu ini persis bulan pertama Kalender Persia (Farvardin). Di bawah zodiak sidereal, matahari saat transit Aries dari 15 April - 15 Mei (kurang-lebih). Simbol domba yang didasarkan pada Chrysomallus, domba terbang.
-Tergantung pada sistem yang digunakan, individu yang lahir pada tanggal tersebut, dapat disebut Arian atau Ariens . Aries adalah rasi api pertama di zodiak, rasi api lainnya adalah Leo dan Sagitarius.
+1.Aries (March 21 - April 20)
+   Aries (♈) /ˈɛəriːz/ (which means "Lamb") is the first constellation of the Zodiac, which includes the first 30 degrees of longitude (0 ° ≤ λ <30 °). Under the tropical zodiac, the Sun transits in this constellation generally between March 20 to April 20 each year. The duration of this time is exactly the first month of the Persian Calendar (Farvardin). Under the sidereal zodiac sign, the sun transits Aries from April 15 to May 15 (approx.). A sheep symbol based on Chrysomallus, the flying sheep.
+Depending on the system used, individuals born on that date may be called Arians or Ariens. Aries is the first fire constellation in the zodiac, the other fire constellations are Leo and Sagittarius.
 
-2.Taurus (21 April – 20 Mei)
-   Taurus (Bahasa Latin untuk "Banteng"; simbol:, Unicode: ♉) adalah tanda astrologi kedua di zodiak. Zodiak Ini mencakup tingkat ke 30-60 zodiak, antara 27,25 dan 54,75 derajat bujur langit. Di bawah zodiak tropikal, matahari transit daerah ini pada 20 April sampai 20 Mei setiap tahun. Di bawah zodiak sidereal, matahari transit konstelasi Taurus dari tanggal 16 Mei Sampai 21 Juni. Orang yang lahir antara tanggal ini, tergantung pada sistem astrologi yang mereka pilih, dapat disebut Taureans.[1][2] Simbol banteng didasarkan pada banteng Kreta, seekor banteng putih, ayah Minotaur yang dibunuh oleh Theseus.
+2.Taurus (April 21 - May 20)
+   Taurus (Latin for "bull"; symbol :, Unicode: ♉) is the second astrological sign in the zodiac. This zodiac sign covers the 30-60 degrees of the zodiac, between 27.25 and 54.75 degrees of celestial longitude. Under the tropical zodiac, the sun transits this area from April 20 to May 20 each year. Under the sidereal zodiac, the sun transits the constellation Taurus from May 16 to June 21. People born between these dates, depending on their chosen astrological system, may be called Taureans. [1] [2] The bull symbol is based on the Cretan bull, a white bull, the father of the Minotaur who was killed by Theseus.
    
-3.Gemini (21 Mei – 20 Juni)
-   Gemini (♊)[1] adalah zodiak ketiga yang berasal dari konstelasi Gemini. Di bawah zodiak tropis, matahari transit tanda ini antara 21 Mei dan 21 Juni. Gemini diwakili oleh si Kembar Castor dan Pollux.[2] simbol kembar ini didasarkan pada Dioscuri, dua manusia yang diberikan bersama kekuatan dewa setelah kematian mereka.
+3.Gemini (May 21 - June 20)
+   Gemini (♊) [1] is the third sign in the constellation Gemini. Under the tropical zodiac, the sun transits this sign between May 21 and June 21. Gemini is represented by the Castor and Pollux Twins. [2] This twin symbol is based on the Dioscuri, two humans who are given joint divine powers after their death.
 
-4.Cancer (21 Juni – 20 Juli)
-   Kanser (♋) (Yunani Kuno: Καρκίνος, Latin: Cancer) adalah zodiak keempat yang berasal dari konstelasi Cancer. Zodiak ini mencakup 90° 120° dari zodiak, antara 90° dan 120° dari tata koordinat langit. Di bawah zodiak tropis, Matahari transit daerah ini antara 22 Juni sampai 22 Juli, dan di bawah sideris, Matahari transit daerah ini dari tanggal 16 Juli sampai 15 Agustus.[1]
-Dalam astrologi, Kanser adalah zodiak kardinal dari elemen air, yang terdiri dari Kanser, Pises, dan Skorpio.[2] Zodiak ini berenergi negatif, dan berdomisil di planet Bulan. Kanser berbentuk kepiting, berdasarkan Karkinos, kepiting raksasa yang dilecehkan Heracles selama pertarungannya dengan Hydra.
+4.Cancer (June 21 - July 20)
+   Cancer (♋) (Ancient Greek: Καρκίνος, Latin: Cancer) is the fourth zodiac sign that comes from the constellation Cancer. This zodiac sign includes 90 ° to 120 ° of the zodiac, between 90 ° and 120 ° of the celestial coordinate system. Under the tropical zodiac, the Sun transits this area between June 22 and July 22, and below the sidebar, the Sun transits this area from July 16 to August 15. [1]
+In astrology, Cancer is the cardinal zodiac sign of the water element, which includes Cancer, Pises, and Scorpio. [2] This zodiac sign has negative energy, and lives on the planet Moon. The cancer is in the shape of a crab, based on Karkinos, the giant crab that Heracles harassed him during his fight with the Hydra.
 
-5.Leo (21 Juli – 21 Agustus)
-   Leo (♌) (Yunani Kuno: Λέων, Latin: Leōn), adalah tanda zodiak ke 5, berasal dari konstelasi Leo. Muncul setelah Kanser (Yunani: Καρκίνος, Latin: Karkinos) dan sebelum Virgo (Yunani: Παρθένος, Latin: Parthenos). Pada zodiak tropis, Matahari transit konstelasi ini pada 23 Juli sampai 22 Agustus.
+5.Leo (July 21 - August 21)
+   Leo (♌) (Ancient Greek: Λέων, Latin: Leōn), is the 5th zodiac sign, derived from the constellation Leo. Appears after Cancer (Greek: Καρκίνος, Latin: Karkinos) and before Virgo (Greek: Παρθένος, Latin: Parthenos). In the tropical zodiac, the Sun transits this constellation from July 23 to August 22.
    
-6.Virgo (22 Agustus – 22 September)
-   Virgo (♍) (Yunani: Παρθένος, Parthenos) adalah tanda astrologi keenam dalam Zodiak. Tanda ini mencakup 150-180 derajat zodiak. Di bawah zodiak tropis, Matahari transit area ini rata-rata antara 23 Agustus dan 22 September,[1] dan Matahari transit rasi bintang Virgo dari sekitar 16 September hingga 30 Oktober.
+6.Virgo (August 22 - September 22)
+   Virgo (♍) (Greek: Παρθένος, Parthenos) is the sixth astrological sign in the Zodiac. This sign covers 150-180 degrees of the zodiac. Under the tropical zodiac, the Sun transits this area on average between August 23 and September 22, [1] and the Sun transits the constellation Virgo from around September 16 to October 30.
    
-7.Libra (23 September – 22 Oktober)
-   Libra (♎) adalah zodiak ketujuh. Zodiak ini mencakup 180°–210° garis bujur.[1] Pada zodiak tropis, matahari transit zodiak ini pada tanggal 23 September dan 23 Oktober,[2][3] dan pada zodiak sideris, matahari berada di konstelasi ini dari 31 Oktober hingga 22 November. [4] Simbol timbangan pada zodiak ini didasari dari Scales of Justice yang dipegang oleh Themis, penjelmaan hukum dari Yunani.[5] Dia menjadi inspirasi modern wanita hukum. Planet yang menaungi Libra adalah Venus.[6][7] Libra adalah zodiak satu-satunya yang digambarkan dengan objek yang tidak hidup. Zodiak lainnya digambarkan dengan hewan atau makhluk mitologi.
+7.Libra (23 September - 22 October)
+   Libra (♎) is the seventh zodiac sign. This zodiac sign includes 180 ° –210 ° longitude. [1] In the tropical zodiac, the sun transits on September 23 and October 23, [2] [3] and in the sidereal zodiac, the sun is in this constellation from October 31 to November 22. [4] The zodiac's scale symbol is based on the Scales of Justice held by Themis, the incarnation of Greek law. [5] She became the inspiration for the modern legal woman. The planet that houses Libra is Venus. [6] [7] Libra is the only sign that is depicted with a non-living object. Other zodiac signs are depicted with mythological animals or creatures.
    
-8.Scorpio (23 Oktober – 22 November)
-   Skorpio (♏) (bahasa Yunani: Σκορπιός Skorpios; bahasa Latin: Scorpius) adalah bintang kedelapan dari daftar zodiak. Bintang ini berada diurutan 210-240 zodiak, antara 207,25 dan 234,75 derajat bujur langit. Di bawah zodiak tropis, matahari transit daerah ini rata-rata antara 23 Oktober sampai 22 November, dan di bawah zodiak sidereal, matahari saat transit konstelasi Scorpius dari sekitar November 16 sampai 15 Desember. Tergantung pada sistem zodiak yang digunakan, sebuah individu yang lahir di bawah pengaruh Skorpio dapat disebut Scorpio atau Scorpion.[1] Simbol kalajengking didasarkan pada Scorpius, kalajengking raksasa yang dikirim oleh Gaia untuk membunuh Orion.[2]
-Skorpio adalah zodiak kedua dalam elemen air, setelah Cancer dan diikuti oleh zodiak berelemen air ketiga, Pisces.
+8.Scorpio (October 23 - November 22)
+   Scorpio (♏) (Greek: Σκορπιός Skorpios; Latin: Scorpius) is the eighth star on the zodiac list. This star is in the order of the zodiac 210-240, between 207.25 and 234.75 degrees longitude. Under the tropical zodiac, the sun transits this area on average between October 23 and November 22, and under the sidereal zodiac, it transits the constellation Scorpius from around November 16 to December 15. Depending on the zodiac system used, an individual born under the influence of a Scorpio may be called a Scorpio or Scorpion. [1] The scorpion symbol is based on Scorpius, the giant scorpion sent by Gaia to kill Orion. [2]
+Scorpio is the second water sign, after Cancer and is followed by the third water sign, Pisces.
 
-9.Sagittarius (23 November – 20 Desember)
-   Sagitarius (♐) adalah zodiak kesembilan dalam urutan di tabel zodiak. Di langit, zodiak ini membentang di antara 240 derajat dan 269 derajat dari sistem koordinat ekliptika. Dalam zodiak tropis, Matahari transit di daerah ini dari 23 November sampai 21 Desember setiap tahun. Dalam astrologi sideris, saat matahari transit di rasi bintang Sagitarius dari sekitar 16 Desember- 14 Januari.
+9.Sagittarius (November 23 - December 20)
+   Sagittarius (♐) is the ninth zodiac sign on the zodiac chart. In the sky, this zodiac sign stretches between 240 degrees and 269 degrees of the ecliptic coordinate system. In the tropical zodiac, the Sun transits in this area from November 23 to December 21 every year. In sidereal astrology, the sun transits in the constellation Sagittarius from around December 16 to January 14.
 
-10.Capricorn (21 Desember – 19 Januari)
-    Kaprikornus adalah salah satu dari rasi bintang zodiak. Biasanya dikenal sebagai Capricorn, khususnya dalam astrologi. Rasi ini melambangkan kambing bertanduk, sekalipun kadang banyak yang menyebutnya kambing laut. Kaprikornus adalah salah satu dari 88 rasi bintang modern, dan juga satu dari 48 rasi bintang yang didaftar oleh Ptolemy. Dalam batas rasi bintang modern, rasi ini dikelilingi oleh Akuila, Sagitarius, Mikroskopium, Piscis Austrinus dan Aquarius.
-Dalam Zodiak, individu yang memiliki bintang Kaprikornus, terlahir pada 22 Desember hingga 19 januari, ketika Matahari ada pada bintang Kapricornus.
+10.Capricorn (December 21 - January 19)
+    Capricorn is one of the constellations of the zodiac. Usually known as Capricorn, especially in astrology. This constellation symbolizes the horned goat, although sometimes many call it sea goat. Capricorn is one of the 88 modern constellations, and also one of the 48 constellations listed by Ptolemy. Within the boundaries of modern constellations, this constellation is surrounded by Aquila, Sagittarius, Microscium, Piscis Austrinus and Aquarius.
+In the Zodiac, individuals who have a Capricorn star, are born on December 22 to January 19, when the Sun is on the Capricorn star.
 
-11.Aquarius (20 Januari – 18 Februari)
-    Akuarius (♒) adalah zodiak kesebelas dari dua belas tanda-tanda zodiak astrologi dan itu berasal dari konstelasi yang mempunyai nama yang sama, yaitu konstelasi Akuarius.
-Individu yang lahir ketika matahari berada di tanda ini dikenal sebagai "individu Akuarius". Akuarius dianggap sebagai zodiak maskulin oleh astrolog kuno dan itu dijajah oleh planet Saturnus, tetapi planet Uranus dikatakan merupakan penjaga nyata Akuarius oleh sejumlah ahli astrologi modern. Nama Sanskerta bagi Akuarius dalam astrologi Hindu ialah Kuṃbha.
+11.Aquarius (January 20 - February 18)
+    Aquarius (♒) is the eleventh of the twelve signs of the astrological zodiac and it comes from the constellation of the same name, the constellation Aquarius.
+Individuals born when the sun is on this sign are known as "Aquarius individuals". Aquarius is considered the masculine zodiac sign by ancient astrologers and it was colonized by the planet Saturn, but the planet Uranus is said to be the real keeper of Aquarius by a number of modern astrologers. The Sanskrit name for Aquarius in Hindu astrology is Kuṃbha.
 
-12.Pisces (19 Februari – 20 Maret)
-    Pises (Ikan) adalah suatu zodiak rasi bintang berada antara Akuarius di sebelah barat dan Aries di sebelah timur. Pises merupakan lambang astrologi ke-12 dalam sebuah zodiak, yang berasal dari Konstelasi Pises. Dalam astrologi, Pises identik dengan lambang feminin atau negatif. Juga merupakan perlambangan air. Dalam zodiac dilambangkan dengan sepasang ikan yang berenang dengan arah berlawanan. Secara tradisional, Pises bertahta di Planet Jupiter, tetapi sejak penemuannya, Neptunus merupakan tahta modern dari lambang ini.
-Dalam Zodiak, individu yang memiliki bintang Pises, terlahir pada 19 Februari hingga 20 Maret, ketika Matahari ada pada bintang Pisces.
+12.Pisces (February 19 - March 20)
+    Pises (Fish) is a constellation zodiac sign between Aquarius on the west and Aries on the east. Pises is the 12th astrological symbol in the zodiac, which comes from the Constellation of Pises. In astrology, Pises is synonymous with feminine or negative symbols. Also a symbol of water. In the zodiac this is symbolized by a pair of fish swimming in opposite directions. Traditionally, Pises reigned on the Planet Jupiter, but since its discovery, Neptune has been the modern throne of this emblem.
+In the Zodiac, individuals who have the star Pises, are born on February 19 to March 20, when the Sun is on the star Pisces.
 
 
-「 *HANZ BOT* 」
+「 *Hinata BOT* 」
   `
 }
 exports.zod = zod
@@ -532,12 +609,12 @@ exports.zod = zod
 
 
 const bangsat = (name) => {
-  return`Hi kak ${pushname2}👋
-Ingin donwload apkmod?
+  return`Hi sis/bro ${pushname2}👋
+Want to download apkmod?
 
-Nih Hanz Kasih!!
+Here !!
 
-👾APLIKASI
+👾APPLICATION
 
 • Minecraft (Original)
 https://www.mediafire.com/file/4hixmktsfkhky91/Minecraft_v1.16.101.01_Terbaru.zip/file
@@ -584,7 +661,7 @@ https://www.mediafire.com/download/0y2bba69f6wakuh
 
 📦TEMPLATE
 
-• Template Mine Imator
+• Template Mine 
 http://www.mediafire.com/file/cxa8io0j0i3a0x4/Mine-Imator_%2528Template_Pika_Gamer%2529_Edited.zip/file
 
 • 50 Template Avee Player 1
@@ -688,32 +765,26 @@ https://realsht.mobi/hrTdE
 exports.bangsat = bangsat
 
 const made = (name) => {
-  return `───「 𝙃𝘼𝙉𝙕 𝘽𝙊𝙏」───
+  return `───「 𝙃INATA 𝘽𝙊𝙏」───
 
-ini adalah whatsapp robot, yang di program melalui komputer kami tidak bisa menjawab pertanyaan kalian karena whatsapp ini husus robot
-Jika ingin bertanya tanyakan admin bot ini
+this is a whatsapp robot, which is programmed through our computer, we cannot answer your questions because whatsapp is only a robot
+If you want to ask the admin of this bot
 
-Robot ini mengalami crash sedang di perbaiki, mungkin sering off karena gagal jaringan
+This robot is experiencing crashes being repaired, maybe often off due to network failures
 
-Reaired....
+Reaired ....
 
-Bipp.... Lihat status di bawah foto profil untuk melihat bahwa robot hidup atau mati 
-ADMIN BOT: 𝙃𝘼𝙉𝙕 𝘽𝙊𝙏
-wa.me/6281226770537
-
-       ║▌│█║▌│ █║▌│█│║▌║
-       ║▌│█║▌│ █║▌│█│║▌║
-
-          - 𝘊𝘰𝘶𝘯𝘵𝘳𝘺 𝘐𝘯 𝘐𝘯𝘥𝘰𝘯𝘦𝘴𝘪𝘢 -`
+Bipp .... Look at the status below the profile photo to see if the robot is on or off
+wa.me/919080896537 `
 }
 
 exports.made = made
 
 const profil = (pushname2, sender) => {
-  return`「 PROFIL 」
+  return`「 PROFILE 」
   
-  \`\`\`Nama :\`\`\` ${pushname2}
-  \`\`\`Nomor :\`\`\` wa.me/${sender.split("@")[0]}
+  \`\`\`Name :\`\`\` ${pushname2}
+  \`\`\`Number :\`\`\` wa.me/${sender.split("@")[0]}
   \`\`\`USER :\`\`\` Terdaftar✅
 
 `
@@ -723,52 +794,52 @@ exports.profil = profil
 const kontl = (pushname2, sender, getLevelingXp, getLevelingLevel) =>{
   return`「 LEVEL 」シ
   
-\`\`\`Nama :\`\`\` ${pushname2}
-\`\`\`Nomer :\`\`\` wa.me/${sender.split("@")[0]}
+\`\`\`Name :\`\`\` ${pushname2}
+\`\`\`Number :\`\`\` wa.me/${sender.split("@")[0]}
 \`\`\`XP :\`\`\` ${getLevelingXp(sender)}
 \`\`\`Level    : \`\`\` ${getLevelingLevel(sender)}
   
-𝗛𝗔𝗡𝗭 𝗕𝗢𝗧シ `
+𝗛INATA 𝗕𝗢𝗧シ `
 }
 exports.kontl = kontl
 
 const ping = (prefix) => {
-  return`Speed : _Kenceng tod kek bapak lu.._`
+  return`Speed : _well....._`
 }
 exports.ping = ping
 
 const hanz = (pushname2) => {
   return `╔════════════════════
-║ *About HANZ*
+║ *About HINATA V2 BOT*
 ╠════════════════════
-║├≽️⚜ *🔰AUTHOR🔰*: *Byy*
-║├≽️🛡️ *DESIGNER*: *HANZ*
-║├≽️🛡️ *Owner : Rapaa*
+║├≽️⚜ *🔰AUTHOR🔰*: *soul reaper*
+║├≽️🛡️ *DESIGNER*: *angel queen*
+║├≽️🛡️ *Owner : soul reaper*
 ╠════════════════════
 ╠════════════════════
 ║  HI ${pushname2}
 ╠════════════════════
-║╭──❉ *SOSMED ADMIN* ❉──
+║╭──❉ *ADMIN* ❉──
 ║│1. *Group WhatsApp*
-║│https://chat.whatsapp.com/GwGvfNDJ8pXIWHVzaFmaco
+║│https://chat.whatsapp.com/well.......
 ║│2. *Instagram <Follow>*
-║│ https://instagram.com/__zitsraa
-║│3. *Creator Hanz*
-║│  *wa.me/6281226770537*
+║│ https://instagram.com/well....
+║│3. *Creator*
+║│ *wa.me/919080896537*
 ║╰───────────
 ╠════════════════════
-║ *MADE BY HANZ*
+║ *MADE BY SOUL REAPERS*
 ╚════════════════════  `
 }
 exports.hanz = hanz
 // Limit
 const limitend = (pushname2) => {
-        return`*maaf ${pushname2} limit hari ini habis*\n*limit di reset setiap jam 12:00 WIB TENGAH MALAM*`
+        return`*Sorry ${pushname2} Today's limit expires*\n* limit is reset every 12:00 WIB MIDDLE NIGHT*`
 }
 
 const limitcount = (limitCounts) => {
         return`
-Limit Kamu: ${limitCounts}
+Your limit: ${limitCounts}
 `
 }
 
