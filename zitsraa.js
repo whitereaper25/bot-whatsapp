@@ -5386,7 +5386,7 @@ quoted: freply, caption: `How?`
 						Zitsraa.groupAdd(from, [num])
 					} catch (e) {
 						console.log('Error :', e)
-						reply('Failed to add target, maybe because it's private')
+						reply('Failed to add target, maybe because its private')
 					}
 					break
 			    case 'kick':
@@ -5421,7 +5421,7 @@ quoted: freply, caption: `How?`
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
-					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag target yang ingin di tendang!')
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag target to kick!')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					setTimeout( () => {
 					Zitsraa.sendMessage(from, 'Yok Sama" Al-fatihah', text)
@@ -5812,7 +5812,7 @@ case 'hinataprem':
 						if (isSimi) return reply('SIM mode is active')
 						samih.push(from)
 						fs.writeFileSync('./database/json/simi.json', JSON.stringify(samih))
-						reply(`\`\`\`Sukses mengaktifkan mode simi di group\`\`\` *${groupMetadata.subject}*`)
+						reply(`\`\`\`Sukses activated mode simi di group\`\`\` *${groupMetadata.subject}*`)
 					} else if ((args[0]) === 'off') {
 						samih.splice(from, 1)
 						fs.writeFileSync('./database/json/simi.json', JSON.stringify(samih))
