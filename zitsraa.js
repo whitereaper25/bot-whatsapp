@@ -6678,16 +6678,16 @@ case 'ytplay':
 	       if (isBanned) return reply(mess.only.benned)
 	       if (!isPremiun) return reply(mess.only.premiun)
 				if (!isUser) return reply(mess.only.userB)
-					if (args.length < 1) return reply('Urlnya mana gan?')
+					if (args.length < 1) return reply('Wheres the url, bro?')
 					if (!isUrl(args[0]) && !args[0].includes('c-ash.smule')) return reply(mess.error.Iv)
 					reply(mess.wait)
 					anu = await fetchJson(`https://mnazria.herokuapp.com/api/smule?link=${args[0]}`, {method: 'get'})
 					if (anu.error) return reply(anu.error)
-					teks = `*Title* : ${anu.title}\n\n Tunggu Sebentar 1 menit Mungkun Agak Lama Karna Mendownload Video`
+					teks = `*Title* : ${anu.title}\n\n Wait a minute 1 minute Might be a little long because of downloading videos`
 					thumb = await getBuffer(anu.thumb)
 					Zitsraa.sendMessage(from, thumb, image, {quoted: freply, caption: teks})
 					buffer = await getBuffer(anu.result)
-					Zitsraa.sendMessage(from, buffer, video, {mimetype: 'video/mp4', filename: `${anu.title}.mp4`, quoted: freply, caption: 'Nih Gan'})
+					Zitsraa.sendMessage(from, buffer, video, {mimetype: 'video/mp4', filename: `${anu.title}.mp4`, quoted: freply, caption: 'Here Bro'})
 					await limitAdd(sender) 	
 					break  
   case 'tovid':
@@ -6695,17 +6695,17 @@ Zitsraa.updatePresence(from,
   Presence.composing)
   
   if (!isPublic) return reply(mess.only.publikG)
-if (!isQuotedSticker) return reply('*☒* Reply stikernya')
+if (!isQuotedSticker) return reply('*☒* Reply the sticker')
 reply(mess.wait)
 anumedia = JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo
 anum = await Zitsraa.downloadAndSaveMediaMessage(anumedia)
 ran = getRandom('.webp')
 exec(`ffmpeg -i ${anum} ${ran}`, (err) => {
   fs.unlinkSync(anum)
-  if (err) return reply('Gagal, pada saat mengkonversi sticker ke Video')
+  if (err) return reply('Failed, when converting the sticker to Video')
   buffer = fs.readFileSync(ran)
   Zitsraa.sendMessage(from, buffer, video, {
-quoted: freply, caption: 'Buat apa sii..'
+quoted: freply, caption: 'Now pat me baka..'
   })
   fs.unlinkSync(ran)
 })
@@ -6713,10 +6713,10 @@ break
 case 'cekggprem':
 					if (isBanned) return reply(mess.only.benned)    
 					if (!isUser) return reply(mess.only.userB)
-					if (!isPrem) return reply('*(👉`>`) yaa haha... Wahyu* \n woy sob! Kata ilham, Harus Upgrade Ke Premium Dulu Ngab :/ \n\n\n*Caranya ketik : /owner* \nNah Kalau Udah, Chat Gih Owner Aku bilang "bang gw mau Upgrade ke vip" nah gitu! ngab :v\n\nSoalnya Fitur Ini Khusus User Premium, Gak Semua Fitur Gratis Ngab :v Harga Kouta Internet Mahal, Bot Aktif Juga Menggunakan Internet' ,text, { quoted: freply })
+					if (!isPrem) return reply('*(👉`>`) yaa haha... Revelation * \n woy friend! Inspirational words, you have to upgrade to premium first Ngab: / \n\n\n *How to type:/owner*\nWell, if so, Chat Gih Owner I said "bro, I want to upgrade to vip" thats it! Ngab:v\n\nBecause this feature is only for premium users, not all features are free Ngab:v Kouta Internet prices are expensive, active bots also use the internet' ,text, { quoted: freply })
 					me = Zitsraa.user
 					uptime = process.uptime()
-					Zitsraa.sendMessage(from,  `*──────────────────*\n*Nama bot:* *${me.name}*\n*─────────────────*\n『 *𝐕𝐈𝐏 𝐔𝐒𝐄𝐑*』\n*──────────────────*\n*•Nomor:* *${sender.split("@s.whatsapp.net")[0]}*\n*•Status:* *ACTIVE*\n*──────────────────*\n*Status Bot:* *${kyun(uptime)}*\n*──────────────────*` , text, { quoted: freply, })
+					Zitsraa.sendMessage(from,  `*──────────────────*\n*Name bot:* *${me.name}*\n*─────────────────*\n『 *𝐕𝐈𝐏 𝐔𝐒𝐄𝐑*』\n*──────────────────*\n*•Number:* *${sender.split("@s.whatsapp.net")[0]}*\n*•Status:* *ACTIVE*\n*──────────────────*\n*Status Bot:* *${kyun(uptime)}*\n*──────────────────*` , text, { quoted: freply, })
 					break
 
 
@@ -6733,7 +6733,7 @@ if (isBanned) return reply(mess.only.benned)
                  randIndex = Math.floor(Math.random() * jsonData.length);
                  randKey = jsonData[randIndex];
                  asupan = await getBuffer(randKey.result)
-                 Zitsraa.sendMessage(from, asupan, video, {quoted: freply, caption: '\`\`\`ASUPAN GAN:V\`\`\`'})
+                 Zitsraa.sendMessage(from, asupan, video, {quoted: freply, caption: '\`\`\`GAN INTAKE:V\`\`\`'})
 				await limitAdd(sender) 
 				break  
 				
@@ -6754,7 +6754,7 @@ case 'asupehhean':
 				
 				
 case 'ptll':
-						if (!isGroup) return reply(from, 'Perintah ini hanya bisa di gunakan dalam group!',)
+						if (!isGroup) return reply(from, 'This command can only be used within group!',)
 						const pptl = ["https://i.pinimg.com/564x/b2/84/55/b2845599d303a4f8fc4f7d2a576799fa.jpg","https://i.pinimg.com/236x/98/08/1c/98081c4dffde1c89c444db4dc1912d2d.jpg","https://i.pinimg.com/236x/a7/e2/fe/a7e2fee8b0abef9d9ecc8885557a4e91.jpg","https://i.pinimg.com/236x/ee/ae/76/eeae769648dfaa18cac66f1d0be8c160.jpg","https://i.pinimg.com/236x/b2/84/55/b2845599d303a4f8fc4f7d2a576799fa.jpg","https://i.pinimg.com/564x/78/7c/49/787c4924083a9424a900e8f1f4fdf05f.jpg","https://i.pinimg.com/236x/eb/05/dc/eb05dc1c306f69dd43b7cae7cbe03d27.jpg","https://i.pinimg.com/236x/d0/1b/40/d01b40691c68b84489f938b939a13871.jpg","https://i.pinimg.com/236x/31/f3/06/31f3065fa218856d7650e84b000d98ab.jpg","https://i.pinimg.com/236x/4a/e5/06/4ae5061a5c594d3fdf193544697ba081.jpg","https://i.pinimg.com/236x/56/45/dc/5645dc4a4a60ac5b2320ce63c8233d6a.jpg","https://i.pinimg.com/236x/7f/ad/82/7fad82eec0fa64a41728c9868a608e73.jpg","https://i.pinimg.com/236x/ce/f8/aa/cef8aa0c963170540a96406b6e54991c.jpg","https://i.pinimg.com/236x/77/02/34/77023447b040aef001b971e0defc73e3.jpg","https://i.pinimg.com/236x/4a/5c/38/4a5c38d39687f76004a097011ae44c7d.jpg","https://i.pinimg.com/236x/41/72/af/4172af2053e54ec6de5e221e884ab91b.jpg","https://i.pinimg.com/236x/26/63/ef/2663ef4d4ecfc935a6a2b51364f80c2b.jpg","https://i.pinimg.com/236x/2b/cb/48/2bcb487b6d398e8030814c7a6c5a641d.jpg","https://i.pinimg.com/236x/62/da/23/62da234d941080696428e6d4deec6d73.jpg","https://i.pinimg.com/236x/d4/f3/40/d4f340e614cc4f69bf9a31036e3d03c5.jpg","https://i.pinimg.com/236x/d4/97/dd/d497dd29ca202be46111f1d9e62ffa65.jpg","https://i.pinimg.com/564x/52/35/66/523566d43058e26bf23150ac064cfdaa.jpg","https://i.pinimg.com/236x/36/e5/27/36e52782f8d10e4f97ec4dbbc97b7e67.jpg","https://i.pinimg.com/236x/02/a0/33/02a033625cb51e0c878e6df2d8d00643.jpg","https://i.pinimg.com/236x/30/9b/04/309b04d4a498addc6e4dd9d9cdfa57a9.jpg","https://i.pinimg.com/236x/9e/1d/ef/9e1def3b7ce4084b7c64693f15b8bea9.jpg","https://i.pinimg.com/236x/e1/8f/a2/e18fa21af74c28e439f1eb4c60e5858a.jpg","https://i.pinimg.com/236x/22/d9/22/22d9220de8619001fe1b27a2211d477e.jpg","https://i.pinimg.com/236x/af/ac/4d/afac4d11679184f557d9294c2270552d.jpg","https://i.pinimg.com/564x/52/be/c9/52bec924b5bdc0d761cfb1160865b5a1.jpg","https://i.pinimg.com/236x/1a/5a/3c/1a5a3cffd0d936cd4969028668530a15.jpg"]
 						let pep = pptl[Math.floor(Math.random() * pptl.length)]
 					   Zitsraa.sendMessage(from, pptl,image,{caption: '*Nih*\n\n'+pep, quoted: freply })
@@ -6767,7 +6767,7 @@ case 'spank':
 					narutod = JSON.parse(JSON.stringify(anu));
 					tod =  naru[Math.floor(Math.random() * narutod.length)];
 					nyet = await getBuffer(to)
-					Zitsraa.sendMessage(from, nyet, image, { caption: '*Jangan lupa coli ya*', quoted: freply })
+					Zitsraa.sendMessage(from, nyet, image, { caption: '*horny baka*', quoted: freply })
 					await limitAdd(sender)
 					break
 				case 'wiki':
@@ -6840,7 +6840,7 @@ case 'spank':
 			reply(mess.wait)
 			surah = `${body.slice(12)}`
 			anu = await fetchJson(`https://api.zeks.xyz/api/quran?no=${surah}&apikey=${ZeksApi}`)
-			quran = `Surah Al-Qur\`an Nomer: *${surah}*\nSurah: *${anu.surah}*\nDiturunkan Dikota: *${anu.type}*\nJumlah Ayat: *${anu.jumlah_ayat}*\n\n*${anu.ket}\n=============================\n`
+			quran = `Surah Al-Qur\`an Number: *${surah}*\nSurah: *${anu.surah}*\nDiturunkan Dikota: *${anu.type}*\nJumlah Ayat: *${anu.jumlah_ayat}*\n\n*${anu.ket}\n=============================\n`
 			for (let surah of anu.ayat) {
 			quran += `${surah.number}\n${surah.text}\n${surah.translation_id}\n=====================\n`
 			}
@@ -6856,7 +6856,7 @@ case 'spank':
 			anu = await fetchJson(`https://api.vhtear.com/quranlist?&apikey=${VthearApi}`, {method: 'get'})
 			list = ''
 			for (let sur of anu){
-			list = `Nomer: ${sur.list}\n`
+			list = `Number: ${sur.list}\n`
 			}
 			reply(list.trim())
 			break
@@ -6907,14 +6907,14 @@ case 'spank':
 				if (!isUser) return reply(mess.only.userB)
 				  
                 	Zitsraa.updatePresence(from, Presence.composing) 
-					if (!isQuotedVideo) return reply('_*Reply Video nya Gan!*_')
+					if (!isQuotedVideo) return reply('_*Reply to the video, bro!*_')
 					reply(mess.wait)
 					encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					media = await Zitsraa.downloadAndSaveMediaMessage(encmedia)
 					ran = getRandom('.mp4')
 					exec(`ffmpeg -i ${media} ${ran}`, (err) => {
 						fs.unlinkSync(media)
-						if (err) return reply('Gagal, pada saat mengkonversi video ke mp3')
+						if (err) return reply('Failed when converting video to mp3')
 						bufferlkj = fs.readFileSync(ran)
 						Zitsraa.sendMessage(from, bufferlkj, audio, {mimetype: 'audio/mp4', quoted: freply})
 						fs.unlinkSync(ran)
@@ -6925,11 +6925,11 @@ case 'spank':
 				case 'setppbot':
 					if (!isOwner) return reply(mess.only.owner)
 				    Zitsraa.updatePresence(from, Presence.composing) 
-					if (!isQuotedImage) return reply(`Kirim gambar dengan caption ${prefix}setbotpp atau tag gambar yang sudah dikirim`)
+					if (!isQuotedImage) return reply(`Send the image with the caption ${prefix} setbotpp or the image tag already sent`)
 					enmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					media = await Zitsraa.downloadAndSaveMediaMessage(enmedia)
 					await Zitsraa.updateProfilePicture(botNumber, media)
-					reply('Makasih profil barunya🙂')
+					reply('Thanks for the new profile🙂')
 					break
 
 // Fitur Defacer
@@ -7042,8 +7042,8 @@ case 'pubg':
 				 if (isBanned) return reply(mess.only.benned)    
 				 if (isLimit(sender)) return reply(limitend(pushname2))
 				if (!isUser) return reply(mess.only.userB)
-					if (args.length < 1) return reply('Teksnya mana gan??')
-				 	if (args.length > 10) return reply('karakter minimal 10')
+					if (args.length < 1) return reply('Wheres the text, bro??')
+				 	if (args.length > 10) return reply('at least 10 characters')
 					cpubg = `${body.slice(7)}`
 					cpubg1 = cpubg.split("/")[0];
 					cpubg2 = cpubg.split("/")[1];
@@ -7059,8 +7059,8 @@ case 'pubg':
 				 if (isBanned) return reply(mess.only.benned)    
 				 if (isLimit(sender)) return reply(limitend(pushname2))
 				if (!isUser) return reply(mess.only.userB)
-					if (args.length < 1) return reply('Teksnya mana gan??')
-                     			if (args.length > 10) return reply('karakter minimal 10')
+					if (args.length < 1) return reply('Wheres the text, bro??')
+                     			if (args.length > 10) return reply('at least 10 characters')
 					cml = `${body.slice(5)}`
 					cml1 = cml.split("/")[0];
 					cml2 = cml.split("/")[1];
@@ -7114,7 +7114,7 @@ cot = `${body.slice(6)}`
 				if (isLimit(sender)) return reply(limitend(pushname2))
 					  hash = `${body.slice(16)}`
 					  anu = await fetchJson(`https://freerestapi.herokuapp.com/api/v1/hash-identifier?hash=${hash}`)
-					  hasilhash = `Tipe: *${anu.hash_type}*\nChar Tipe: *${anu.char_type}*`
+					  hasilhash = `Type: *${anu.hash_type}*\nChar Type: *${anu.char_type}*`
 					  Zitsraa.sendMessage(from, hasilhash, text, {quoted: freply})
 					  await limitAdd(sender)
 					  break 
@@ -7126,7 +7126,7 @@ cot = `${body.slice(6)}`
 				    huu = body.slice(10)
 						bucinrandom.push(huu)
 						fs.writeFileSync('./database/json/bucin.json', JSON.stringify(bucinrandom))
-						reply(`Sukses, Kata \n*${huu}*\n Telah Ditambahkan ke database`)
+						reply(`Success, Word \n*${huu}*\n Has been Added to database`)
 						break
                     case 'bucin':
                     case 'quotebucin':
@@ -7147,18 +7147,18 @@ ppimg = 'https://i.ibb.co/Sr8hC0g/3d10fba6bf39.jpg'
 				if (isLimit(sender)) return reply(limitend(pushname2))
 			data = await fetchJson(`https://tobz-api.herokuapp.com/api/moddroid?q=${body.slice(10)}&apikey=${TobzApi}`)
 			hepi = data.result[0] 
-			teks = `*Nama*: ${data.result[0].title}\n*publisher*: ${hepi.publisher}\n*mod info:* ${hepi.mod_info}\n*size*: ${hepi.size}\n*latest version*: ${hepi.latest_version}\n*genre*: ${hepi.genre}\n*link:* ${hepi.link}\n*download*: ${hepi.download}`
+			teks = `*Name*: ${data.result[0].title}\n*publisher*: ${hepi.publisher}\n*mod info:* ${hepi.mod_info}\n*size*: ${hepi.size}\n*latest version*: ${hepi.latest_version}\n*genre*: ${hepi.genre}\n*link:* ${hepi.link}\n*download*: ${hepi.download}`
 			buffer = await getBuffer(hepi.image)
 			Zitsraa.sendMessage(from, buffer, image, {quoted: freply, caption: `${teks}`})
 			await limitAdd(sender)
 			break
 			
 case 'simi':
-					if (args.length < 1) return reply('Textnya mana um?')
+					if (args.length < 1) return reply('Wheres the text, um?')
 					teks = body.slice(5)
 					anu = await simih(teks) 
 					fetchJson(`https://tobz-api.herokuapp.com/api/simsimi?text=${teks}&apikey=BotWeA`, {method: 'get'})
-					if (anu.error) return reply('Simi ga tau kak')
+					if (anu.error) return reply('Simi dont know sis')
 					reply(anu)
 					break
 			
@@ -7172,7 +7172,7 @@ case 'nangis':
 					ranp = getRandom('.gif')
 					rano = getRandom('.webp')
 					anu = await fetchJson(`https://tobz-api.herokuapp.com/api/cry?apikey=${TobzApi}`, {method: 'get'})
-					reply('「❗」KASIH JEDA 1 MENIT HABIS INI YA KAK')
+					reply('「❗」LOVE Pause 1 MINUTE OUT OF THIS  BROTHER')
 					if (anu.error) return reply(anu.error)
 					exec(`wget ${anu.result} -O ${ranp} && ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=15 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${rano}`, (err) => {
 					fs.unlinkSync(ranp)
@@ -7191,7 +7191,7 @@ case 'nangis':
 				if (isLimit(sender)) return reply(limitend(pushname2))
 			data = await fetchJson(`https://tobz-api.herokuapp.com/api/happymod?q=${body.slice(10)}&apikey=${TobzApi}`)
 			hupo = data.result[0] 
-			teks = `*Nama*: ${data.result[0].title}\n*version*: ${hupo.version}\n*size:* ${hupo.size}\n*root*: ${hupo.root}\n*purchase*: ${hupo.price}\n*link*: ${hupo.link}\n*download*: ${hupo.download}`
+			teks = `*Name*: ${data.result[0].title}\n*version*: ${hupo.version}\n*size:* ${hupo.size}\n*root*: ${hupo.root}\n*purchase*: ${hupo.price}\n*link*: ${hupo.link}\n*download*: ${hupo.download}`
 			buffer = await getBuffer(hupo.image)
 			Zitsraa.sendMessage(from, buffer, image, {quoted: freply, caption: `${teks}`})
 			await limitAdd(sender)
@@ -7200,7 +7200,7 @@ case 'nangis':
 				
 
 					if (body.startsWith(`${prefix}${command}`)) {
-                  reply(`Maaf Kak ${pushname2}...\nCommand *${prefix}${command}* Tidak Terdaftar Di Dalam Database *${prefix}menu*`)
+                  reply(`Sorry Sis ${pushname2}...\nCommand *${prefix}${command}*Not Registered In The Database*${prefix}menu*`)
                   }
 					if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
@@ -7208,7 +7208,7 @@ case 'nangis':
 						console.log(muehe)
 						reply(muehe)
 					} else {
-						console.log(color('[HANZ BOT]','aqua'), 'Command ini Hanya Chat!', color(sender.split('@')[0]))
+						console.log(color('[HINA BOT]','aqua'), 'Command ini Hanya Chat!', color(sender.split('@')[0]))
 					}
                            }
 		} catch (e) {
