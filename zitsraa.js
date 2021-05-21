@@ -2592,8 +2592,8 @@ case 'phcoment':
                 if (isLimit(sender)) return reply(limitend(pushname2))
                 if (isBanned) return reply(mess.only.benned)
                 babio = `${body.slice(10)}`
-                     if (args.length < 1) return reply('Teksnya mana gan??')
-                     if (args.length > 10) return reply('karakter minimal 10')
+                     if (args.length < 1) return reply('Wheres the text, bro??')
+                     if (args.length > 10) return reply('at least 10 characters')
                      buff = await getBuffer(`https://api.zeks.xyz/api/phub?apikey=apivinz&img=https://1.bp.blogspot.com/-x8KhcOBG-yw/XiU4pi1yWVI/AAAAAAAADBA/gK8tsLyc1lQ808A348IKzDCjf6fUBKONwCLcBGAsYHQ/s1600/cara%2Bbuat%2Bfoto%2Bprofil%2Bdi%2Bwhatsapp%2Bmenjadi%2Bunik.jpg&username=${pushname2}&msg=${babio}
 				`, {method: 'get'})
                      Zitsraa.sendMessage(from, buff, image, {quoted: freply, caption: `PornHub Comment ${babio}`})
@@ -2818,7 +2818,7 @@ case 'wetglass':
                 case 'freefire':
                     if (!isUser) return reply(mess.only.userB)
                     
-                    if (args.length == 0) return reply('Teksnya manWhere's the text, uma um')
+                    if (args.length == 0) return reply('Wheres the text, uma um')
                     reply(mess.wait)
                     txt = args.join(" ")
                     buffer = await getBuffer(`http://api.lolhuman.xyz/api/ephoto1/${command}?apikey=${LolKey}&text=${txt}`)
