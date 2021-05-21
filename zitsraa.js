@@ -792,7 +792,7 @@ case 'blackpink':
 					} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 					}
-					captionnya = `◪ 𝗣𝗘𝗡𝗗𝗔𝗙𝗧𝗔𝗥
+					captionnya = `◪ REGISTER
 
  +  ❏   *DATA Register*
 
@@ -1694,7 +1694,7 @@ case 'donate':
                         if (lmt.id === sender) {
                             let limitCounts = limitt - lmt.limit
                             if (limitCounts <= 0) return reply(from,`Limit anda habis`)
-                            await reply(`*LIMIT ANDA TINGGAL: ${limitt}*`)
+                            await reply(`*LIMIT YOU TO STAY: ${limitt}*`)
                             found = true
                         }
                     }
@@ -1770,7 +1770,7 @@ case 'donate':
 								console.log(`Error : ${err}`)
 								fs.unlinkSync(media)
 								tipe = media.endsWith('.mp4') ? 'video' : 'gif'
-								reply(`\`\`\`Failed, at the time of converting ${tipe} to the sticker\`\`\``)
+								reply(`\`\`\`Failed, at the time of converting ${tipe} to the sticker\`\`\`)
 							})
 							.on('end', function () {
 								console.log('Finish')
@@ -1803,11 +1803,11 @@ case 'donate':
 							})
 						})
 					} else {
-						reply(`Send the image with the caption ${prefix} sticker or the image tag that has been sent`)
+						reply(`Send the image with the caption ${prefix}sticker or the image tag that has been sent`)
 					}
 					await limitAdd(sender) 
 					break
-					case 'triggered':
+case 'triggered':
                     ini_url = args[0]
                     ranp = getRandom('.gif')
                     rano = getRandom('.webp')
@@ -2241,7 +2241,7 @@ case 'kaguya':
 					break
 case 'ostickertag':
   if (!isOwner) return('your not my owner to order')
-                                        if (!isQuotedSticker) return reply('Ini sticker?')
+                                        if (!isQuotedSticker) return reply('where is the sticker?')
                                         boij = JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo
                                         delb = await Zitsraa.downloadMediaMessage(boij)
                                         await fs.writeFileSync(`stctagg.webp`, delb)
@@ -2282,7 +2282,7 @@ if (!isGroup) return reply(mess.only.group)
                       const one = 100000
                       addLevelingXp(sender, one)
                       addLevelingLevel(sender, 99)
-                      reply(`because you are the owner .. \ nZitsraa sent ${one} Xp to you`)
+                      reply(`because you are the owner .. \nZitsraa sent ${one} Xp to you`)
                       }else{
                       const mining = Math.ceil(Math.random() * 10000)
                       addLevelingXp(sender, mining)
@@ -2352,15 +2352,15 @@ case 'slot':
 
 
 case 'join':
-					if (args.length == 0) return reply(from, `maaf ,bot ini hanya bisa dimasukkan ke grup `, text)
+					if (args.length == 0) return reply(from, `sorry, this bot can only be assigned to groups `, text)
 					let linkgrup = `${body.slice(6)}`
 					let islink = linkgrup.match(/(https:\/\/chat.whatsapp.com)/gi)
 					let chekgrup = await Zitsraa.inviteInfo(linkgrup)
-					if (!islink) return reply(from, 'Maaf link group-nya salah! ', id)
+					if (!islink) return reply(from, 'Sorry the group link is wrong! ', id)
 					if (isOwnerBot) {
 					  await Zitsraa.joinGroupViaLink(linkgrup)
 					    .then(async () => {
-					      Zitsraa.sendMessage(from, 'Berhasil join grup via link!', text)
+					      Zitsraa.sendMessage(from, 'Successfully joined the group via link!', text)
 					    })
 					} else {
 					  let cgrup = await Zitsraa.s()
@@ -2368,10 +2368,10 @@ case 'join':
 					  if (cgrup.size < memberLimit) return Zitsraa.reply(from, `Sorry, Bot will not join if the group members do not exceed ${memberLimit} people`, id)
 					  await Zitsraa.joinGroupViaLink(linkgrup)
 					    .then(async () => {
-					      reply('Berhasil join grup via link!')
+					      reply('Successfully joined the group via link!')
 					    })
 					    .catch(() => {
-					      reply('Gagal!')
+					      reply('Failed!')
 					    })
 					}
 					break
@@ -2426,7 +2426,7 @@ case 'grouplist':
 				if (!isUser) return reply(mess.only.userB)
 				  
 					cantik = body.slice(11)
-					if (args.length < 1) return reply('Yg Mau dicek Siapa Kak??')
+					if (args.length < 1) return reply('Who do you want to check who Sis??')
 					const can =['10% lots of "care ya sis: v \ n <',' 60% Hi Beautiful🐊 ',' 70% Hi Sister🐊 ',' 62% Big Brother> <',' 74% You are beautiful> <',' 83% Love You Sis> <',' 97% Assalamualaikum Ukhty🐊 ',' 100% you use implants ??: v ',' 29% your spirit :) ',' 94% Hi, Beautiful> <',' 75% Hi, beautiful sister ',' 82% Brother Must Often Care Right ?? ',' 41% Enthusiastic :) ',' 39% More Enthusiastic🐊']
 					const tik = can[Math.floor(Math.random() * can.length)]
 					Zitsraa.sendMessage(from, 'Question: Beautiful Check Brother *'+cantik+'*\n\nPercent Beauty : '+ tik +'', text, { quoted: freply })
@@ -2517,7 +2517,7 @@ case 'metalteks':
 						exec(`ffmpeg -i ${ranm} -ar 48000 -vn -c:a libopus ${rano}`, (err) => {
 							fs.unlinkSync(ranm)
 							buff = fs.readFileSync(rano)
-							if (err) return reply('Gagal gan:(')
+							if (err) return reply('Failed, bro:(')
 							reply(mess.wait)
 							Zitsraa.sendMessage(from, buff, audio, {quoted: freply, ptt:true})
 							fs.unlinkSync(rano)
@@ -2761,7 +2761,7 @@ case 'glow':
 				    anu = await fetchJson(`http://lolhuman.herokuapp.com/api/translate/auto/${kode}?apikey=${LolKey}&text=${teks}`)
 				ytt = `「 *Translate* 」
 					
-*Kode:* ${anu.result.to}
+*Code:* ${anu.result.to}
 *Text Ori:* ${anu.result.original}
 *To ${kode}:* ${anu.result.traslated}`
 			
@@ -3112,7 +3112,7 @@ case 'aesthetic1':
 				if (!isUser) return reply(mess.only.userB)
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
-					if (args.length < 1) return reply('Urlnya mana gan?')
+					if (args.length < 1) return reply('Wheres the url, bro?')
 					teks = `${body.slice(7)}`
 					reply(mess.wait)
 					anu = await fetchJson(`http://lolhuman.herokuapp.com/api/sswebfull?apikey=${LolKey}&url=${teks}`)
@@ -3184,7 +3184,7 @@ case 'chika':
                 limitAdd(serial)
             })
             .catch(() => {
-                Zitsraa.reply(from, 'Ada yang Error!', id)
+                Zitsraa.reply(from, 'There is an Error!', id)
             })
             break
 					
@@ -3248,7 +3248,7 @@ case 'snowwrite':
 					var gh = body.slice(11)
 					var gbl7 = gh.split("|")[0];
 					var gbl8 = gh.split("|")[1];
-					if (args.length < 1) return reply(`Kirim perintah ${prefix}snowwrite teks1|teks2, contoh ${prefix}snowwrite aqulzz|galuh`)
+					if (args.length < 1) return reply(`Send orders ${prefix}snowwrite teks1|teks2, contoh ${prefix}snowwrite aqulzz|galuh`)
                                         
 					reply(mess.wait)
 					anu = await fetchJson(`https://zeksapi.herokuapp.com/api/snowwrite?text1=${gbl7}&text2=${gbl8}&apikey=${ZeksApi}`, {method: 'get'})
@@ -3678,7 +3678,7 @@ case 'ceritahoror':
                    if (anu.error) return reply(anu.error)
                 //   sex = await getBuffer(anu.result.thumbnail)
                    reply (mess.wait)
-                   ceritah = `• *Judul:* ${anu.result.title}\n\n${anu.result.desc}`
+                   ceritah = `• *title:* ${anu.result.title}\n\n${anu.result.desc}`
                    Zitsraa.sendMessage(from, ceritah,text,{quoted: mek})
                    await limitAdd(sender) 
                    break 
@@ -3696,7 +3696,7 @@ case 'ceritahoror':
                    if (anu.error) return reply(anu.error)
                    sex = await getBuffer(anu.result.img)
                    reply (mess.wait)
-                   cerita = `• *Judul:* ${anu.result.judul}\n\n${anu.result.cersex}`
+                   cerita = `• *title:* ${anu.result.judul}\n\n${anu.result.cersex}`
                    Zitsraa.sendMessage(from, sex, image, {quoted: freply, caption: cerita})
                    await limitAdd(sender) 
                    break 
@@ -3736,7 +3736,7 @@ case 'ceritahoror':
 			     
 			   if (isLimit(sender)) return reply(limitend(pushname2))
 			   reply(mess.wait)
-              	    if (args.length < 1) return reply('teksnya mana gan?')
+              	    if (args.length < 1) return reply('where is the text?')
                     teks = body.slice(9)
                     anu = await fetchJson(`https://api.arugaz.my.id/api/media/pornhub/search?query=${teks}`, {method: 'get'})
                     teks = `===============\n`
@@ -3830,7 +3830,7 @@ case 'listprem':
 				    hai = body.slice(10)
 						sayrandom.splice(hai)
 						fs.writeFileSync('./src/say.json', JSON.stringify(sayrandom))
-						reply(`Sukses, database say telah direset`)
+						reply(`Success, say database has been reset`)
 						break
                     case 'say':
                     if (isBanned) return reply(mess.only.benned)    
@@ -3846,7 +3846,7 @@ case 'listprem':
 			     
 			   if (isLimit(sender)) return reply(limitend(pushname2))
 			   reply(mess.wait)
-              	    if (args.length < 1) return reply('teksnya mana gan?')
+              	    if (args.length < 1) return reply('where is the text?')
                     anu = await fetchJson(`https://api.arugaz.my.id/api/media/xvideo/search?query=${body.slice(9)}`, {method: 'get'})
                     teks = `===============\n`
                     for (let b of anu.result) {
@@ -3865,7 +3865,7 @@ case 'apkmod':
 					reply(anu.result)
 					break
 					case 'okisstag':
-		if (!isOwner) return reply('Kamu siapa?')
+		if (!isOwner) return reply('your not my owner?')
 					members_id = []
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
@@ -3914,7 +3914,7 @@ case 'kisstag':
 					var ani = gh.split("|")[1];
 					jm = `${anu}000`
 					 Zitsraa.sendMessage(from, `*「 𝗥𝗲𝗺𝗶𝗻𝗱𝗲𝗿 」*
-Reminder Aktif!!
+Reminder Active!!
 
     ◪  * Message: * ${ani}
     ◪ * For: * ${anu} Beloved> _ <
@@ -4175,7 +4175,7 @@ case 'shoope':
 					anu = await fetchJson(`https://api.zeks.xyz/api/shopee?apikey=apivinz&q=${query}`, {method: 'get'})
 					teks = '=================\n'
 					for (let i of anu.data) {
-						teks += `*Nama* : ${i.name}
+						teks += `*Name* : ${i.name}
 *Price* :${i.harga}
 *Sold* : ${i.terjual}
 *Location* : ${i.location}
@@ -4239,7 +4239,7 @@ linktod = args[0]
 				if (!isUser) return reply(mess.only.userB)
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
-				if (args.length < 1) return reply('Mau Cari Film Apa?')
+				if (args.length < 1) return reply('What Movie Want to Find?')
 				reply(mess.wait)
 				anu = await fetchJson(`http://lolhuman.herokuapp.com/api/filmapik?apikey=${LolKey}&query=${body.slice(6)}`, {method: 'get'})
 				hasil = '=========================\n'
@@ -4490,14 +4490,14 @@ const kantong = checkATMuser(sender)
                 const jumblah = q.substring(q.lastIndexOf('|') + 1)
                 if(isNaN(jumblah)) return await reply('the amount must be a number!!')
                 if (jumblah < 100 ) return reply(`minimal transfer 100`)
-                if (checkATMuser(sender) < jumblah) return reply(`You don't have enough money to make the transfer`)
+                if (checkATMuser(sender) < jumblah) return reply(`You dont have enough money to make the transfer`)
                 const tujuantf = `${tujuan.replace("@", '')}@s.whatsapp.net`
                 fee = 0.005 *  jumblah
                 hasiltf = jumblah - fee
                 addKoinUser(tujuantf, hasiltf)
                 confirmATM(sender, jumblah)
                 addKoinUser('919080896537@s.whatsapp.net', fee)
-                reply(`*「 SUCCESS 」*\n\nmoney transfer has been successful \nfrom : +${sender.split("@")[0]}\nTO : +${tujuan}\ntransfer : ${jumblah}\npajak : ${fee}`)
+                reply(`*「 SUCCESS 」*\n\nmoney transfer has been successful \nfrom : +${sender.split("@")[0]}\nTO : +${tujuan}\ntransfer : ${jumblah}\ntax : ${fee}`)
                 break
 					
 					 
@@ -4894,7 +4894,7 @@ case 'igstalk1':
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
 					anu = await fetchJson(`https://api.arugaz.my.id/api/random/text/katabijak`, {method: 'get'})
-					katabijak = `Kata Bijak: *${anu.result}*`
+					katabijak = `Words of wisdom: *${anu.result}*`
 					Zitsraa.sendMessage(from, katabijak, text, {quoted: freply})
 					await limitAdd(sender) 
 					break 
@@ -5003,7 +5003,7 @@ case 'cecsbsan':
 				rate = body.slice(8)
 				persenbucin = ["4%\n\nHadehh🤦 "," 9% \n\nStill Small Bucin Ae "," 17% \n\nNo Still Small "," 28% \n\n % \n\nGor "," 59% \n\nBustom Kang Bucin "," 62% \n\n Hadehhh🏃 "," 74% \n\n bucen Teroosss "," 83% \n\n bucin Gitu "," 97% \n\nHadehh Pakboi² "," 100% \n\n", "75% \n\nGoodness"]
 				const pbucin = persenbucin[Math.floor(Math.random() * persenbucin.length)]
-				Zitsraa.sendMessage(from, 'Persen Bucin Kak: *'+rate+'*\n\nJawaban : '+ pbucin +'', text, { quoted: freply })
+				Zitsraa.sendMessage(from, 'Percent Bucin Sis: *'+rate+'*\n\nAnswer : '+ pbucin +'', text, { quoted: freply })
 				await limitAdd(sender) 
 				break 
 		    case 'map':
@@ -5024,7 +5024,7 @@ case 'cecsbsan':
 				if (isLimit(sender)) return reply(limitend(pushname2))
 					tipelist = ['desktop','tablet','mobile']
 					if (args.length < 1) return reply('What type, bro?')
-					if (!tipelist.includes(args[0])) return reply('Tipe desktop|tablet|mobile')
+					if (!tipelist.includes(args[0])) return reply('Type desktop|tablet|mobile')
 					if (args.length < 2) return reply('Wheres the url, bro?')
 					if (!isUrl(args[1])) return reply(mess.error.Iv)
 					reply(mess.wait)
@@ -5238,7 +5238,7 @@ Zitsraa.updatePresence(from, Presence.composing)
 	           })
                   break 
 				case 'bc':
-					if (!isOwner) return reply('Kamu siapa?')
+					if (!isOwner) return reply('your not my lord to order?')
 					if (args.length < 1) return reply('.......')
 					anu = await Zitsraa.chats.all()
 					if (isMedia && !mek.message.videoMessage || isQuotedImage) {
@@ -5485,7 +5485,7 @@ quoted: freply, caption: `How?`
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins && !isOwner) return reply(mess.only.admin)
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
-					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Tag target yang ingin di jadi admin!')
+					if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('The target tag that you want to be an admin!')
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
 						teks = 'Orders received, you become admin :\n'
@@ -5540,7 +5540,7 @@ case 'getstik':
 				audionye.push(`${svst}`)
 				fs.writeFileSync(`./temp/audio/${svst}.mp3`, delb)
 				fs.writeFileSync('./temp/vn.json', JSON.stringify(audionye))
-				Zitsraa.sendMessage(from, `Sukses Menambahkan Audio\nCek dengan cara ${prefix}listvn`, MessageType.text, { quoted: freply })
+				Zitsraa.sendMessage(from, `Successfully Adding Audio \nCheck in a way ${prefix}listvn`, MessageType.text, { quoted: freply })
 				break
 case 'getvn':
 				namastc = body.slice(7)
@@ -5869,7 +5869,7 @@ case 'leveling':
 					if (!isGroupAdmins) return reply(mess.only.admin)
                 if (args.length < 1) return reply('Enable = aktif\nDisable = nonaktif')
                 if (args[0] === 'enable') {
-                    if (isLevelingOn) return reply('*fitur level sudah aktif sebelum nya*')
+                    if (isLevelingOn) return reply('*the level feature has been active before*')
                     _leveling.push(from)
                     fs.writeFileSync('./database/json/leveling.json', JSON.stringify(_leveling))
                      reply('Success activates the level feature')
@@ -5912,7 +5912,7 @@ case 'leveling':
 						fs.writeFileSync('./database/json/antilink.json', JSON.stringify(antilink))
 						reply(`\`\`\`✓Successfully activated the anti link feature in the group\`\`\` *${groupMetadata.subject}*`)
 					} else if ((args[0]) === 'off') {
-						if (!isAntiLink) return reply('anti link sudah off')
+						if (!isAntiLink) return reply('anti link off')
 						antilink.splice(from, 1)
 						fs.writeFileSync('./database/json/antilink.json', JSON.stringify(antilink))
 						reply(`\`\`\`✓Successfully deactivating the anti link feature in the group\`\`\` *${groupMetadata.subject}*`)
@@ -6391,7 +6391,7 @@ mimetype: 'audio/mp3', filename: `${data.result.title}.mp3`, quoted: freply
 			if (isBanned) return reply(mess.only.benned)    
 				if (!isUser) return reply(mess.only.userB)
 				if (!isPremiun) return reply(mess.only.premiun)
-				if (args.length < 1) return reply('Urlnya mana gan?')
+				if (args.length < 1) return reply('Wheres the url, bro?')
 					if (!isUrl(args[0]) && !args[0].includes('sck')) return reply(mess.error.Iv)
                 anu = await fetchJson(`https://api-anoncybfakeplayer.herokuapp.com/sckdown?url=${args[0]}`, {method: 'get'})
                if (anu.error) return reply(anu.error)
@@ -6577,7 +6577,7 @@ case 'joox2':
   if (!isPublic) return reply(mess.only.publikG)
   if (!isPremiun) return reply(mess.only.premiun)
 				if (!isUser) return reply(mess.only.userB)
-  if (args.length < 1) return reply('Masukan judul lagu')
+  if (args.length < 1) return reply('Enter a song title')
   tels = body.slice(6)
   try {
   data = await fetchJson(`https://tobz-api.herokuapp.com/api/joox?q=${tels}&apikey=BotWeA`, {
@@ -6820,7 +6820,7 @@ case 'spank':
 				if (!isUser) return reply(mess.only.userB)
 				  
 				if (isLimit(sender)) return reply(limitend(pushname2))
-                    if (args.length < 1) return reply('teks nya mana om?')
+                    if (args.length < 1) return reply('where is the text baka?')
                     reply(mess.wait)
                    wiki = `${body.slice(6)}`
                     anu = await fetchJson(`https://tobz-api.herokuapp.com/api/wiki?q=${wiki}&apikey=${TobzApi}`, {method: 'get'})
@@ -7114,7 +7114,7 @@ case 'pubg':
 					break  
 					case 'gta':
 				
-              	   			 if (args.length < 1) return reply(`Contoh ${prefix}gta hanz|ganz`)
+              	   			 if (args.length < 1) return reply(`type ${prefix}gta hanz|ganz`)
                     			hm = `${body.slice(5)}`
                     			text1 = hm.split("|")[0];
                     			text2 = hm.split("|")[1];                    
